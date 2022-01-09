@@ -1,0 +1,1025 @@
+---
+title: Ajeeb Goa
+---
+
+### Chapter 1
+# AJEEB GOA
+
+*Ajeeb hai yeh Goa-ke log*  
+(Strange are the people of Goa).
+
+This quote is often attributed to the first Prime Minister of India,
+Pandit Jawaharlal Nehru. But it was not a statement he had made on any
+public platform. Chandrakant Keni, the former editor of the Rashtramat
+daily and one of the leading writers of Goa in the Konkani movement,
+is on record claiming that Nehru made this remark in a personal
+conversation when he met him in Delhi soon after Goa’s liberation in
+1961. The observation was in the context of the proposed merger and
+Goa’s languages. At that point of time, when several regions in India
+were demanding the formation of separate smaller states on linguistic
+grounds, a large chunk of Goans were demanding that tiny Goa be merged
+into the much bigger neighbouring state of Maharashtra.
+
+Their argument was that the Marathi language of Maharashtra was their
+mother tongue and that the Konkani that they spoke was its
+dialect. The large populace of the Hindu Bahujan Samaj, who had never
+studied Marathi, claimed that Marathi was their mother tongue, despite
+not being able to speak, read, or write in this language
+fluently. They could only understand it to the extent of singing
+prayers or bhajans and watching Marathi dramas. Many illiterate Goans
+even performed dramas in “not-so-pure” Marathi.
+
+
+Contrary to this, quite a sizeable number of Hindus (especially from
+the wealthy upper caste Brahmin community), who had studied in the
+Marathi medium and were fluent in it, claimed that Konkani was their
+mother tongue. It was this section that eventually played a crucial
+role in convincing the Hindu community of how the merger would be
+suicidal for Goa. And yet there was a strange double-speak within the
+Brahmins. There was one place where no non-Brahmin community, which
+claimed that Marathi was their mother tongue, could interfere. Goa’s
+major temples were, and still are, controlled by the Brahmins. But
+till date, these temples display Marathi boards: पादत्राणे बाहेर ठेवावीत,
+कृपया शांतता पाळा (Keep your footwear outside, Silence please) etc. Even
+the minutes of their meetings are largely written in Marathi or, in
+recent years, in English, but not in Konkani.
+
+And what about the Christians, who amounted to 38 per cent of Goa’s
+population in the 1960s? The proposed merger was a real threat to
+their existence. They were not at all familiar with Marathi. Secondly,
+if Goa had merged, they would have been lost in the ocean of
+Hindu-dominated Maharashtra as a negligible non-entity of barely two
+per cent.
+
+## No To Merger, Yes To Maharashtrawadi
+
+The issue of Goa’s merger originated in 1940, much before the state of
+Maharashtra was created, Goa was liberated, and even before India
+attained independence. Yet, see what the majority of Goans stated when
+it came to spelling out their mother tongue at the Census conducted in
+1961:
+
+**MOTHER TONGUE: 1961 CENSUS**
+
+
+| Mother Tongue | Population | Per cent |
+|---------------|------------|----------|
+| Konkani       | 556297     | 94%      |
+| Marathi       | 11630      | 1.97%    |
+
+
+*Source: Census of India 1961: Goa, Daman and Diu*
+
+So what was it then? A socio-cultural issue or a purely political
+matter? For soon after liberation, this sentiment got translated into
+a political reality. In the run up to the first ever Assembly election
+held in 1963, the Maharashtrawadi Gomantak Party (MGP) was founded,
+with the aim of merging Goa into Maharashtra. To everyone’s surprise,
+the party came to power by winning a majority of the seats. The
+‘anti-merger Konkani camp’, led by the United Goans Party (UGP), was
+pushed to the Opposition benches. And the Congress, which had been
+day-dreaming of ruling Goa, but had not taken a firm stand on the
+language and merger issue, got completely wiped out in the first
+election.
+
+Does this mean that the majority of Goans supported Goa’s merger into
+Maharashtra? Well, the MGP leaders from Goa, the Maharashtrian leaders
+belonging to the Congress, as well as the Socialists claimed it was a
+mandate in favour of the merger.  Prime Minister Jawaharlal Nehru
+refused to buy this argument.  Later, in 1967, the Opinion Poll was
+held to decide the issue of the merger. It stands today as the only
+referendum ever held in the Indian Republic. The first Assembly was
+dissolved midway.  So no elected government existed at the time of the
+Poll. The Opinion Poll was a unique ‘election’. There was no party and
+no candidate. Just two symbols: Flower for merger and Two Leaves for
+anti-merger (officially, for Union Territory). What was the result?
+The same electorate, within three years of voting for the pro-merger
+MGP, voted against the merger.
+
+Till then the MGP had been ruling the state with 16 seats, and the UGP
+had 12. But in the Opinion Poll, 16 constituencies voted against the
+merger while only 12 voted for the merger.  Exactly the opposite! And
+the Flower polled fewer votes in 10 MGP bastions than what the
+pro-merger party had polled in the first Assembly poll. Contrary to
+this, Two Leaves polled more votes in all the 28 constituencies as
+compared to what the UGP had polled in the Assembly poll. This was
+simply amazing!
+
+Even more amazing was the result of the Assembly election held within
+a month of the Opinion Poll. After keeping Goa separate, the same
+*Ajeeb* voter once again elected the pro-merger MGP back to power with a
+clear majority. The chief proponent of the merger, Bhausaheb Bandodkar
+(as the first Chief Minister of Goa Dayanand Balkrishna Bandodkar was
+popularly called), was back in the saddle. And Dr Jack de Sequeira,
+considered the Father of the Opinion Poll, was back on the opposition
+benches!
+
+The issue of the merger was resolved. Bandodkar’s MGP even supported a
+private resolution in the Assembly, demanding Statehood for Goa. But
+the language controversy continued to rage on. Twenty years later in
+1986 Goa witnessed the most violent agitation after its Liberation,
+which lasted for 555 days.  The controversy was over the demand to
+also make Marathi the Official Language of Goa along with Konkani. The
+argument was the same. Marathi is the language and Konkani is its
+dialect.
+
+By that time, many bigwigs from the MGP and UGP had joined the
+Congress. The national party was in power but was strongly divided
+over the Official Language issue. The people’s agitation also
+polarised the political forces based on Konkani and
+Marathi. Shashikala Kakodkar’s Bhausaheb Bandodkar Gomantak Party
+(BBGP) staged a homecoming and joined the MGP. Dr Wilfred de Souza’s
+rebel group of Goa Congress got merged into the Congress. Chief
+Minister Pratapsingh Rane was leading the group supporting the cause
+of Marathi. When there was no option but to resolve the issue
+amicably, the Congress high command played with words in the Official
+Language Act.  “Konkani was made the official language and Marathi was
+also allowed to be used for official purposes.”
+
+In reality, English continues to dominate as the official
+language. Yet, strangely, the Konkani-Marathi language controversy
+still hounds Goan politics even today, after 60 years!  The major
+switch however was on the election front. Since Goa now had its own
+official language, on 30 May 1987, Goa was unanimously granted
+Statehood by the Parliament. The number of Assembly constituencies
+rose from 28 to 40. The four talukas in the Old Conquests, which were
+at the forefront in support of Konkani, became a dominant force with
+22 Assembly seats, which was more than half of the total seats.  And
+the remaining seven talukas in the New Conquests, where Marathi had
+majority support, got only 18 seats. This changed the whole equation
+of Goa’s election politics.
+
+In the first Assembly election of the State of Goa held in 1989,
+Congress was voted back to power. The so-called ‘united house’ won 20
+out of 40 seats: 15 in the Old Conquests and 5 in the New
+Conquests. The party also gained nearly 41 per cent votes. Since then,
+to date, Congress has never been able to cross this polling
+figure. Except for once in 1999, it has not touched the magic figure
+of 21 in the 40-member House.
+
+![](https://bitbucket.org/gurunandan/ajeeb-goa/src/master/images/congress_mgp_seats_1963_2017.png)
+
+Source: Election Commission of India  
+1.   Goa Assembly had a total of 28 seats until 1984 and 40 seats from 1989 onwards.
+2.   1980 shows seats won by Cong (U). Cong (I) did not win a single seat
+
+
+In 1963 the same voter had wiped out the Congress when it was ‘united
+but divided’ on the issues of language and merger. Twenty-six years
+later, in 1989, the same Goan voter stood behind this national party,
+which was ‘united but divided’ on the language issue. In the first
+election, the Goan voter had elected the MGP to power. Two-and-a-half
+decades later, the Marathiwadi party was pushed to the opposition
+benches with only 18 seats in the 1989 election. That was the
+beginning of the end of the MGP era.
+
+
+This is not just one instance of the ‘strange’ behaviour of Goan
+voters. Tossing all conventional yardsticks of electioneering in
+Indian democracy to the winds, Goan voters have time and again proved
+that they are Ajeeb, from the first Assembly election of 1963 up to
+the most recent polls held in 2017. So strange has been the behaviour
+of the Goan voter that even seasoned politicians and political
+analysts go completely wrong in forecasting the election results.
+
+## The Love-Hate for the Congress
+
+There was an even more vigorous justification for Pandit Nehru to call
+Goans *Ajeeb* Log. He has always been a heroic figure for the people of
+Goa, right from the days of the Indian freedom struggle. And then as a
+messiah, who sent an army to Goa in 1961 to liberate them from the
+451-years-long rule of the Portuguese colonialists. In January 1937,
+during Portuguese rule, news spread that Nehru’s aeroplane would land
+in Goa to refuel. Thousands of people gathered at the naval airport
+just to see Nehru. He was not allowed to meet the people, but he came
+out onto the open ground, waved at them, and flew back. [^1]
+And when he
+arrived on a three-day visit to Free Goa, from 23 to 25 May 1963, over
+a lakh people greeted him all along the roads he travelled to Margao,
+Mapusa, Bicholim, Calangute, and Ponda. And each public rally drew
+crowds of not less than 20,000 to 30,000 enthusiastic Goans.
+
+[^1]: मयेकर डॉ� विनायक; गोमं तक, 23 मे 1963
+
+But when his party went for the first ever Assembly poll within seven
+months of his maiden visit, the Nehru-loving Goans made all his 28
+candidates bite the dust. The seven month old MGP was elected to power
+and the three-month old UGP became the opposition. Our senior
+journalist colleagues tell me that the party was so confident of
+victory that the Congress leaders had even distributed ministerial
+portfolios amongst themselves. The shattered leadership did not dare
+to contest the next election of 1967, held after the Opinion Poll.
+The national party contested the 1972 poll, but only to repeat history
+and reduce its polling percentage from 13 to 10 per cent in Goa
+(excluding Daman & Diu).
+
+The renowned political analyst Prof Ram Joshi, while analysing Goa’s
+historic first election, had compared it to Kerala’s polls. Goa was
+the second state in the country, after Kerala, to have a non-Congress
+government.[^2]
+
+[^2]: ‘The General Elections in Goa’ by Principal Ram Joshi
+
+But the Kerala election result had not been as stunning as Goa’s. In
+the first election held in 1957 the Communist Party of India swept the
+polls by winning 60 out of 126 seats and seized the throne. The
+Congress did win 43 seats. And in the second election held in 1960 the
+Congress rose to 63 seats and formed the government by joining hands
+with the 20-strong Praja Socialist Party. Within two years the PSP’s
+Chief Minister Pattom Thanu Pillai was appointed as Governor of
+Punjab, and R Sankar, the deputy chief minister belonging to the
+Congress, was made the CM. But in the first election of Goa, Daman and
+Diu, the Congress could win only one seat in Daman and not a single
+one in Goa. Almost 19 bigwigs out of 28 candidates lost their
+deposits. And in the third election of 1972, eight candidates of the
+national party lost their deposits.
+
+CONGRESS IN KERALA & GOA: 1957 TO 1972
+
+
+| Elections    | Kerala    |     |        | Goa             |     |        |
+|--------------|-----------|-----|--------|-----------------|-----|--------|
+|              | Contested | Won | Vote % | Contested       | Won | Vote % |
+| 1957         | 124       | 43  | 38%    | --              | --  | --     |
+| 1960-63 \*   | 80        | 63  | 45%    | 28              | 00  | 13%    |
+| 1967         | 133       | 9   | 35%    | Did Not Contest |     |        |
+| 1970-72 \*\* | 52        | 30  | 44%    | 17              | 00  | 10%    |
+
+
+\* Kerala election: 1960, Goa election: 1963\
+\*\* Kerala election: 1970, Goa election: 1972
+
+2. ‘The General Elections in Goa’ by Principal Ram Joshi
+
+The *Ajeebi* of Goan voters does not end here.
+
+When did the Congress eventually make its debut in the Goa Assembly?
+When the Indian voter, in a nationwide wave, ended the 26-year long
+unabated Congress rule, headed by Nehru’s daughter Indira Gandhi. It
+was the election held after the 21 months of Emergency, a time
+considered to be the darkest period in Indian democracy. The then
+Prime Minister Indira Gandhi, claiming internal disturbance, had
+declared Emergency on 25 June 1975. She had cancelled elections and
+suspended civil liberties. Most of her opponents and several eminent
+journalists were thrown behind bars. The Press was censored. Human
+rights violations became the order of the day, including the notorious
+mass-level forced sterilisation to control the population, spearheaded
+by Indira’s then powerful younger son, Sanjay Gandhi.
+
+When the terror-filled Emergency was lifted on 21 March 1977 and fresh
+elections for Lok Sabha were announced, all the non-Congress parties
+came together along with the Congress rebels. They formed the Janata
+Party and contested on the symbol of Charan Singh’s Bharatiya Lok
+Dal. The BLD swept the election by winning 295 seats in the 542-strong
+Lok Sabha while the Lefts won 29 more. Indira’s Congress could win
+only 154 Lok Sabha seats. South Goa was one among them. The North Goa
+seat went to the MGP. The BLD candidates were pushed to third position
+in both the constituencies of Goa, with a vote share of a mere 15 per
+cent. The Congress and the MGP polled 40 per cent each.[^3]
+
+
+[^3]: Election Commission of India
+
+3. Election Commission of India
+
+Simultaneously, the election was also held for the Goa Assembly. Its
+term had actually expired on 24th March, but was extended due to the
+Emergency. The MGP was in the saddle with Shashikala Kakodkar
+succeeding her father, Bhausaheb Bandodkar, after his sudden demise in
+1973. The UGP, however, had split and a majority group of seven
+legislators led by Anant alias Babu Naik had joined the Congress
+before the Emergency was declared. The three-member UGP led by Dr Jack
+de Sequeira joined the Janata Party before the elections. On the other
+hand, Revenue Minister Pratapsingh Rane had stepped down from the MGP
+cabinet, resigned from the party and joined the Congress.
+
+LOK SABHA 1977 RESULTS: GOA
+
+
+| PARTY | CANDIDATE            | VOTES % | CANDIDATE        | VOTES % |
+|-------|----------------------|---------|------------------|---------|
+|       | Panaji               |         | Mormugao         |         |
+| MGP   | Amrut Kansar         | 44      | Dionisio Ribeiro | 37      |
+| INC   | Purushottam Kakodkar | 37      | Eduardo Faleiro  | 43      |
+| BLD   | Shivaji Desai        | 16      | Erasmo Sequeira  | 14      |
+
+*Source: Election Commission of India*
+
+Almost seven former UGP candidates and Rane from the MGP contested on
+Congress tickets while also roping in young candidates from their
+respective former party cadres. Due to this, despite the anti-Congress
+wave throughout India (and even in Goa), the Congress party made its
+debut in the Goa Assembly with 10 MLAs. Three among them were former
+MLAs − Babu Naik, Pratapsingh Rane, and Leo Velho. Strange, isn’t it?
+
+Only three candidates of the Janata Party won, one of them being Dr
+Sequeira himself. The other two were veteran freedom fighter Madhav
+Bir in Panaji and Ferdino Rebello in Cuncolim.  Rebello later quit
+politics, rose in his legal profession as a high court judge and
+retired as the Chief Justice of the Allahabad High Court. The MGP won
+15 seats, and Shashikala alias Tai continued to rule Goa. The impact
+of the Emergency was limited to getting three legislators of the
+Janata Party elected, polling around 23 per cent of the votes. The
+party was pushed to third position in almost 17 constituencies out of
+all the 28 seats it contested in Goa. Twelve candidates lost their
+deposits. The prime battle was between the MGP and the Congress.  The
+next election was even more dramatic in the history of the Congress
+party, for Goa, as well as India.
+
+Due to the rebellion within the ruling MGP and even within the
+cabinet, the Tai government was pushed to minority status within a
+year and ten months. Rather than handing over the reins of power to
+the rebel, Tai managed to convince Prime Minister Morarji Desai to
+impose President’s Rule and hold fresh elections in 1979. As Goa
+entered President’s Rule on 27th April, the infighting within the
+ruling Janata Party also led to the premature dissolution of the Lok
+Sabha on 22 August 1979.[^4]
+
+The Congress, on the other hand, had also split vertically as Congress
+(Indira) and Congress (Urs). Opposing Indira Gandhi’s move to bring
+her son Sanjay back into the leadership, Karnataka Chief Minister
+Devraj Urs split the party and took away several prominent leaders
+with him, especially from Karnataka, Kerala, Maharashtra, and
+Goa. They included veteran leaders like Yeshwantrao Chavan, Sharad
+Pawar, A K Antony, Devkant Barua, Brahmananda Reddy, Priyaranjan Das
+Munshi, P J Kurien, Swaran Singh, Karan Singh, and even Ambika Soni.[^5]
+All the Congress MLAs in Goa also joined the rebel Congress (Urs).
+
+
+[^4]: [Lok Sabha](http://loksabhaph.nic.in/)
+[^5]: [Indian National Congress (U)](https://en.wikipedia.org/wiki/Indian_National_Congress_(U))
+
+Fresh elections for the Goa Assembly were held along with the Lok
+Sabha poll in January 1980. Indira Gandhi once again emerged as the
+leader by sweeping the polls in spite of the background of the
+three-year old Emergency and a major rebellion. Congress (I) won 353
+seats with a vote share of 43 per cent. On the other hand, Congress
+(U) could win only 13 seats with a vote share of a mere five per cent;
+143 of their candidates could not even save their deposits.[^6]
+
+[^6]: Election Commission of India
+
+But in Goa, it was exactly the opposite in the Assembly poll.  Despite
+the seat sharing arrangements between the Congress (I) and Congress
+(U), the Indira-led Congress could not win a single seat out of only
+six seats it had contested. Four of these candidates even lost their
+deposits. Congress (Urs) however swept the poll by winning 20 out of
+22 contested seats. It not only emerged as the single largest party in
+the Goa Assembly but broke all the election records of all the ruling
+parties in the past. The winners included nine former MLAs and three
+rebels from the Maharashtrawadi camp − Dayanand Narvekar (Tivim),
+Dilkhush Desai (Rivona) and Vasu Paik Gaonkar (Canacona).
+
+MGP’s long rule had come to an end. The Lion King was left with the
+scanty manes of seven legislators. Three independents defeated three
+MGP stalwarts, including former CM Shashikala tai, who bit the dust
+against Harish Zantye, a young businessman from Bicholim selling
+cashew nuts. Both the factions of the Janata Party were completely
+wiped out from Goa politics. In 1977 the Congress had entered the Goa
+Assembly during a nationwide anti-Congress ‘Janata Wave’, and now,
+Devaraj Urs was celebrating victory in Goa, even as the rest of the
+nation witnessed an ‘Indira Wave’.
+
+Those who were left in the MGP were Ramakant Khalap (Mandrem), Deu
+Mandrekar (Pernem), Vishnu Rama Naik (Pale), Vinayak Chodankar
+(Cumbarjua), Babuso Gaonkar (Madkai), Narsinhbai Tandel (Daman) and
+Somji Solanki (Diu). Reduced to just five seats in Goa!
+
+But the *Ajeebi* was not over. The climax was yet to come.  Overnight,
+all the 30 legislators of Goa, Daman and Diu − 20 of Cong (U), seven
+MGP men, and three independents − decided to jump the wagon and join
+the Congress (Indira) en masse.  Even the defeated Shashikala joined
+the Congress by merging the MGP into the national party. It would have
+been a strange record in India’s Parliamentary history. All the
+elected legislators en masse joined a party that had suffered a
+miserable defeat in the election in Goa. But at the last minute two
+MGP legislators, Ramakant Khalap and Babuso Gaonkar, dropped out of
+the plan and kept the mane-less Lion alive.
+
+With this action-packed drama which was more exciting than a
+Rajinikanth movie, the Congress came to power for the first time in
+the history of Goa. Since then, up to 2017, the Congress has faced a
+series of defections aimed at forming alternate governments. It is
+equally important to note that the first Congress government in Goa
+was the outcome of the most sensational defection of its kind, between
+two parties that were rivals to each other. And the Goan voter
+continued to elect these ‘defectors’ in every subsequent election,
+rewarding them as the most loyal soldiers of the Indian National
+Congress!
+
+What else do we need to prove the Ajeeb-ness of the Goan!
+
+## Castes Don’t Cast Votes in Goa
+
+Even after 75 years of independence, the electoral politics of India
+are synonymous with caste politics, may they be in Aryan North India
+or the Dravidian South. Political parties battle not over ideology or
+even religion, but over caste, to win the elections. The chief
+minister too, in most cases, is chosen on the basis of caste, and not
+on his or her capability to run the state.  The tragedy of Indian
+democracy continues.
+
+In Goa, caste bias still prevails, not only among the Hindus but
+within the Christians as well. When the Portuguese conquered Goa in
+1510, they followed a policy of religious conversion to maintain
+control of their overseas territories. Thus a large number of Goan
+Hindus became Christians, bringing along with them their respective
+castes.
+
+On seeing that the neo-Christians were not giving up their Hindu
+customs even after conversion, the Portuguese then established the
+Inquisition in 1560. It was defined as an ecclesiastical tribunal for
+the suppression of heresy and punishment of heretics.[^7] Its
+activities ceased for a while in 1774, due to the efforts of Marquis
+de Pombal, the liberal Prime Minister of Portugal. It was revived five
+years later and finally abolished in 1812.
+
+[^7]: Priolkar A K: The Goa Inquisition
+
+The two-and-a-half-century-long period of the Inquisition is
+considered to be one of the most inhuman and brutal times in the
+history of humankind. Much before the religious conversions began,
+Afonso de Albuquerque who conquered Goa in 1510 had forbidden the
+so-called ‘holy’ practice of Sati in Goa. He had termed the practice
+of a wife burning herself alive on the pyre of her dead husband as
+inhuman. But during the Inquisition, thousands of neo-Christians were
+burnt alive worldwide as a punishment, while calling it the ‘Holy’
+Inquisition!
+
+Aiming to customise the neo-Christians to western culture, the
+Portuguese had banned all the Indian rituals and customs followed by
+them during marriages and other festivities, and even certain eating
+and dressing habits in day-to-day life. But the caste system was not
+abolished. The colonial rulers found it convenient to rule a divided
+house. Thus even among the Christians, the upper caste Brahmins and
+goldsmiths continued as Bammon, the Kshatriyas (or Chadde) as Chardos
+and other lower caste people as Sudir, which means Shudras. The sub
+castes also exist. The tribal class became Kristão Gauddo. The caste
+hierarchies are followed so strictly in Goa that even today many
+inter-caste marriages are opposed. Interestingly, inter-religious
+common-caste marriages, as between Hindu Brahmins and Christian
+Bamonn, are not frowned upon.
+
+The inequality based on caste discrimination continues to prevail
+among the Hindus as well as the Christians even after five centuries
+in the social and cultural sphere of Goa. But, strangely, it does not
+figure in electoral politics. Neither among the Christians nor the
+Hindus.
+
+According to Adv Radharao Gracias, a former MLA and a political
+analyst, caste never mattered for the Christian community in
+elections. The lower caste Christians, who were not well educated in
+the first two decades after liberation, did not venture much into
+politics. They stood firmly behind the educated upper caste leaders
+from Bamonn and Chardo communities, as the elections moved around
+identity issues like the language and merger of Goa. The Sudir
+community began to contest elections in large numbers from the ‘80s,
+but still caste never became a dominant feature among Christians in
+electoral politics.
+
+Contrary to this, caste does matter among Hindus, even in the
+elections. Attempts on caste lines are made even today.  Hindu
+politicians try to win over voters by displaying their caste and
+community cards, albeit discreetly. After all the benefit of this is
+not more than five to ten per cent. However, since Goa’s Assembly
+constituencies are just 20,000 to 25,000 strong, the little difference
+of 5-10 per cent made by exploiting caste, religion, money, or muscle
+power often makes a big difference to winning a seat. Nonetheless,
+it’s a tightrope walk for each and every candidate not to have a
+caste-identity on the whole, to win over voters from all castes and
+religions, and still garner a few game-changing votes based on caste
+to have an edge over their rivals. By and large, it has been a vote
+based on conscience rather than caste or community. The winnability
+factors are education, social status, performance, competence,
+capacity to deliver, etc., but certainly not caste or religion.
+
+This has been the trend right from the beginning. In the first
+election, the highest number, of 83 per cent votes, was polled by
+freedom fighter Vasant Velingkar of the MGP in Madkai. He belonged to
+the Devdasi community known as the Gomantak Maratha Samaj. This
+community numbered barely 500 in Madkai. He polled 7000 votes, in
+which the Bhandari vote was around 70 per cent and Hindu Gauda was
+around 25 per cent. He vacated the seat for Dayanand Bandodkar (GMS
+once again) to contest the by-election and Bhau polled 93 per cent of
+the votes, perhaps a record in Goa’s electoral history till date.
+
+In 1972, Bhau shifted to Mandrem, where again the GMS community is
+still counted only in hundreds, around two per cent. Before him, in
+1967, Mandrem was represented by Anthony D’Souza of the MGP, where the
+Christians number just 10 to 15 per cent. Half of Mandrem is populated
+by the Bhandari Samaj. But to date, no Bhandari has been elected from
+Mandrem on caste lines. Dayanand Sopte, a Bhandari, was voted to power
+in 2017 by riding the anti-Laxmikant Parsekar (ex-Chief Minister)
+wave. Sopte had been defeated earlier in 2012 by BJP’s
+Parsekar. Six-time MLA Khalap, three-time MLA Parsekar and one-time
+MLA Sangeeta Parab − all belonged to the Maratha community, which has
+a sizeable presence of one third in Mandrem, but certainly not enough
+to win the election purely on caste lines, that too when Maratha
+candidates cross swords with each other.
+
+An interesting episode took place just before the 1972 election. Bhau
+faced a revolt led by Krishnanath Baburao Naik, popularly known as KB
+Naik, the then leader of the Gomantak Bhandari Samaj, who had been
+elected in a by-election from Shiroda. The vacancy had been created as
+the elected candidate, former minister Vitthal Subrai ‘ViSu’ Karmali,
+had committed suicide, apparently for not being made a minister
+again. The ‘firebrand’ KB and ‘autocratic’ Bhau developed serious
+differences. KB Naik joined hands with other like minded colleagues,
+and seven MLAs including two ministers − Anthony D’Souza and Gopalrao
+Mayekar − withdrew support to the MGP government on 28 July 1970. The
+others were Deputy Speaker Manju Gaonkar, K B Naik, Dattaram
+Chopdekar, Gajanan Patil and co-opted MLA Jiva Gaonkar. They were the
+educated and respected cream of the Bahujan Samaj. The MGP government
+was reduced to a minority. To save his government, Bhau engineered the
+first defection in the history of Goa. During a vote of confidence in
+the Assembly, five UGP MLAs led by Orlando Sequeira supported the MGP
+government. Bhau won the vote by 17 to 14 votes[^8].
+
+[^8]: राधाकृष्ण वामन; मुक्ती नंतरचा गोवा, पान 53-65
+
+This two-month long rebel saga was fully backed by Madhav Gadkari, the
+editor of the leading Marathi daily Gomantak. This newspaper’s
+headlines lambasted Bhau and he was roundly condemned as an autocratic
+dictator at the largely attended public meetings held by the MGP
+rebels. Serious charges like financial malpractices were made against
+him, and he was also attacked for no longer supporting the cause of
+the merger.
+
+This led to the formation of a parallel MGP, called the Nav
+Maharashtrawadi Gomantak Party (NMG), led by KB Naik, to contest the
+1972 election. Three MGP MLAs, including the two rebels Anthony
+D’Souza and Gopalrao Mayekar, joined hands with the Congress. The
+third one was Gopal Apa Kamat, the Sattari MLA. NMG fielded 14
+candidates. On the other hand, the UGP had also split into two
+factions: UGP (Sequeira Group) and UGP (Orlando Group). The Congress
+was back in the fray with 19 candidates. The RSS-backed Bharatiya Jan
+Sangh made its debut in the Goa election by fielding nine
+candidates. The Communist Party of India (CPI) also took part.
+
+The NMG was expecting that around half of the Bhandari Samaj would
+support KB, who even had the potential to become the Chief
+Minister. Bhau’s Gomantak Maratha Samaj comprised hardly two per cent
+of the Hindu population. And what was the outcome of this
+multi-cornered fight? The Goan voter wiped out the Congress once again
+(they won only the Daman seat, as in 1963) giving them only 14 per
+cent votes. Both the rebel groups − the NMG and UG (Orlando) − were
+rejected outright by the Goan electorate. They polled barely four per
+cent of the votes.  Jan Sangh and the CPI − the rightists and the
+leftists – fared worse, not securing even one per cent.
+
+And to everyone’s surprise, Bhau’s MGP emerged victorious for the
+third consecutive time, with more shining colours this time. The party
+polled 38 per cent of the vote, gaining 18 seats.  Close to it, once
+again, was the UG (Sequeira) party, with 33 per cent of the votes, but
+with only 10 legislators. The MGP also won the Panaji seat (Baban
+Naik, belonging to the Gomantak Maratha Samaj) and Curchorem (Anil
+Prabhudesai, a Kshatriya Maratha). All the caste equations had been
+tossed to the wind.
+
+There are many episodes like this in the history of Goa’s
+elections. Yet another is noteworthy. It was during the 1980
+election. The MGP era had ended, the Congress was rising and Vasu Paik
+Gaonkar from Canacona, the first ever candidate from the Kunbi-Velip
+tribe, was contesting on the ticket of a party other than the MGP. He
+had joined the Congress (U) with other MGP rebels. Manohar
+Prabhudesai, my father, was at the forefront of the damage control
+measures along with a Cuncolim-based strongman, Shabu Desai. As I was
+told in my student days, the MGP fielded Eknath Namshikar, a humble
+businessman from the Kharvi (fisherfolk) community, since that was an
+equally large community, like the tribals in Canacona. My father and
+Shabu-dad went around Gaodongri, Khotigao, and Khola, the tribal
+dominated villages, called all the villagers to Gaonkar’s house, gave
+him some token money as a traditional gesture and the Gaonkar (the
+community head) swore by keeping his hand on a coconut (Shrifal) that
+they would vote for the Lion.
+
+The result? Congress candidate Vasu Paik Gaonkar garnered 70 per cent
+of the votes, the highest number he ever polled in his political
+career of being a four-time MLA from 1977 to 1989.  His victory margin
+was over 5000 votes. The MGP could pull in barely a third of the
+votes. Later, when I entered journalism, I was told by Dr Kashinath
+Jalmi that a decision in this regard had been taken at a state-level
+meeting of all the organisations of Hindu and Christian tribals. No
+matter which party the candidate belonged to, the community should
+wholeheartedly vote and send the maximum number of tribals to the
+Assembly.  It was not caste politics. The tribals had their
+socio-economic issues like Cumeri cultivation, etc., and they needed a
+united voice to resolve it.
+
+
+The situation today is exactly the opposite in Canacona.  The real
+strength of Isidore Fernandes, the three-time MLA of Canacona (and
+Poinguinim), lies in the tribals of Gaodongri and Khotigao, while
+Ramesh Tawadkar, a tribal, enjoys more support among other communities
+than his own. Similarly, MGP President Deepak Dhavalikar, a Padhye
+Brahmin, won in Priol for two consecutive terms by defeating two
+powerful tribal candidates, two-time BJP MLA Vishwas Satarkar in 2007
+and the present MLA Govind Gaude in 2012. His elder brother and
+five-time MLA Sudin Dhavalikar is virtually the King of Madkai,
+winning all the elections since 1999 till date. The largest population
+in his constituency, almost 70 per cent, is of the Bhandari community,
+alongside a sizeable Gauda population.  But neither a Bhandari leader
+like Shripad Naik, Ramchandra Mule, Ravi Naik’s son Ritesh, nor a
+tribal leader like Govind Gaude has defeated him till date.
+
+## The ‘Minority’ CMs
+
+Precisely due to this broad mind-set, Goa was not overly concerned
+with having a chief minister belonging to the majority caste or
+community. Most of the chief ministers Goa has had till date have
+belonged to the communities having a presence of five per cent or
+lesser. The table below is a testimony to the fact that even when Goa
+was not fully literate in the first two decades, it was simply the
+indisputable rule of two CMs − Bhausaheb Bandodkar and his daughter
+Shashikala (Tai) Kakodkar. They belonged to the Gomantak Maratha Samaj
+(GMS), which comprises just two per cent of Goa’s Hindu
+population. Goans till date respect the commendable 16-year long rule
+of the MGP, led by these two legends. Ramakant Khalap, otherwise an
+arch rival of Tai within the MGP, has recently made a public statement
+that she was one of the most non-corrupt chief ministers of Goa.
+
+They were succeeded by Pratapsingh Rane of the Congress, who belonged
+to the Kshatriya Maratha community. Though the community comprises 15
+per cent among the Hindus, Rane belongs to the upper strata of the
+Kshatriyas, Shhannav Kulli Sardar, which numbers not more than five
+per cent. He has been the longest serving chief minister of Goa and
+has generally been the ‘unanimous’ choice in the Congress party. Many
+a time he has been the ‘compromise’ candidate, amid the infighting of
+various groups within the Congress.
+
+While the anti-Brahmin sentiment was quite strong during the first
+three to four decades, the 21st century saw two chief ministers
+belonging to the 2.5 per cent Brahmin community − Manohar Parrikar of
+the BJP and Digambar Kamat of the Congress.  Goa’s Bahujan Samaj and
+even the Christian community rallied behind them without any
+hesitation and they ruled for many full terms.
+
+CHIEF MINISTERS BY POPULAR VOTE
+
+
+| ELECTION | CHIEF MINISTER      | COMMUNITY            | PERCENT |
+|----------|---------------------|----------------------|---------|
+| 1963     | Dayanand Bandodkar  | Gomantak Maratha     | 2       |
+| 1967     | Dayanand Bandodkar  | Gomantak Maratha     | 2       |
+| 1972     | Shashikala Kakodkar | Gomantak Maratha     | 2       |
+| 1977     | Shashikala Kakodkar | Gomantak Maratha     | 2       |
+| 1980     | Pratapsingh Rane    | Kshatriya Maratha    | 5       |
+| 1984     | Pratapsingh Rane    | Kshatriya Maratha    | 5       |
+| 1989     | Pratapsingh Rane    | Kshatriya Maratha    | 5       |
+| 1994     | Pratapsingh Rane    | Kshatriya Maratha    | 5       |
+| 1999     | Luizinho Faleiro    | Christian (Religion) | 30      |
+| 2002     | Manohar Parrikar    | Brahmin              | 2.5     |
+| 2007     | Digambar Kamat      | Brahmin              | 2.5     |
+| 2012     | Manohar Parrikar    | Brahmin              | 2.5     |
+| 2017     | Manohar Parrikar    | Brahmin              | 2.5     |
+
+• Chief Ministers gaining office via defections are not included in the above list
+
+Goa had only one Christian chief minister by popular vote. Luizinho
+Faleiro rose to that position when the Congress achieved the magic
+figure of 21 in the 40-member House in 1999. Other Christian chief
+ministers were the leaders of defecting Congressmen, who either joined
+hands with the MGP or the BJP to rule Goa. It all began in 1990, when
+Rane was toppled within 75 days during his third term as the CM. These
+chief ministers were Churchill Alemao (18 days), Dr Luis Proto Barbosa
+(eight months) and Dr Wilfred de Souza (seven months) with MGP’s
+support; Dr de Souza (four months) again in 1994 with MGP support and
+BJP’s support from outside; and Francisco Sardinha (11 months) with
+BJP’s support in 1999.
+
+Besides Manohar Parrikar, the BJP also had two other chief ministers,
+belonging to the Maratha community, but again not by popular
+vote. Laxmikant Parsekar (2 years, 4 months) became the chief minister
+when Parrikar had to step down to become India’s defence minister. Dr
+Pramod Sawant is presently ruling Goa since March 2019 after
+Parrikar’s demise.
+
+Interestingly, those who played caste politics to establish their
+dominion were never preferred by the voters or chosen as the ‘popular
+choice’ to head the governments. For instance, Bhandari is the largest
+community among Hindus in Goa − almost 43 per cent. But Ravi Naik, the
+sole Bhandari who became a CM, could grab the throne only when he
+jumped out of his party and joined hands with other
+defectors. Certainly not by popular vote. Shripad Naik is not highly
+favoured by the BJP cadres, most of whom belong to the Bahujan
+Samaj. Desperate attempts to unite the Bhandaris have been going on
+since 1972 till date, but have not yielded any fruit. In the
+background of the forthcoming 2022 election, the Gomantak Bhandari
+Samaj has had a crucial organisational election, which has a hidden
+political agenda, but cannot spell it out publicly.
+
+So baffling and ineffective are the caste politics of Goa!
+
+## Religion Counts, but Doesn’t Matter
+
+Goa is an attractive tourist destination for visitors worldwide, and
+there are some weird misconceptions spread about this land. One of
+them is that Goa is a westernised Christian state, a Rome of the
+East. It is an impression easily gained when a tourist travels only
+along the Goan coastline, especially through Baga, Anjuna, Calangute,
+Miramar, Colva, Benaulim, and other beach villages. Except for Mandrem
+and Morjim in the northern Pernem taluka and Agonda and Palolem in
+Canacona taluka in the south, most of the coastline is
+Christian-dominated and is ‘being westernised’ to please the
+tourists. In reality, Christians comprise only 25 per cent of Goa’s
+total population today. And even in 1961, at the time of liberation,
+it was just 38 per cent.  Goa has a larger Hindu population (66 per
+cent), with Muslims comprising eight per cent.
+
+Goa is primarily and historically divided into two regions: The Old
+Conquests and the New Conquests. The Portuguese did not rule over the
+entire state of Goa for 451 years as commonly believed. They did rule
+for that period over only one-fifth of the area of present-day
+Goa. After several battles, they established their power over four
+talukas of today’s Goa: Bardez, Tiswadi (Ilhas), Salcete, and
+Mormugao, in the 16th century. These were called the Velhas Conquistas
+(Old Conquests). The Novas Conquistas (New Conquests) which were
+conquered in the second half of the 18th century, after over 250
+years, are Ponda, Sanguem, Quepem, Canacona, Bicholim, Pernem, and
+Sattari.  The newest taluka, Dharbandora, is now being carved out from
+Sanguem. The New Conquests, four-fifths of Goa, were ruled by the
+Portuguese for less than 200 years!
+
+It is often said that the Portuguese arrived in India with a sword in
+one hand and a Bible in the other. Religious conversion was officially
+sanctioned by the King of Portugal. Accordingly, the majority
+population in the Old Conquests was converted to
+Christianity. However, when the colonialists conquered the New
+Conquests in the 18th century, the Portuguese had changed their policy
+and there was an agreement reached on not carrying out conversion
+activities. Since then, the Old Conquests are Christian-dominated
+while the New Conquests have a majority Hindu population. Therefore,
+religion does count in Goa politics in terms of votes even today due
+to the demographic divide. The majority Christians are concentrated in
+the Old Conquests while the Hindus are more in the New Conquests. But
+when it comes to actually choosing your MLA, the religion doesn’t
+matter. What matters once again is the education, social status,
+performance, competence, capacity to deliver, etc.
+
+During the Portuguese regime and especially after Goa’s independence,
+the four major towns of Goa prospered − Mapusa and Margao in terms of
+commercial activity, Vasco port due to mining, and Panaji as the
+capital of Goa. The coastal belt prospered too, as Goa’s prime tourism
+area, especially from the ‘80s onwards. These factors resulted in the
+urbanisation of the New Conquests as well as significant in-migration
+of people from all over India. On the other hand Christians from the
+Old Conquests began to migrate outside Goa and even India, for better
+work opportunities. This resulted in drastically reducing the
+Christian population in the Old Conquests.
+
+But in spite of this, the Christian population in the Old Conquests
+continues to dominate Goan politics. In that sense, religion counts,
+but strangely, it doesn’t matter in terms of religious fanaticism,
+which we witness in the rest of India. Being locals, Christians do
+count a lot socially and culturally in their own village or town, when
+it comes to choosing a candidate.  But it doesn’t necessarily
+matter. The instances below prove this point.
+
+In 1972, the strongly Christian-dominated seat of Benaulim village was
+won by Vasudev Sarmalkar on the UGP ticket by defeating the former
+Benaulim MLA Elu Miranda, who had contested as an
+independent. Sarmalkar polled 77 per cent votes while Miranda could
+poll only one per cent. Due to Sarmalkar’s sudden death two years
+later, a by-election was held in 1974.  To everybody’s surprise, Luta
+Ferrao, standing on an MGP ticket, won the by-election by just ‘two
+votes’ against Dr Wilfred de Souza, the UGP candidate. When the
+results were contested, the court ruled in Dr Willy’s favour. But the
+MGP winning in a UGP stronghold was a stunning event in the political
+world of Goa. If the MGP was considered to be the party of Hindus,
+then how could it defeat a strongman like Dr Willy in the UGP
+stronghold of Salcete? If religion was not the criteria, then what was
+it? We will examine this crucial factor in detail later.
+
+The same Dr Wilfred de Souza, who was considered Dr Jack de Sequeira’s
+successor as the chief Christian leader, created more history. After a
+short stint with the UGP in Benaulim, he joined the Congress (Urs)
+along with other UGP colleagues and won the seat from Calangute in
+1980. All of them then shifted to the Congress (Indira). Having
+developed differences with the party leaders, Dr Willy split to form
+the Goa Congress to contest the 1984 election, but lost to MGP’s
+Shrikant Malik from Calangute. All his candidates, except Luizinho
+Faleiro from Navelim, lost the battle. With Goa attaining Statehood
+and the number of constituencies rising to 40, this Christian leader
+shifted his base to Saligao, a neighbouring constituency with Hindu
+dominance. Subsequently, Dr Willy, known as the ‘Political Bishop’ in
+political circles, won four consecutive elections from Saligao, twice
+as a Congressman, once on the Goa Rajiv Congress ticket and then with
+the Nationalist Congress Party. After losing the 2007 election to
+BJP’s Dilip Parulekar, he shifted to the much ‘safer’ constituency of
+Aldona in 2012, this time under the Trinamool Congress. But that
+brought about the end of his career, with Glen Ticlo defeating him on
+the Hindutva party BJP’s ticket. Dr Willy polled hardly 643 votes, a
+mere three per cent!
+
+Shaikh Hassan Haroon is yet another fascinating example from the
+Hindu-dominated Mormugao constituency. When this former judge and
+learned man contested for the first time in 1977 on a Congress ticket,
+the Muslim population of Mormugao was just nine per cent.[^9]  He defeated
+former MGP MLA Vasant Joshi, a leading businessman of Vasco city in
+whose house the highly revered deity Lord Damodar of the port town is
+worshipped.  Shaikh Hassan was the five-time MLA of Mormugao till
+1999, having suffered just one defeat in 1994 against Independent MLA
+John Manuel Vaz. Even today, the Muslim population of Mormugao is not
+more than 16 per cent. John Manuel Vaz and his son Karl also
+represented this Hindu-dominated constituency.
+
+[^9]: Census of India 1971
+
+Curchorem is yet another inspiring example of the harmony existing in
+Goa’s political arena. The first Muslim legislator Abdul Razak entered
+Goa Assembly from this constituency in 1967 on the UGP ticket, when
+the community of this local petrol pump owner was hardly two per
+cent. The tradition continued with Congress candidate Dominic
+Fernandes getting elected from this Hindu-dominated constituency
+twice, in 1989 and 1994.  At that time, in Curchorem, Hindus comprised
+68 per cent, Christians 24 per cent and Muslims 8 per cent.[^10] Then
+came Nilesh Cabral of the BJP, who is a two-time MLA since 2012.
+Today, it is 62 per cent Hindus, 29 per cent Christians and 9 per cent
+Muslims[^11].
+
+From the time Taleigao was constituted in 1989 after Statehood was
+attained, it has been consistently proving that religion and even
+caste simply don’t matter in politics. Somnath Zuwarkar, a Hindu
+Saraswat Brahmin, served this constituency for the first three terms
+(1989-94-99) as a Congress candidate by defeating the MGP candidate
+twice and the BJP once. At that time, Taleigao consisted of 63 per
+cent Hindu Bahujan Samaj and 26 per cent Christians.[^12] The sizeable
+Gauda Christian community strongly stood behind their Bhau for three
+consecutive terms. Then came the Monserrate-Raj, starting from
+2002. Babush Monserrate won Taleigao twice on the UGDP ticket and then
+his wife Jennifer won twice on the Congress ticket. During these two
+decades, Taleigao has overgrown as a twin city of Panaji with hundreds
+of housing complexes and thousands of Goans as well as middle class
+people and migrant labour from outside residing here. As of today, the
+strength of the Christian community has slipped down to one-fourth.
+Hindus have grown to 19,999 (66 per cent), out of which 2000 are
+migrant labour. Muslims are not more than 2500 (9 per cent). BJP’s
+consistent attempts to win this Hindu-dominated constituency have
+failed miserably. The Hindutva party has now helplessly embraced both
+Monserrate husband and wife into the party fold.
+
+[^10]: Census of India 1991
+[^11]: Mordekar Vivek; IT Professional & Analyst
+[^12]: Census of India 1991
+
+There is yet another Taleigao man, who created history in his
+ancestral village, Loliem-Pollem in Canacona, on the border of
+Goa. Known as Ponjekar Diogacho Cheddo (Son of Diogo from Panaji),
+Isidore Fernandes won the hearts and votes of the Poinguinim
+people. Defeating four-time tribal legislator Vasu Paik Gaonkar and
+sitting MGP MLA Jagdish Acharya, in 1999, he rose as an Independent
+MLA. He then won two more elections on Congress tickets in 2002 and
+2017, only to then jump out to join the BJP during both the
+terms. With a Christian community of barely 18 per cent compared to 80
+per cent Hindus, he enjoys a strong base among the tribals in
+Gaodongri and Khotigao as well as among the Hindus.
+
+There are many such tales in Goa’s electoral arena which prove beyond
+doubt that religion does count in Goa, but does not matter when it
+comes to electing your representative. Sometimes it is the party or
+sometimes the ‘performing’ candidate.
+
+## The Media Cannot Take Voters for a Ride
+
+The media has played a vital role in Goan politics right from the
+first election held in 1963. As per the 1961 census, Goa’s literacy
+rate at that time was 30 per cent, 1.93 lakh out of 6.27 lakh
+population. Just one per cent of the population had studied till SSC
+or above. Today, in the 2011 census, it is 87 per cent, a big leap in
+the field of education.[^13]
+
+[^13]: Census of India
+
+Goa has a rich history of print media right from the pre liberation
+days. Despite the Portuguese imposing all kinds of curbs on civil
+liberties and freedom of expression, where even a wedding card had to
+go through a censor, Goa’s intellectual freedom fighters were
+fearlessly publishing periodicals from Bombay and circulating them in
+Goa in a secretive manner. To skip the censor of printed material,
+some were even circulating handwritten periodicals. The languages used
+were Konkani, Marathi, English, and Portuguese. However, except for a
+couple of ‘controlled’ Portuguese newspapers, no other daily newspaper
+existed in Portuguese Goa.
+
+To counter the official Portuguese radio, Emissora de Goa, two young
+freedom fighters Vaman Sardesai and Libia Lobo were operating a
+tri-lingual secret underground radio service for Goans from the forest
+across the Goa border. The services run from a moving truck since 1955
+were called Voz de Liberdade in Portuguese, Goenche Sodvonecho Awaz in
+Konkani, and the Voice of Freedom in English. The periodicals as well
+as the underground radio service played a crucial role in shaping the
+opinion of Goans to fight for liberation.
+
+The first Assembly election of 1963 was covered by four newspapers: O
+Heraldo, a Portuguese daily; A Vida, a Portuguese English-Konkani
+daily; The Navhind Times, an English daily; and Gomantak, a Marathi
+newspaper. While O Heraldo was limited to the highly educated and
+limited Portuguese readership, the A Vida owner was the Congress
+candidate, as was the owner of The Navhind Times. Hardly any
+propaganda-related news of the UGP appeared in The Navhind Times
+though A Vida used to carry articles by pro-UGP writers. And Gomantak,
+the sole Marathi newspaper owned by mine owner Chowgule, was also
+carrying the propaganda news of the Congress. The MGP was boycotted by
+all the mainstream newspapers. In spite of this, Goan voters wiped out
+the Congress, the UGP emerged as the opposition party, and the
+‘boycotted MGP’ emerged victorious.  The bombardment of news of the
+Congress meetings and articles had absolutely no impact on Goan
+readers in the 1963 election.
+
+The scenario was exactly the opposite in 1967 during the Opinion Poll,
+the referendum held on 16 January 1967. It had turned into a literal
+war of words through newspapers. The anti-merger activists had started
+Rashtramat, a Marathi newspaper in September 1964, to convince the
+Hindus how the merger of Goa into Maharashtra would be suicidal. It
+was founded with the support of five mine owners, primarily to counter
+the pro-merger propaganda of Goa’s Gomantak and the Maharashtra based
+newspapers and periodicals coming to Goa. The Portuguese and Konkani
+(in Roman script) newspapers, though strongly opposed to the merger,
+had readership restricted to the Christian community. Rashtramat
+played wonders in turning the tables and persuading a large community
+of Hindu population to vote against the merger.
+
+The war of opinions between Gomantak and Rashtramat stands as one of
+the most glorious clashes in the history of the Indian media, from a
+readership point of view. The mindset of the Hindus, especially the
+non-Brahmin Bahujan Samaj, was shaped by the articles and editorials
+published in both these newspapers. Uday Bhembre’s daily column
+Brahmastra was read by all the pro-mergerists. In a
+three-and-a-half-hour long marathon interview on the Opinion Poll,
+Uday-bab told me that he changed the aggressive tone of his Brahmastra
+when they realised that people of Goa were in a mood to understand the
+issue before making up their mind. Ramakant Khalap recalls that even
+in his pro-merger stronghold of Mandrem, people used to sit around
+with one person reading out Brahmastra and the others listening and
+then discussing the pros and cons of the merger. My father was one of
+the main leaders of the pro merger movement in Canacona. I started
+reading Rashtramat and Gomantak at home in my childhood.
+
+Since then, Goa has been witnessing this *Ajeeb* mindset of the Goan
+readers. People read newspapers, but with an analytical mind. They
+have proved umpteen times that they can not only read but can also
+read between the lines and act wisely. Campaigns led by newspapers to
+topple governments have failed miserably. The media, on the other
+hand, has also played a monumental role in embarrassing the
+governments on burning public issues like the agitation for official
+language, the infamous molestation of a girl employee by the Speaker
+of Assembly, and the protest against the destructive regional plan in
+2006.
+
+India’s first Right to Information Act came into force in Goa in 1997
+through a campaign carried out by the news media.  All the political
+parties in the then Assembly − the Congress, the MGP, the BJP and
+others − unanimously passed the RTI Bill, which also inserted a
+provision to strangulate the free voice of the media. The Goa Union of
+Journalists and the Goa Editors’ Guild came out on the roads along
+with other social activists against this draconian clause. A recent
+example is the Bhumiputra Adhikarini Bill passed by the BJP government
+without placing the actual facts for discussion and without allowing
+debate in the House. The media tore the bill to pieces.  Civil society
+opposed it too. In both these cases, the government had to freeze the
+bills and allow them to lapse.
+
+But this does not mean that people get influenced by whatever the
+media says. Much before the paid news phenomenon hit the newspaper
+industry at a national level, Goa was the first state to experiment
+with it in the 2007 Assembly election. Goa’s leading newspapers were
+publishing two, three, and even four pages (including the front page)
+full of paid news published with by-lines of non-existent journalists.
+These sponsored efforts had absolutely no impact on the voters.
+
+Today, in the changed technological scenario, Goa has four English
+newspapers, seven Marathi and one in Konkani – a total of 12 dailies
+for a population of just 15 lakhs. In addition, there are six local
+cable TV channels running at the state level and another six to seven
+digital platforms. Political parties and politicians are desperately
+trying to either manage the media or ‘help’ them financially to remain
+in the news. Some parties like the Aam Aadmi Party (AAP) have made
+generous financial provisions for media management, besides social
+media. Similar is the case with Prashant Kishor’s IPAC team and his
+‘client’, the Trinamool Congress.
+
+But a veteran Goan professional who has been handling media management
+for around two decades tells me that such management cannot succeed
+beyond introducing and branding the candidate or the party. It cannot
+reach the level of translating into votes. The voters have their own
+calculations to decide which ‘brand’ to favour. They judge the
+credibility of the media by ‘reading between the lines’ and not on its
+face value. How they judge, how seriously they take the media and on
+what basis they decide their vote is still a mystery to many
+politicians, and even the political parties. On the other hand, the
+credibility of the media is now at stake.
+
+This book attempts to examine all these *Ajeeb Karname* and try to find
+out the reality hidden behind the Goan voters.  Why do Goans appear
+strange? Because they don’t behave like other Indians? Are they
+following the right path? Or a path that Indian democracy is not
+familiar with? What are the hidden truths behind this so-called
+*Ajeebi*, this strangeness?
+
+We will try to find answers to all these questions by examining them
+in a rational manner and with a perspective based on the
+socio-economic conditions and the culture that has produced the Goan
+psyche. To perceive this we need to study, comprehend, and analyse the
+history, geography, economics, and the social fabric of Goa, right
+from the time the Konkan coastline originated 12,000 years ago till
+date.  Let us begin this journey.
