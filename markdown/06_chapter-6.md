@@ -1,5 +1,5 @@
 ---
-title: The 'State; of Migrants
+title: The 'State' of Migrants
 ---
 
 ### Chapter 6
