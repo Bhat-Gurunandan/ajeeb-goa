@@ -157,7 +157,7 @@ to date, Congress has never been able to cross this polling
 figure. Except for once in 1999, it has not touched the magic figure
 of 21 in the 40-member House.
 
-![](https://bitbucket.org/gurunandan/ajeeb-goa/src/master/images/congress_mgp_seats_1963_2017.png)
+![](../images/01_01_graph.png)
 
 Source: Election Commission of India  
 1.   Goa Assembly had a total of 28 seats until 1984 and 40 seats from 1989 onwards.

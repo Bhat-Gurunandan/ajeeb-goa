@@ -1,6 +1,6 @@
 ---
-title: The 'Gifts' of Portuguese
---
+title: The Gifts of Portuguese
+---
 
 ### chapter 5
 # The 'Gifts' of Portuguese
