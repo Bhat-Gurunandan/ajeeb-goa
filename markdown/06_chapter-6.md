@@ -3,7 +3,7 @@ title: The 'State' of Migrants
 ---
 
 ### Chapter 6
-# The 'State of Migrants
+# The 'State' of Migrants
 
 Unlike the rest of India, Goa is a state formed by four kinds of major
 migrations. Two among them are similar to the rest of India while the
@@ -112,6 +112,7 @@ migration (emigration) of Christians from Goa and inward migration of
 Hindus from outside Goa.  Obviously, there was no reason for the
 Hindus to migrate to Goa till it was liberated. But the prime reason
 for the decline of Christian population appears to be emigration.
+
 POPULATION SHIFT TALUKA-WISE: 1848-2011
 
 | TALUKA        | HINDU |      |      | CHRISTIAN |      |      | MUSLIM |      |      |
@@ -132,6 +133,9 @@ POPULATION SHIFT TALUKA-WISE: 1848-2011
 | Canacona      |       | 76   | 80   |           | 24   | 18   |        | 0.48 | 2    |
 | NEW CONQUESTS | 84    | 83   | 83   | 15        | 15   | 11   | 1      | 2    | 6    |
 | TOTAL         | 36    | 60   | 66   | 64        | 38   | 25   | 0.4    | 2    | 8    |
+
+*Source: Portuguese Census of Estado da India, An Historical and Archaeological Sketch of City of Goa & Census of India*
+
 
 It means that not only did the Hindus migrate to settle outside Goa
 during the Portuguese regime but the Christians did so too. It began
@@ -180,7 +184,7 @@ Bombay, some of them also settled in Madras and Bengal.[^4]
 [^3]: Goa Migration Study 2008
 [^4]: Some Aspects of the Consumption History of Estado da India: 1900-50 by Remy Dias
 
-> “Goa’s rural scene became increasingly more desolate.  When the
+> *“Goa’s rural scene became increasingly more desolate.  When the
 > first Goan Provincial Congress met in 1951, one participant
 > presented statistics of unemployment: 5000 jobless, 1500 beggars,
 > 1,50,000 idle bodies…the Second Provincial Congress in 1971 paid
@@ -191,7 +195,7 @@ Bombay, some of them also settled in Madras and Bengal.[^4]
 > ever-growing number of taverns. The Seventh Provincial Congress in
 > 1927 regretted the government’s manifest lack of concern in
 > controlling this vice.  Obviously, the licensing of more taverns
-> brought more income to a revenue-starved administration.”[^5]
+> brought more income to a revenue-starved administration.”*[^5]
 
 There have been two separate studies conducted to estimate the exodus
 of Goans during this period till 1910, when the Portuguese monarchy
@@ -223,7 +227,7 @@ Passengers’ Religion Taluka-Wise (5% Sample)
 | No Info    | 2      | 0       | 0       | 2            | 0            | 2     |
 | Total      | 1190   | 191     | 345     | 1726         | 61           | 1787  |
 
-Source: Goa at work around 1850…. By Paulo Teodoro de Matos & Jon Lucassen
+*Source: Goa at work around 1850…. By Paulo Teodoro de Matos & Jon Lucassen*
 
 The second study recorded by Dr Remy Dias shows the real magnitude of
 the exodus over three decades, from 1880 to 1910. Over 3.23 lakh Goans
@@ -239,7 +243,7 @@ of the period. Saxttikars were next in numbers and there were around
 Goans from the whole of the New Conquests. On an average, 4000 Goans
 left the state for good every year.
 
-> “Goans who migrated during this period to British India were both
+> *“Goans who migrated during this period to British India were both
 > Hindus and Christians. Women migrated independently to British
 > India. They were mostly unmarried women or widows from lower
 > classes. Among independent female migrants were ‘bailadeiras’
@@ -249,7 +253,7 @@ left the state for good every year.
 > the rest of India without their families.  They were engaged in
 > skilled and unskilled manual jobs. A small number took up
 > white-collar jobs or worked as musicians. Some proceeded to Bombay
-> for further studies in medicine and other fields.”[^6]
+> for further studies in medicine and other fields.”*[^6]
 
 Emigration Of Goans To British India: 1880-1910
 
@@ -267,8 +271,8 @@ Emigration Of Goans To British India: 1880-1910
 | %     | 8       | 36      | 48     | 92            | 8             |        |
 
 
-Source: Some Aspects of the Consumption History of Estado da India: 1900-50 by Dr Remy
-Dias
+*Source: Some Aspects of the Consumption History of Estado da India: 1900-50 by Dr Remy
+Dias*
 
 The trend of emigration continued till Goa was liberated, and also for
 various other reasons like the economic blockade imposed by
@@ -330,7 +334,7 @@ their state? It is one of the interesting episodes in the chapter in
 this book, dedicated to this unique historic and exciting referendum
 held in the Indian Republic.
 
-## Foreigner Goenkars
+## Foreigner *Goenkars*
 
 The next phase saw Goans migrating abroad and settling in those
 respective countries. This again consisted largely of Christians,
@@ -407,8 +411,8 @@ Goans In East Africa (1911-1948)
 | 1948  | 7159  | 1448   | 681      | 2006       | 11294 |
 | TOTAL | 24041 | 5232   | 4819     | 8466       | 42558 |
 
-Source: Global Goans, Migration Movements and Identity in a Historical Perspective by
-Margaret Frenz, University of Oxford (2007)
+*Source: Global Goans, Migration Movements and Identity in a Historical Perspective by
+Margaret Frenz, University of Oxford (2007)*
 
 The major attraction however was the ‘government service’ since it had
 a hefty salary, a permanent position, prospects for promotion and
@@ -505,7 +509,7 @@ century. Most of them migrated for higher education and settled there
 as clerks, doctors, engineers, lawyers, magistrates, teachers,
 journalists, officials in armed forces, and bureaucrats.
 
-> “There are thus broadly four distinct groups of Goans who have settled
+> *“There are thus broadly four distinct groups of Goans who have settled
 > in Portugal; (i) those who came straight from Goa and settled down in
 > Portugal during the colonial regime, which can be classified as
 > pre-1961; (ii) those who came from Goa post-1961 after Goa was taken
@@ -513,7 +517,7 @@ journalists, officials in armed forces, and bureaucrats.
 > Portuguese colonies, particularly after the independence of Angola and
 > Mozambique; and (iv) more recently those who have migrated to Portugal
 > with a view to settling in other developed countries in Europe or
-> elsewhere."[^15]
+> elsewhere."*[^15]
 
 The latest migration Goa is presently witnessing for the last three
 decades is that of thousands of Goans, mostly Christians but also
@@ -536,7 +540,7 @@ No authentic figures are available to ascertain how many Goans have
 given up their Indian citizenship, adopted Portuguese citizenship, and
 actually migrated to the UK.
 
-> “The citizenship is granted directly in Lisbon by the Central Civil
+> *“The citizenship is granted directly in Lisbon by the Central Civil
 > Registrar… There are an estimated 17,000 Goans with Portuguese
 > citizenship living in the UK. Only a minority of these migrants remain
 > in Portugal. According to an unconfirmed source, there is currently a
@@ -544,7 +548,7 @@ actually migrated to the UK.
 > consulate in Goa and a few thousand passports are issued to such
 > applicants each year.  There are also some recent instances of
 > non-Goans who have sought to apply for Portuguese nationality, using
-> false papers.”[^16]
+> false papers.”*[^16]
 
 [^15]: Chanda Rupa & Ghosh Sriparna; Goans in Portugal: Role of
 History and Identity in shaping Diaspora Linkages
@@ -602,13 +606,13 @@ lasted till early 1990s. Thousands of Goans, from the Old and New
 Conquests, largely Christians but also Hindus, made fortunes by
 working at various levels in the Gulf.
 
-> “There were 50,000 Goans in Kuwait, Dubai and Abu Dhabi in the 70s and
+> *“There were 50,000 Goans in Kuwait, Dubai and Abu Dhabi in the 70s and
 > a total of 150,000 Goans in the Gulf in 1987. Goan migration to the
 > Middle East was never a permanent phenomenon since the countries in
 > that region do not grant citizenship to foreign nationals; however,
 > many have spent decades there. Goans still prefer to move to those
 > countries, believing that a job there would be more rewarding than
-> employment in Goa.”[^17]
+> employment in Goa.”*[^17]
 
 [^17]: Goa Migration Study 2008
 
@@ -623,11 +627,11 @@ the Portuguese, these migrated Goans have opted for OCI (Overseas
 Citizen of India) cards, in order to have a hold over their properties
 in Goa. But this is not a permanent solution.
 
-> “Remittances to Goa, around Rs 700 crore (annually) have a
+> *“Remittances to Goa, around Rs 700 crore (annually) have a
 > significant effect on the economy. Remittances are 6.3 per cent of
 > the State Domestic Product of Goa. Remittances are one-third of the
 > revenue receipt of Goa but only 6 per cent of the Government
-> expenditure.”
+> expenditure.”*
 
 But this has slowed down substantially due to the worldwide pandemic
 of Covid19. Thousands of migrants working abroad as well as the
@@ -655,7 +659,7 @@ cent.[^18] That’s stunning!
 
 [^18]: Census of India
 
-Source: Census of India
+*Source: Census of India*
 
 The graph shows that this trend in the last 50 years (till 2011
 census) is more visible in the Old Conquests, where the Hindu
@@ -730,15 +734,15 @@ Decadal Growth In Rural-Urban Population: 1960-2011
 | 2001 | 1343998 | 675129           | -2.16  | 668869           | 39.42  |
 | 2011 | 1458545 | 551731           | -18.28 | 906814           | 35.57  |
 
-Source: Census of India
+*Source: Census of India*
 
-> “The port town of Mormugao is a classic example of this phenomenon
+> *“The port town of Mormugao is a classic example of this phenomenon
 > where the growth of population recorded was as high as 579.70 per cent
 > during the last decade. The town of Madgao in Salcete taluka is a big
 > commercial centre of the territory which has recorded a high growth
 > rate 216.28 per cent, next to the port town of Mormugao. A number of
 > smallscale units located on the periphery of the Madgao town had also
-> helped add up to its population during the decade.”[^19]
+> helped add up to its population during the decade.”*[^19]
 
 [^19]: Census of India 1971
 
@@ -820,7 +824,7 @@ Migrants In Goa From States In India: Census
 | TOTAL       | 6085 | 90133 | 152555 |
 
 
-Source: Census of India
+*Source: Census of India*
 
 
 MOTHER TONGUE OF GOANS: CENSUS INDIA
@@ -854,6 +858,8 @@ MOTHER TONGUE OF GOANS: CENSUS INDIA
 | Kashmiri   |        | 11     | 10     | 212    | 472    | 372    |
 | Manipuri   |        |        |        | 49     | 367    |        |
 | Others     | 239    | 182    | 428    | 884    | 1331   | 898    |
+
+*Source: Census of India*
 
 These figures of the mother tongue simply don’t match with the figures
 of migrants from other states. For example, we know that people from
@@ -934,7 +940,7 @@ Konkani & Marathi Of Goa & Maharashtra
 | Marathi        | 11630  | 168339 | 265803 | 390220 | 304208 | 158757 |
 | Maharashtrians | 3751   | 33579  | 52077  |        |        |        |
 
-Source: Census of India
+*Source: Census of India*
 
 The issue was finally resolved in 1987, around which time the Census
 of 1991 was also conducted. In the heat of agitation, the number of
@@ -957,4 +963,4 @@ missing the target? Are they the real enemies of Goa? Or are the land
 sharks the real enemies, who are grabbing our land and selling it to
 build holiday homes to those for whom Goa is nothing but a holiday
 destination to exploit? And who are the ones who are selling our land
-to the land sharks? Friends of Goa? Are they Niz Goenkar? Bhumiputras?
+to the land sharks? Friends of Goa? Are they *Niz Goenkar? Bhumiputras?*
