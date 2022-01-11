@@ -17,10 +17,10 @@ entered this coastal land.
 India’s eminent historian Romila Thapar, quotes D D Kosambi to explain
 his model of feudalism from above and below:[^1]
 
-> “...that from above was where feudatories were directly subordinate
+> *“...that from above was where feudatories were directly subordinate
 > to the ruler without the intervention of other intermediaries; and
 > feudalism from below created a hierarchy of landowning
-> intermediaries between the king and the peasant.”
+> intermediaries between the king and the peasant.”*
 
 [^1]: Thapar Romila: Early India From the Origin to AD 1300 P 23
 
@@ -30,7 +30,7 @@ to officers for their services. In time, the grant was accompanied by
 a transfer of fiscal and juridical rights from the ruler to the
 grantees.
 
-> “Contractual relations in this model seem to have been limited to
+> *“Contractual relations in this model seem to have been limited to
 > those between the king and the intermediary, referred to by
 > historians as feudatory. Underlying his loyalty to the king, the
 > feudatory was expected to maintain armed levies, which he was duty
@@ -49,7 +49,7 @@ grantees.
 > mahamandaleshvara, and the lesser ones were the raja, samanta,
 > ranaka, thakkura and so on… the kings took exalted titles such as
 > maharajadhiraja, parameshvara, parambhattaraka and even
-> bharatehsvara.”[^2]
+> bharatehsvara.”*[^2]
 
 [^2]: Ibid P 444, 452
 
@@ -92,15 +92,15 @@ their findings:[^5]
 [^5]: Bhat N Shyam & Rao Nagendra: History of Goa with special
 reference to its feudal features, 2013
 
-> “One common feature of Goa’s history during this period was that Goa
+> *“One common feature of Goa’s history during this period was that Goa
 > was a part of larger kingdoms, that is, the Bhoja, the Konkan
 > Maurya, the Badami Chalukya and the Goa Shilahara reigns were not
 > just confined to the region of Goa only. Further while the ruling
 > periods of the Bhojas and the Konkan Mauryas more or less coincided,
 > both of them overlapped with that of the Chalukyas at least for some
-> time.
+> time.*
 >
-> During the Chalukyan period, Goa existed as a feudatory political
+> *During the Chalukyan period, Goa existed as a feudatory political
 > entity. Besides, the Goa Shilaharas ruled first as the feudatories
 > of the Rashtrakutas of Malkhed and later on as that of the Chalukyas
 > of Kalyani. V.T. Gune has rightly remarked that the defence of the
@@ -110,27 +110,27 @@ reference to its feudal features, 2013
 > peripheral or feudatory region in the political field. The powers of
 > the Deccan like the Chalukyas of Badami, the Rashtrakutas of Malkhed
 > and the Chalukyas of Kalyani administered Goa as the political
-> overlords through their feudatories or representatives.
+> overlords through their feudatories or representatives.*
 >
-> However, Goa was a much sought after region due to its geographical
+> *However, Goa was a much sought after region due to its geographical
 > and strategic importance. The ports of Chandrapura (Chandor) and
 > Gopakapattana (Goa Velha), and the coastal or sea trade that they
 > facilitated were the special attractions for the different political
-> powers.
+> powers.*
 >
-> Roughly from the beginning of the fifth century AD to the beginning
+> *Roughly from the beginning of the fifth century AD to the beginning
 > of the eleventh century, Goa was a part of one or the other larger
 > kingdoms in the Deccan region. The different rulers of Goa ruled as
 > feudatories rather than as kings with supreme political powers. The
 > inscriptions that we have analysed clearly indicate that feudal
-> polity prevailed in Goa.
+> polity prevailed in Goa.*
 >
-> There was the rise of Brahmanas as an important social group in the
+> *There was the rise of Brahmanas as an important social group in the
 > Goan society. Land and agriculture were dominant in the economy,
 > though artisanal and trading activities also existed. The period of
 > the Shilaharas witnessed a transition as we get more references to
 > trade, guilds and coins during their period and gradually feudalism
-> declined in Goa.”
+> declined in Goa.”*
 
 The historical research through copper plates, inscriptions, etc. has
 established the fact that land grants were made to the Brahmins of
@@ -139,24 +139,24 @@ as scholars or officials assisting the kings in their courts and by
 recording the munificent deeds of the kings. The vassal was apparently
 given powers to give land grants without even taking the permission of
 his overlord. In most of the cases, the cultivable land was grabbed
-from the cultivators (even Gaunkari land) and granted to the Brahmins.
+from the cultivators (even *Gaunkari* land) and granted to the Brahmins.
 The Brahmins then got it cultivated from the peasants − either the
 tenants or the landless agricultural labour. Thus, the state, the
 landlord and the peasant figured as the major groups in the agrarian
 setup.
 
 Historians have found copper plates of the Bhojas granting even the
-rich cultivable khazan lands belonging to the Gaunkari to Brahmins,
+rich cultivable khazan lands belonging to the *Gaunkari* to Brahmins,
 due to which the Saraswat Brahmins became a dominant and influential
 power in the community institutions.  Besides khazan lands, they were
-also granted a house site, garden (kullagar) and water tanks (tallim)
+also granted a house site, garden (*kullagar*) and water tanks (*tallim*)
 for irrigation. This trend was followed by all the subsequent
 dynasties all across Goa.
 
 In fact, the Shilaharas even granted entire villages to the Brahmins,
 not just pieces of land. And the Brahmins allotted land to the people
 involved in service to the temple, including the oilman, gardener
-supplying flowers, dhobi, temple servants etc. The gaonkars had no
+supplying flowers, dhobi, temple servants etc. The *Gaunkars* had no
 option but to accept the entry of new migrant cultivators in the
 sphere of agriculture. But those new entrants were not given the right
 to manage Ganvponn and were not allowed the status of mahajan of
@@ -179,16 +179,16 @@ as well as Cortalim in Mormugao.[^6]
 special reference to the Communidade system: 1750-1910 (Thesis at Goa
 University)
 
-> “The second half of the fourteenth and the fifteenth century, which
+> *“The second half of the fourteenth and the fifteenth century, which
 > witnessed the perpetual hostility between the Vijayanagara rulers
 > and the Bahmani Sultan, were significant as far as the changes in
 > the village community system are concerned.... The Adil Shahi rulers
 > increased taxes (to one third) in order to teach the villagers a
 > lesson for refusing to admit Muslims as members of the village
 > communities. The villagers unitedly resisted Muslim encroachments in
-> the village communities.
+> the village communities.*
 >
-> In the year 1351 AD, Adil Shahi rulers appointed Desais and
+> *In the year 1351 AD, Adil Shahi rulers appointed Desais and
 > Sardesais to collect the revenue of certain lands. These men began
 > to demand exorbitant amounts from the peasants and used a part of it
 > to satisfy their own avarice. Moreover, in taxation abuses were
@@ -200,15 +200,15 @@ University)
 > till 1750’s.  The grant of villages to the Kshatriyas led to the
 > decline of the village community system in the New Conquests, for
 > these donees were not interested in agrarian operation as the early
-> settlers were.”
+> settlers were.”*
 
 This is precisely the reason, in Goa, we find today big landlords
 owning the villages, especially Deshprabhu and Desai in Pernem, Ranes
 in Sattari, Dempo in Tiswadi etc, who were the tax collectors, as well
 as a vassal (Mandalika) like Sondekar owning huge tracts of land in
 Tiswadi, Ponda, Canacona, and Dharbandora talukas. We also find
-Brahmin bhatkars (landlords) ruling Communidades while some Kshatriya
-sardars are also landlords and gaonkars, who also rule through the
+Brahmin *Bhatkars* (landlords) ruling Communidades while some Kshatriya
+sardars are also landlords and *Gaunkars*, who also rule through the
 temple committees. It simply did not matter to them which dynasty
 ruled, since they were the actual rulers of all these dynasties and
 feudatories for over 2000 years.
@@ -315,13 +315,13 @@ demolish Hindu temples, except for one ancient temple called a Pagoda
 in Divar. During this phase, he had assured all kinds of protection to
 the Hindus. Their relations were cordial.[^13]
 
-> “The Hindus who had left the island of Goa earlier (during
+> *“The Hindus who had left the island of Goa earlier (during
 > Adilshahi rule), due to political discontentment, on knowing
 > that Albuquerque demanded only half of the rent that they
 > used to pay to the Muslims, and that he would also let their
 > own chiefs govern their lands, returned to Goa. The initial liberal
 > Portuguese fiscal system changed the social and economic life
-> in Goa.”[^14]
+> in Goa.”*[^14]
 
 Following Goa, the Portuguese had also conquered two ports near
 Gujarat from the Shah − Diu in 1546 and Daman in 1559, after several
@@ -373,7 +373,7 @@ of the fidalgos. But he managed to convince the council and
 retained Goa. Albuquerque returned to Portugal by 1515, but
 the Portuguese had still not decided about Goa till 1540.
 
-> “The work of conversion was taken up on a war footing
+> *“The work of conversion was taken up on a war footing
 > when the Portuguese decided to remain in Goa and make it
 > their empire’s capital. Outposts in areas bordering the Hindu
 > and Muslim territories needed personnel for their defence, and
@@ -381,7 +381,7 @@ the Portuguese had still not decided about Goa till 1540.
 > necessary. But the locals were not easily entrusted with the
 > defence of the Portuguese-controlled lands. They were potential
 > threats. Besides, they were a people with little force and few
-> skills in warfare."[^18]
+> skills in warfare."*[^18]
 
 [^18]: Mendonca Delio de: Conversions and Citizenry, Goa under the
     Portugal 1510-1610 P 255
@@ -393,7 +393,7 @@ Inquisition to remould them even culturally. In Dr T B Cunha’s words,
 to denationalise them and make them devoted to the Portuguese
 empire. That is the reason why the conversions stopped by the
 beginning of the 17th century. But the horrific killings and burnings
-of the ‘bad Christians’ in Voddlem Ghor (House of Inquisition)
+of the ‘bad Christians’ in *Voddlem Ghor* (House of Inquisition)
 continued for 245 years till it was temporarily suspended in 1774 by a
 liberal minister Marquis de Pombal. All the prisoners were
 released. (It was revived within four years after Pombal was driven
@@ -418,10 +418,10 @@ the Portuguese colonialists. This is the reason the all-powerful
 Hindu king refused to intervene when temples were destroyed
 and Hindus were converted.
 
-> “The Hindu leaders regularly complained to the Vijayanagar rulers
+> *“The Hindu leaders regularly complained to the Vijayanagar rulers
 > including Rama Raya, of the Portuguese highhandedness.  But the
 > kings were reluctant to anger the Portuguese on whom they were
-> dependent for the critical supply of horses.”[^19]
+> dependent for the critical supply of horses.”*[^19]
 
 Trade politics overrode the duty of a king to protect his
 religion!
@@ -456,7 +456,7 @@ consolidating their position through other varied means. It is around
 this time that largescale conversions began. This resulted in the
 twenty-century long feudal system of land holdings undergoing a
 phenomenal transformation. It was much more than just
-institutionalising the Gaunkari of community ownership through
+institutionalising the *Gaunkari* of community ownership through
 Communidades and converting cultivator owners of the land into
 tenants.
 
@@ -485,19 +485,19 @@ the Jesuits in Tiswadi,[^24] followed by the Augustinians.
 [^21]: Ibid P 109
 [^22]: Priolkar A K: The Goa Inquisition P 69, 79-84
 [^23]: Gazetteer of Goa, Daman and Diu, Part I Goa P 154
-[^24]: भेंब्रे उदय: व्हडलें घर, व्हडल्या घराचीं सोंपणां चडचे पयलीं (प्रस्ता वना)
+[^24]: भेंब्रे उदय: व्हडलें घर, व्हडल्या घराचीं सोंपणां चडचे पयलीं (प्रस्तावना)
 
 Delio de Mendonça, former director of Goa’s Xavier Historical Research
 Centre, in his book “Conversions and Citizenry”, categorises
 conversions in three phases:
 
-> “During the first phase (1510-1540), the kings of Portugal showed a
+> *“During the first phase (1510-1540), the kings of Portugal showed a
 > great interest in conversions, but very few conversions had been
 > made... The second period (1540-1580)... saw the greatest number of
 > converts and the most overt proselytising conduct. The third phase
 > (1580-1610) witnessed the decline of the ‘Golden Goa’, but in spite
 > of this fact conversions went on increasing in the districts of
-> Bardez and Salcete.”[^25]
+> Bardez and Salcete.”*[^25]
 
 But were the conversions forceful? Were there direct threats to either
 convert or leave Goa? Why did thousands of Hindus convert? Out of
@@ -505,7 +505,7 @@ conviction and faith in Jesus Christ? Or to save their land and
 properties? Were there other temptations?  There are varied answers to
 this.
 
-> “Dr Antonio Noronha, a former judge of the High Court of Goa, in his
+> *“Dr Antonio Noronha, a former judge of the High Court of Goa, in his
 > essay ‘The Hindus and the Portuguese Republic’ which is based on a
 > careful study of contemporary official records… comments:... Until
 > 1560 in Salcete there existed but one church and mission house in
@@ -518,7 +518,7 @@ this.
 > otherwise be expelled; not a few to avoid the loss of their
 > properties and interests; some with their eyes on lucrative jobs -
 > and almost none from conviction. The conviction, the faith, these
-> would come later…”[^26]
+> would come later…”*[^26]
 
 [^25]: Mendonça Delio de: Conversions and Citizenry, Goa under the
     Portugal 1510-1610 P 107
@@ -593,7 +593,7 @@ Portugal 1510-1610 P 260-265
 [^28]: Robinson Rowena: Some Neglected Aspects of the Conversion of
 Goa, A Socio-Historical Perspective
 
-> “It is easy to say that the decision of the Gauncars to convert was
+> *“It is easy to say that the decision of the Gauncars to convert was
 > totally pragmatic: they did it to avoid losing their land and
 > property… I would argue that the Hindus did not act out of complete
 > helplessness. A choice was being made to adopt Catholicism... By
@@ -602,9 +602,9 @@ Goa, A Socio-Historical Perspective
 > Lemercinier (1981) argue, churches in some ways replaced temples.
 > In their new places of worship converts could reconstruct their
 > socio-symbolic system organized around the production and
-> reproduction of their material and social arrangements.
+> reproduction of their material and social arrangements.*
 >
-> It must also be remembered that where the superior position of the
+> *It must also be remembered that where the superior position of the
 > Gauncars was concerned, the Portuguese were not ill disposed towards
 > the privileges of hierarchy: they came, after all, from the upper
 > ranks of a profoundly hierarchical society...  This explains why
@@ -613,14 +613,14 @@ Goa, A Socio-Historical Perspective
 > agricultural processes and religious celebrations were
 > linked... Jesuit documents bring out the importance of certain
 > feasts (such as the harvest) celebrated around village temples,
-> which later found their place within the Catholic calendar.
+> which later found their place within the Catholic calendar.*
 >
-> I would argue that the Hindus did not act out of complete
+> *I would argue that the Hindus did not act out of complete
 > helplessness. A choice was being made to adopt Catholicism…  In this
 > society the rules of hierarchy legitimated the power of the high
 > castes… With the entry of the Portuguese that situation
 > changed. Conversion became the basis for the social, economic and
-> political recognition of a group.”
+> political recognition of a group.”*
 
 In the series of events that happened during the whole demolition and
 conversion spree, the land and properties changed hands several
@@ -770,7 +770,7 @@ of Settlement and Land Record.
 | Bicholim  | 55       | 10.108           |
 | **Total** | **7871** | **16616.837**    |
 
-Source: CAG Report 2015
+*Source: CAG Report 2015*
 
 These are the stunning findings of the CAG, when the rule
 is that Alvara land cannot be diverted for any other purpose
@@ -824,7 +824,7 @@ disposed of over 15 years now. Also land sharks have started
 purchasing the land by ‘helping’ the poor cultivators to own the
 land.[^31]
 
-[^31]: नाईक गावकर कि शोर; आल्वा रा-आफ्रामेंत जमि नींचा वाद काय?
+[^31]: नाईक गावकर किशोर; आल्वारा-आफ्रामेंत जमिनींचा वाद काय?
 
 While these rampant irregularities were going on, the real cultivators
 from Sattari rose up in 2020 against the setting up of a prestigious
@@ -850,16 +850,16 @@ during the Portuguese regime as mere tax collectors of the land.
 
 Mokasso is a system of landholding prevalent in the Sattari taluka and
 two villages of Bicholim: Maulinguem and Karapaur.  Those who are
-holding Mokashe are called Mokasdars, or Khashe. There are altogether
+holding Mokashe are called Mokasdars, or *Khashe*. There are altogether
 12 Mokashe in Sattari and parts of Bicholim and their owners are
 either Ranes or Desais. They not only own the cultivable land but the
 whole village, including the housing land. These Mokashe were given to
 them during the Adilshahi Sultanate. Today, they claim to be the
 owners of Mokashe.[^32]
 
-[^32]: राण े रणजीतसंि ग जयसंि गराव; सत्तरीतील जमीन मालकीची व्यथा व उपाय
+[^32]: राणे रणजीतसिंग जयसिंगराव; सत्तरीतील जमीन मालकीची व्यथा व उपाय
 
-One of the mighty Khashe of Sattari is Pratapsingh Raoji Rane
+One of the mighty *Khashe* of Sattari is Pratapsingh Raoji Rane
 Sardessai, who has had a record run in Indian politics by getting
 elected consistently for 50 years, from 1972 to 2022.  He was the
 revenue and law minister in the Bandodkar and Kakodkar ministries of
@@ -869,26 +869,26 @@ to 1990. He was also the Speaker of the Goa Assembly and Leader of the
 Opposition, perhaps the only politician of Goa who has enjoyed all the
 highest positions in the government and the elected Assembly.
 
-No person other than the Khashe has ever been elected the MLA of the
+No person other than the *Khashe* has ever been elected the MLA of the
 constituencies in Sattari taluka. The only exception was Gopal Apa
 Kamat, an outsider elected in 1967 on an MGP ticket, by defeating
-independent candidate Baburao Desai, another Khashe. However, after
+independent candidate Baburao Desai, another *Khashe*. However, after
 Pratapsingh Rane entered the election arena in 1972, he ruled Sattari
 till the taluka was divided into two constituencies, Poriem and
 Valpoi, after Statehood from the 1989 Assembly election. Pratapsingh
 Rane is still the Poriem MLA. In Valpoi, Rane-supported candidates
 were defeated only twice by BJP’s Narhari Haldankar, in 1994 and
 in 2002. Otherwise, Valpoi MLA has always been represented by the MLAs
-blessed by Rane. Ashok Prabhu, not a Khashe in 1989; another Khashe,
+blessed by Rane. Ashok Prabhu, not a *Khashe* in 1989; another *Khashe*,
 Venkatesh alias Bandu Desai in 1999; and then Vishwajit Pratapsingh
-Rane, the Junior Khashe known popularly as Baba, since 2007. It did
+Rane, the Junior *Khashe* known popularly as Baba, since 2007. It did
 not matter to Baba’s voters whether he contested as an independent,
 Congress, BJP, or quit any party any time to face bye-elections on
 another party’s ticket.
 
 Now, since the Senior Rane has grown old, Baba is planning to field
 his wife Divya from Poriem. Most of the time, the main opponents to
-them in all the elections were also the Khashe.  Who are these Khashe
+them in all the elections were also the *Khashe*.  Who are these *Khashe*
 or Mokasdar, holding the whole villages as Mokasso, the system which
 is not found anywhere else in Goa?
 
@@ -923,8 +923,8 @@ found in Maharashtra with surnames Mokasdar.
 Ranjeetsingh Jaisinghrao Rane, whose father was the first MLA of
 Sattari, told me that Rane Sardesai were not the feudatories directly
 under Adilshah but under the Khem Sawant Desai of Sindhudurg-Kudal. He
-introduced their ancestor Satroji Rane to the Adilshah as his ‘khaas
-aadmi’, through which the word Khashe evolved. Satroji, the son of
+introduced their ancestor Satroji Rane to the Adilshah as his ‘*khaas
+aadmi*’, through which the word *Khashe* evolved. Satroji, the son of
 Sajjan Singh from Rajasthan, fought with his Sardar family for not
 giving him the hereditary rights and travelled down to Shrirangpur
 near Kolhapur. From there he came down to Sattari, after which Khem
@@ -957,24 +957,24 @@ and send him to the capital. (According to Ranjeetsingh Rane, one such
 Mokaso of Kumarkhan was confiscated by the Portuguese. It belonged to
 Dipaji Rane)
 
-> “... the Desai was no de jure ‘overlord’ of a Pargana or its minor
+> *“... the Desai was no de jure ‘overlord’ of a Pargana or its minor
 > division but a ‘royal servant’ who was to collect revenue, maintain
 > security and order, and perform other official tasks in his Pargana,
 > but also was entitled to as ‘perpetual overlordship’ of certain
 > villages, though the overlordship within them was normally
 > restricted by the traditional judicial system supported by the royal
-> authority.”[^37]
+> authority.”*[^37]
 
 [^37]: Fukazawa Hiroshi; A Study of the Local Administration of Adilshashi Sultanate (AD 1489- 1686) 10 January 1963
 
-By dismantling the Gaunkari system prevalent earlier, the 12 Mokashe
+By dismantling the *Gaunkari* system prevalent earlier, the 12 Mokashe
 (or vatan) were given to Ranes by Khem Sawant Desai during the
 Adilshahi regime. These are, now in Sattari: 1) Keri, 2) Parye, 3)
 Khadki, 4) Saleli, 5) Kumarkhann, 6) Savordem, 7) Gullem, 8) Thane, 9)
 Vadaval, and 10) Brahmakarmali. The two more, which now fall in
 Bicholim taluka are 11) Maulingeum and 12) Karapur.
 
-Though Ranes are respected as Khashe in Sattari, mention
+Though Ranes are respected as *Khashe* in Sattari, mention
 of their Mokashe are not found in today’s revenue records.
 Babu Kavalekar, the MLA, had asked for details of Mokashe in
 Sattari in 2017. The official reply said: *“There is no Mokasso
@@ -984,7 +984,7 @@ Mokasso land. No steps are taken in this regard.*”[^38]
 
 **Mokashe Of Sattari-Bicholim & Tentative Area**
 
-| VILLAGE      | TALUKA   | KHASHE | Acres     | Sq Mts       | Acres    | Sq Mts       |
+| VILLAGE      | TALUKA   | *Khashe* | Acres     | Sq Mts       | Acres    | Sq Mts       |
 |--------------|----------|--------|-----------|--------------|----------|--------------|
 | Querim       | Sattari  | Rane   | 3700      | 14973382     | 2000     | 8093720      |
 | Karapur      | Bicholim | Rane   | 2000      | 8093720      | 1500     | 6070290      |
@@ -1011,7 +1011,7 @@ Pratapsingh Rane’s father Rauji. Being the strong proponent of Land to
 the Tiller, Sattari’s first MLA Jaisingrao registered all the tillers
 as tenants and made the land they were cultivating in their respective
 names. A similar pattern was also followed by Baburao Desai, another
-Khashe of Thane who had contested elections in Sattari in 1963 on
+*Khashe* of Thane who had contested elections in Sattari in 1963 on
 Congress ticket and in 1967 as Congress-supported Independent. He lost
 both the elections, but made the tenants the owners of their
 cultivated land.
@@ -1025,16 +1025,16 @@ land consists of the paddy fields, the cashew plantation and the
 houses they live in, which is called Gauthan. Neither are they
 registered as tenants nor are they the mundkars of their ancestral
 houses. Till date, residents of Sattari need to take NOC from the
-Khashe for any new construction since they own the villages. Some of
+*Khashe* for any new construction since they own the villages. Some of
 them also claim that they were paying Shidha (part of produce) to the
 Mokasdar till a decade ago, for the paddy, cashew, other fruit bearing
 trees and even their houses. Their future still hangs in the fire in
 spite of their elected representatives holding the reins of power as
 the ministers and even the chief minister.
 
-None of the people told me that there was any attempt by any Khashe to
+None of the people told me that there was any attempt by any *Khashe* to
 harass the cultivators, except for the incident of Saleli where people
-stoned and killed Prithviraj Rane. The Khashe claimed to be the owners
+stoned and killed Prithviraj Rane. The *Khashe* claimed to be the owners
 of the rest of the land and in many cases, they have sold the land to
 big companies like Godrej, Nestle, Geeta Farm, educational
 institutions and even the Government of Goa. The new trend now is to

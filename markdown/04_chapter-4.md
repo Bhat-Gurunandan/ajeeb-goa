@@ -68,7 +68,7 @@ A similar system is still prevalent among the Mundari tribe in West
 Bengal, from where our tribals had travelled down.  *Barazan* is a
 common system practiced by these Goan tribes as well as by the Kols
 and Mundaris in Chota Nagpur. In both the states, the system is now
-reduced to a religious entity. There are still places called Barazan
+reduced to a religious entity. There are still places called *Barazan*
 in Sattari and Sanguem, while the Portuguese records reveal that many
 places had this name in the three talukas of the Old Conquests.[^1]
 
@@ -83,12 +83,12 @@ Bicholim, Quepem, Canacona, and Sanguem.[^3]
 
 According to Arvind Khutkar, a senior bureaucrat in the Goa
 administration, khunti was the term primarily used to set boundaries
-of each village by piercing a wooden pole (khunti) at all its four
+of each village by piercing a wooden pole (*khunti*) at all its four
 corners. In his Kalay village of Sanguem taluka, there are also
 *rakhandars* (protector deities) worshipped at six different places in
-all the directions at these village borders, called Charvadyancho
-Aajo, Kuddo Aajo, Mhal *Khunti*, Vagro Siddh (Dhal *Khunti*),
-Shelincho Aajo and Devagat. The families of khuntkars, who are
+all the directions at these village borders, called *Charvadyancho
+Aajo, Kuddo Aajo, Mhal Khunti, Vagro Siddh (Dhal *Khunti*),
+Shelincho Aajo* and *Devagat*. The families of khuntkars, who are
 traditionally the tribal priests (Jalmi or Velip), are given the
 responsibility of worshipping all these *rakhandars*. Tribes with the
 surname Khutkar are also found in Harvalem village of Bicholim,
@@ -128,29 +128,29 @@ religious rituals were taken collectively. The place where this
 collective activity took place in an open central place was called a
 *Maand*. It exists till date. The democratic procedure set up to meet,
 discuss, and resolve the issues was called *Ganvponn*. The actual
-meeting of the people was called *Bhous* or *Bhousar*. The priest
-conducting religious rituals was called Jalmi or Velip. The leader of
+meeting of the people was called *bhous* or *bhousar*. The priest
+conducting religious rituals was called *Jalmi* or *Velip*. The leader of
 the community was called *Gaunkar* or *Budvont*. (The community
 respectfully calls them *Gaunkar*, people from other communities call
 them *Budvont*, since he is the most senior and knowledgeable person
-in the community.[^5]) Both of them, the Jalmi and the *Gaunkar* till
+in the community.[^5]) Both of them, the *Jalmi* and the *Gaunkar* till
 date, are the most respectable personalities and leaders among the
 tribal communities. All the issues and even family disputes were
-discussed and resolved at the mandd through *Ganvponn*. The *Gaunkar*
+discussed and resolved at the *mandd* through *Ganvponn*. The *Gaunkar*
 has the final word in this regard. However, each and everyone is
 allowed to speak, raise objections, and debate on all the issues. A
 highly democratic system indeed![^6]
 
 [^4]: Kamat Dr Nandkumar: History of Khazan land management in Goa: Ecological, Economic and Political Perspective
-[^5]: गावकर देविदास; गोव्या तील आदि वासी रचना आणि जीवनशैली, पान 193
+[^5]: गावकर देविदास; गोव्यातील आदिवासी रचना आणि जीवनशैली, पान 193
 [^6]: Gawas Vijay: Impact on tribal people after codification of Gaunkary system into Code of Communidades
 
 The second stage of this democratic *Gaunkari* institution is
-Barazan. In Konkani it means twelve people. The heads of twelve maand,
+*Barazan*. In Konkani it means twelve people. The heads of twelve maand,
 either Jalmi or *Gaunkar*, would sit in a specially demarcated circular
 space with 12 stone seats. It functioned like an appellate authority
 with judicial powers. The issues which could not be resolved at the
-*Ganvponn* were discussed at Barazan. The system, unfortunately, does
+*Ganvponn* were discussed at *Barazan*. The system, unfortunately, does
 not exist now. But the places with *Barazan* deities still exist in many
 tribal villages all across Goa.
 
@@ -160,7 +160,7 @@ space. It was a large assembly of the *Barazan* as well as the Mandd
 members of all the 12 villages. The *Varg* took all the major
 decisions common for the 12 villages as well as to discuss and resolve
 the issues which could not be resolved either by the *Maand* or
-Barazan, in the presence of the whole gathering.  Hardly any place
+*Barazan*, in the presence of the whole gathering.  Hardly any place
 traditionally marked for the *Varg* exists today.  One of the last
 ones, existing at the Curca-Bambolim plateau adjacent to the military
 camp, has been destroyed due to new constructions.
@@ -194,12 +194,12 @@ instituted by the Portuguese, as well as the further erosion of the
 
 > “*Everything, from ploughing to distribution and deficit was
 > regulated on a cooperative basis. The reclamation and development of
-> the fertile ‘khazan’ land was entrusted to a group (‘bhous’). This
+> the fertile ‘khazan’ land was entrusted to a group (‘*bhous*’). This
 > resulted in the creation of a regional agro-based society, where the
 > cultivation and administration of village land was undertaken by a
 > cooperative of coparcenaries called the ‘Gaonponn’ (council of
 > village representatives). Each councillor represented a clan
-> (‘vangod’) that existed at the time of the formation of the
+> (*vangod*) that existed at the time of the formation of the
 > council. The size of the village council varied according to the
 > number of the clans.*
 >
@@ -210,7 +210,7 @@ instituted by the Portuguese, as well as the further erosion of the
 > register (‘vahi’). A nay (‘naka’) was a veto and a single person
 > could block the decision of the rest.*
 >
-> The fertile land was auctioned triennially. The villagers were
+> *The fertile land was auctioned triennially. The villagers were
 > informed about it five nights in advance (‘panch rati’). The
 > Gaonkars gathered at the ‘Gaonponn’ to make land grants. In case a
 > Gaunkar wanted to sell his rights, the Gaonponn had the right of
@@ -250,8 +250,8 @@ revenue for the kingdom. D D Kosambi explains this:
 
 Somewhere during these regimes, certain communities were allotted land
 by the village administrators for the services they rendered. The
-arable land was given to the priestly class, lowlands to the Gaunkars
-and non-Gaunkars, the medium quality land (namoxins) given to the
+arable land was given to the priestly class, lowlands to the *Gaunkars*
+and non-*Gaunkars*, the medium quality land (*namoxins*) given to the
 temple or village servants and low quality land was rented out in
 perpetuity either on a fixed rent (‘*cutubona*’) or a variable tax
 (‘*vanty*’).  *Gaunkari* institutions also looked after public utility
@@ -262,14 +262,14 @@ over the rivulets, putting up schools and ‘davarnne’ (stone platforms
 for resting head loads), planting trees along the roads for shade,
 etc.
 
-In due course of time, the Gaunkars appropriated the right
+In due course of time, the *Gaunkars* appropriated the right
 to reclaim the land and hold it as their hereditary right. This
 was strengthened by the Vijayanagar and Adil Shahi rulers who
 inducted feudalism and landlordism into the agrarian sector.[^8]
 
 [^8]: Raikar Avinash & D’Cruz Dr Sharon: Democratic Management of Common Property in Goa
 
-## Communidades Destroy the *Gaunkari*
+## Communidades destroy the *Gaunkari*
 
 A misconception is being widely spread that Communidade, a name
 christened by the Portuguese in 1526, is nothing but the ancient
@@ -367,12 +367,12 @@ Communidades for the benefit of the State. This process continued till
 1961, when finally Goa was liberated.  The backbone of the *Gaunkari*
 was actually broken in the 17th century, by the introduction of a
 feudal structure in the Communidades, the new land relations as
-bhatkar (landlord) and kull (tenants).
+*Bhatkar* (landlord) and *kull* (tenants).
 
 **1649** 
 : The Council of Landed Properties declared that the state was the
 ‘lord of all the community lands’, the village councillors were the
-vassals of the crown and the gaunkars were its tenants. Paying *foro
+vassals of the crown and the *Gaunkars* were its tenants. Paying *foro
 corrente* (fixed tribute) by the gaunkar to the State was made
 mandatory.
 
@@ -385,11 +385,11 @@ carried out by a judge appointed by the Government.
 **1745**
 : The unique veto system of even one gaunkar saying naka stalling the
 decision was changed to the passing of resolutions by a simple
-majority. The mahajans and gaunkars enjoyed a status that was based on
+majority. The *Mahajans* and *Gaunkars* enjoyed a status that was based on
 their class, occupation, and influence.
 
 **1770**
-: The bhous was institutionalised and empowered to clear wastelands.
+: The *bhous* was institutionalised and empowered to clear wastelands.
 
 **1776**
 : An agricultural department was created to reclaim land under
@@ -405,7 +405,7 @@ thanadar. Judicial cases were referred to the district judge.
 regulate the functions of the village communities.  1880: A decree was
 issued extending membership of the Communidades to the shareholders,
 associates, and the public in general. In the new conquests, a new
-system of shareholders (‘accionistas’) was devised. The dividend of
+system of shareholders (*accionistas*) was devised. The dividend of
 the transferable shares and net income of the village community was
 divided among non-*Gaunkar* shareholders, but they were not allowed to
 take part in the administration. The State also started receiving the
@@ -431,7 +431,7 @@ issuing non-transferable shares to them with fixed dividends.
 
 **1961**
 : Yet another Code of 660 articles was promulgated, by legally
-abolishing the *Bhous* and the government taking up the responsibility
+abolishing the *bhous* and the government taking up the responsibility
 of administering the Communidades.[^11]
 
 This was the last nail in the coffin of the age-old *Gaunkari*
@@ -440,9 +440,9 @@ the community spirit. No doubt the Code of Communidade streamlined its
 democratic functioning in letter, but sadly, not in spirit. By this
 time, Communidade itself had become a Bhatkar. On the other hand, the
 influential and privileged landlords, most of whom were allies of the
-Portuguese, had become its *Gaunkars* (with few exceptions).  And, if
+Portuguese, had become its **Gaunkars** (with few exceptions).  And, if
 required, the Government had all the powers to overrule any decision
-of the *Gaunkars*. The Communidades also became a Sawakar
+of the **Gaunkars**. The Communidades also became a Sawakar
 (moneylender), giving loans at four per cent interest against a
 security of gold, silver or shares (accoes) of the Communidades.
 
@@ -511,7 +511,7 @@ Existing Communidades In Talukas/Conquests
 | **NEW CONQUESTS** | **101**      |
 | **TOTAL**         | 225          |
 
-Source: Report of Communidade Commission 2015
+*Source: Report of Communidade Commission 2015*
 
 
 Incidentally, the same three talukas have been getting congested with
@@ -542,7 +542,7 @@ Number Of Communidades During Pre & Post-Liberated Goa
 | New Conquests | 281       | 101     | 180          |
 | **TOTAL**     | **426**   | **225** | **201**      |
 
-Source: Dias Remy Antonio Diano & Report of Communidade Commission
+*Source: Dias Remy Antonio Diano & Report of Communidade Commission*
 
 As agriculture started becoming unproductive, a migratory trend began
 in Goa from the villages to areas of opportunities.  Goans started
@@ -794,10 +794,10 @@ Vijay Gawas from Neura hails from the same tribal community, who lost
 their cultivated land to the Communidades.  It is worth investigating
 by setting up another independent commission how much truth the
 allegation holds. Because for those who founded the *Gaunkari* system,
-they look at the Communidade as the Bhatkar and also find the Tenancy
+they look at the Communidade as the *Bhatkar* and also find the Tenancy
 Act faulty.
 
-## Who is a Bhumiputra?
+## Who is a *Bhumiputra*?
 
 Meanwhile, the Goa Assembly has already passed a Goa Regularisation of
 Unauthorized Construction Act in 2016, which legalised all the
@@ -835,11 +835,13 @@ bill from the Governor. Later it was also revealed through RTI that
 the bill was objected to even by the revenue, finance, and law
 departments.
 
-Goans across party lines objected to the word Bhumiputra, which was
+Goans across party lines objected to the word *Bhumiputra*, which was
 explained by CM Dr Sawant as ‘the son of the soil’.  The bill refers
 to any person residing in Goa for the last 30 years prior to 1 April
 2019 and has no dwelling exceeding the area of 250 square
-metres. “*The Bill provides for a mechanism to give ownership rights
+metres. 
+
+“*The Bill provides for a mechanism to give ownership rights
 to the self-occupied dweller of a small housing unit to enable him to
 live with dignity and self-respect and exercise his right to life,*”
 the bill stated. There was a public uproar that this bill was brought
@@ -848,14 +850,14 @@ bank. Bowing before the public pressure, the bill is now being frozen.
 
 Dr Madhu Gaude Ghodkirekar, a forensic doctor at Goa Medical College
 and a columnist, wrote on the event of International Tribals Day (9
-August) that more than Bhumiputra, Goans and the government should
+August) that more than "Bhumiputra*, Goans and the government should
 respect Bhumi Bhakt (a devotee of Goan soil), who is devoted to
 develop Goa.  Incidentally, Dr Madhu belongs to the Gauda community,
 one of the first group of settlers in Goa almost 10,000 years
 ago.[^25]
 
 No matter what happens to the bill, this has provoked a
-debate once again. Who is a Bhumiputra? Who should be called
+debate once again. Who is a *Bhumiputra*? Who should be called
 the Son of the Soil? The one who has been living in Goa for
 generations but is now conspiring with land sharks and selling
 Goa and its precious land for selfish petty gains? Or the one
