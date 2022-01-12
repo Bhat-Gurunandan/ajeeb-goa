@@ -751,6 +751,7 @@ MGP STRONGHOLDS
 OPINION POLL 1967: VOTES & MARGIN
 
 UGP STRONGHOLDS
+
 | No    | Constituency | Polling | Flower |    | Two Leaves |    | Margin |   |
 |-------|--------------|---------|--------|----|------------|----|--------|---|
 |       |              |         | Votes  | %  | Votes      | %  | Votes  |   |
