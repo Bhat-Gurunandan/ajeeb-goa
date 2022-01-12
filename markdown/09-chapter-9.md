@@ -24,7 +24,7 @@ elections for MPs. Lt Governor P Sivasankar, who was the chief
 guest, even had to face stone pelting at this public function.[^2]
 
 [^1]: Annual Report of the Ministry for External Affairs 1962-63
-[^2]: Gomantak; 7 July 1962
+[^2]: गोमंतक; 7 जुलै 1962
 
 This was followed by a fast-unto-death by a young freedom fighter,
 Roque Santana Fernandes, in the lobby of the Margao municipal building
@@ -45,8 +45,8 @@ Union.[^4] These appointments developed into the first political
 controversy, which probably laid the foundation of the historic
 Assembly election of 1963.
 
-[^3]: Gomantak; 9-14 July 1962
-[^4]: Gomantak; 10 July 1962
+[^3]: गोमंतक; 9-14 जुलै 1962
+[^4]: गोमंतक; 10 जुलै 1962
 
 The people at large were also upset over the manner in which Lt
 Governor T Sivasankar had set up a 24-member Consultative
@@ -93,8 +93,8 @@ organisation but also formed a committee, which met Prime Minister
 Jawaharlal Nehru in Delhi and requested him to maintain the separate
 identity of Goa by promoting Konkani as well as Marathi languages.[^6]
 
-[^5]: राधाकृष्ण वामन; महाराष्ट्र वादी गोमंतक पक्षः स्था पना आणि वाटचाल पान 18
-[^6]: राधाकृष्ण वामन; मुक्ती नंतरचा गोवा पान 11
+[^5]: राधाकृष्ण वामन; महाराष्ट्रवादी गोमंतक पक्षः स्थापना आणि वाटचाल पान 18
+[^6]: राधाकृष्ण वामन; मुक्तीनंतरचा गोवा पान 11
 
 According to Purushottam Kakodkar, who later led the Congress for over
 a decade, he had decided to withdraw from politics as he felt
@@ -116,8 +116,8 @@ Mulgaonkar, Kamat, Sardesai, Dr J F Martins, Dr Vinayak Mayekar, Dr
 Ram Hegde, Prof Laxmikant Bhembre, Anthony D’Souza, N B Rao, Alvaro
 Pereira, Dr Laura D’Souza and Mitra Madhav Bir.[^8]
 
-[^7]: नागवेंकार डॉ􀇛 हरिश्चंद्र ; पुरुषोत्तम काकोडकार, जि वीत आनी कार्य, पान 72
-[^8]: राधाकृष्ण वामन; मुक्ती नंतरचा गोवा पान 17
+[^7]: नागवेंकार डॉ हरिश्चंद्र ; पुरुषोत्तम काकोडकार, जिवीत आनी कार्य, पान 72
+[^8]: राधाकृष्ण वामन; मुक्तीनंतरचा गोवा पान 17
 
 These are the founders of the Congress party in Goa.  It was a group
 of freedom fighters who had their differences of opinion on merging
@@ -173,7 +173,7 @@ MP election from South Goa.
 
 [^9]: Parobo Parag D; India’s First Democratic Revolution P 117
 
-In a lengthy interview to Gomantak, Kakodkar denied all the
+In a lengthy interview to *Gomantak*, Kakodkar denied all the
 allegations made against him including that he had received a cheque
 of Rs 25,000 from Kantilal Gosalia, a mine owner and that this money
 had been used to buy votes in his favour.  He however admitted that he
@@ -197,7 +197,7 @@ Waman Radhakrishna, a veteran journalist and freedom fighter, in his
 book on the Maharashtrawadi Gomantak Party, has aptly described the
 mindset of the common Goenkar at this juncture:
 
-> “The Bahujan Samaj was happy with Goa’s freedom but was not trying to
+> *“The Bahujan Samaj was happy with Goa’s freedom but was not trying to
 > understand why it had remained backward.  He was uneducated, but was
 > not trying to find out the root cause behind their
 > backwardness. Rather than being self-critical, he preferred to blame
@@ -212,9 +212,9 @@ mindset of the common Goenkar at this juncture:
 > themselves to be the high class. From the point of view of the Bahujan
 > Samaj, they had also become ‘Bamonn’ (Brahmins)... The Bahujan Samaj
 > was scared that the same people would continue exploiting them using
-> their power of education and influence.”[^10]
+> their power of education and influence.”*[^10]
 
-[^10]: राधाकृष्ण वामन; महाराष्ट्र वादी गोमंतक पक्षः स्था पना आणि वाटचाल पान 13, 15
+[^10]: राधाकृष्ण वामन; महाराष्ट्रवादी गोमंतक पक्षः स्थापना आणि वाटचाल पान 13, 15
 
 Amidst these developments, two more socio-cultural organisations were
 in search of a political solution. One was the Gomantak Maratha Samaj
@@ -291,10 +291,10 @@ and the Praja Samajwadi Party. As said earlier, the youth in different
 parts of Goa had constituted fronts to champion the cause of the
 merger into Maharashtra and to seek freedom from land-enslavement. The
 cause of the merger received a major boost with Vishwasrao Chowgule
-launching Goa’s first Marathi daily Gomantak on 24 March 1962. He was
+launching Goa’s first Marathi daily *Gomantak* on 24 March 1962. He was
 a mine owner who came from Marathi-speaking Belgaum and set up his
 business in Goa during the Portuguese regime. B D Satoskar, the editor
-of Gomantak and a Marathi writer, was a strong proponent of the
+of *Gomantak* and a Marathi writer, was a strong proponent of the
 merger. Followed by this, Janardan Shinkre, another freedom fighter
 from Ponda, launched the second Marathi daily Pradeep on 6 September
 1962[^12] as a Free Voice of the people of Goa, without any strings
@@ -304,7 +304,7 @@ Shinkre were Saraswat Brahmins, but of a firm view that landlordism
 should come to an end and the tiller should be the owner of his own
 land.
 
-[^12]: प्रभू परेश वासुदेव; गोमंतकीय मराठी पत्रकारितेचा इति हास पान 213, 216
+[^12]: प्रभू परेश वासुदेव; गोमंतकीय मराठी पत्रकारितेचा इतिहास, पान 213, 216
 
 The person who took the initiative to bring all the promerger forces
 under one common banner was Janardan Shinkre. While running his
@@ -343,10 +343,10 @@ this Bandodkar?” asked Raghunath Tople of Mapusa to Shinkre of Ponda
 the day the MGS was formed. Shinkre told him: “He carries lots of
 respect among the Bahujan Samaj.”[^15]
 
-[^13]: राधाकृष्ण वामन; महाराष्ट्र वादी गोमंतक पक्षः स्था पना आणि वाटचाल पान 20
-[^14]: कारवारकर उर्फ मराठे नारायण आ; आमच्या समाजाचे स्फूर् तीस्था न (आमचे भाऊ,
-ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती गौरव ग्रं थ) पान 204
-[^15] राधाकृष्ण वामन; महाराष्ट्र वादी गोमंतक पक्षः स्था पना आणि वाटचाल पान 20
+[^13]: राधाकृष्ण वामन; महाराष्ट्रवादी गोमंतक पक्षः स्थापना आणि वाटचाल, पान 20
+[^14]: कारवारकर उर्फ मराठे नारायण आ; आमच्या समाजाचे स्फूर्तीस्थान (आमचे भाऊ,
+ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती गौरव ग्रंथ) पान 204
+[^15] राधाकृष्ण वामन; महाराष्ट्रवादी गोमंतक पक्षः स्थापना आणि वाटचाल, पान 20
 
 People knew Bandodkar in those days as a young businessman and mine
 owner, who was generously donating funds for any good social cause,
@@ -355,7 +355,7 @@ knew what ideology he belonged to. Tarkateertha Lakshman Shastri Joshi
 has revealed this in an article he has written on a book published on
 Bhausaheb on the occasion of his 60th birthday:
 
-> “I met Bhausaheb Bandodkar in 1962. I was not aware that he knew me
+> *“I met Bhausaheb Bandodkar in 1962. I was not aware that he knew me
 > for the last 25 years. I was invited to Goa to inaugurate the Shetkari
 > Parishad. I was put up at a bungalow on Altinho where I was welcomed
 > by a smart-looking midage impressive personality called Dayanand
@@ -368,9 +368,9 @@ Bhausaheb on the occasion of his 60th birthday:
 > international politics, Marxism etc, held at our Dadar office. He had
 > even heard M N Roy, was impressed with his lectures and had become a
 > Royist himself. However, he stayed away from joining the party when
-> the internal differences in the party came to the fore.”[^16]
+> the internal differences in the party came to the fore.”*[^16]
 
-B D Satoskar, the first editor of Gomantak, says that Bhau gave credit
+B D Satoskar, the first editor of *Gomantak*, says that Bhau gave credit
 to Lokmanya Tilak for his mission of Charity.[^17] Sitaram Tengse, yet
 another senior journalist and former Editor of Rashtramat, says that
 many politicians in those days were inspired by Royist theory of
@@ -387,11 +387,11 @@ concept of ‘Bahujan’ had evolved through these influences which Chavan
 had implemented in Maharashtra and Bhau wanted it to be extended to
 Goa, by merging it into Maharashtra.
 
-[^16]: जोशी लक्ष्मणशास्त्री; अनेक तेजस्वी पैलू असलेले व्यक्ति मत्व (आमचे भाऊ, ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती
-गौरव ग्रं थ) पान 29-30
-[^17]: सातोस्कर बा. द.; समाजसेवक बांदोडकर (आमचे भाऊ, ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती गौरव ग्रं थ) पान 91)
-[^18]: टेंगसे सीताराम; एक असामान्य लोकनेता (भाऊसाहेब गौरव ग्रं थ 2011) पान 23-24
-[^19]: कांसार अमृत; अभि वादन समाजपुरुषाला (भाऊसाहेब गौरव ग्रं थ 2011) पान 14
+[^16]: जोशी लक्ष्मणशास्त्री; अनेक तेजस्वी पैलू असलेले व्यक्तिमत्व (आमचे भाऊ, ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती
+गौरव ग्रंथ) पान 29-30
+[^17]: सातोस्कर बा. द.; समाजसेवक बांदोडकर (आमचे भाऊ, ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती गौरव ग्रंथ) पान 91)
+[^18]: टेंगसे सीताराम; एक असामान्य लोकनेता (भाऊसाहेब गौरव ग्रंथ 2011) पान 23-24
+[^19]: कांसार अमृत; अभिवादन समाजपुरुषाला (भाऊसाहेब गौरव ग्रंथ 2011) पान 14
 
 This makes it crystal clear why Bhau opposed an anti-Brahmin party and
 refused to be part of any organisation that would divide the Goan
@@ -451,7 +451,7 @@ neighbouring states. But the Prime Minister had not left a single
 opportunity to display his firmness. While addressing a rally of Goans
 in Bombay on 4 June 1956, Nehru had said:
 
-> “What have we done in the French settlements? First of all, we have
+> *“What have we done in the French settlements? First of all, we have
 > maintained their identity. We could easily or we can easily, in
 > future, absorb them into the state of Madras or some district of
 > Madras State. We do not propose to do that, because we want to
@@ -464,7 +464,7 @@ in Bombay on 4 June 1956, Nehru had said:
 > some people are misled, either by false propaganda or by
 > overenthusiastic people in India who say that Goa would be attached to
 > Maharashtra or Karnataka Province… I hope you will be very friendly
-> and cooperative neighbours.”[^20]
+> and cooperative neighbours.”*[^20]
 
 [^20] Kelekar Ravindra; (Editor) Nation’s Solemn Commitments on Goa 1963
 
@@ -497,13 +497,13 @@ decide whether they wanted a merger or not. On the first day itself,
 at a rally at Bandodkar Maidan in Panaji, Nehru allayed the fears
 created by Morarji Desai a week before.
 
-> “There should be no hankering for Goa’s merger with this state or
+> *“There should be no hankering for Goa’s merger with this state or
 > that. Goa should develop as it likes in the framework of India,
 > particularly because Goa was potentially a rich place and it had all
 > the makings of being a self-supporting state. If the Goans themselves
 > brought about economic developments and raised the living standards,
 > there was no reason why it should not function as a separate unit of
-> federal India.”[^22]
+> federal India.”*[^22]
 
 Goa and Goans proved this visionary right. Since 1987 Goa has thrived
 as a self-sufficient State with the highest per capita income, highest
@@ -521,32 +521,32 @@ made either at the public rallies or the press conferences:
 [^22]: The Navhind Times; Nehru Conquers Heart of Goa, 23 May 1963
 [^23]: The Hindu; 26 May 1963
 
-> “Purely on merits, I think it (Goa) should be kept separate.  Apart
+> *“Purely on merits, I think it (Goa) should be kept separate.  Apart
 > from merits, because a considerable number of people here − it is
 > immaterial whether they are a majority or minority − a considerable
 > number here are afraid of being submerged by another individuality, if
-> I may say so.
+> I may say so.*
 >
-> It is quite absurd to put Konkani against Marathi or Marathi against
+> *It is quite absurd to put Konkani against Marathi or Marathi against
 > Konkani. This kind of linguistic approach of suppressing a language is
 > bad. Therefore, I think that while all the languages should flourish
 > here, particular attention should be paid to Konkani, which is the
-> common people’s language.
+> common people’s language.*
 >
-> India is like a beautiful carpet, the textures of which bring out
+> *India is like a beautiful carpet, the textures of which bring out
 > beautiful differences. But it is one carpet, and one whole, that is
 > the beauty. So we must continue to go on weaving it by our activities,
 > thoughts and by our actions. But always remember the unity of it, the
 > unity of design of it, and yet l maintain the beauty of individual
-> parts of it.”
+> parts of it.”*
 
 ## The Media Blackout
 
 Nehru had tried to awaken the Goan masses, but perhaps the Goan media
 had a different agenda. Goa had four newspapers, including two
-Portuguese dailies carried forward post-liberation, O Heraldo and A
-Vida, besides Gomantak, the Marathi daily. A year later, on 18
-February 1963, The Navhind Times was started by Dempo Group, Goa’s
+Portuguese dailies carried forward post-liberation, *O Heraldo* and *A
+Vida*, besides *Gomantak*, the Marathi daily. A year later, on 18
+February 1963, *The Navhind Times* was started by Dempo Group, Goa’s
 leading mine owner and a prominent landlord. These two latest
 newspapers had a significant mass reach among the newly educated
 Goans, who could read English and/or Marathi. Both the newspapers very
@@ -557,7 +557,7 @@ Tiller.
 On the day he arrived in Goa, at a rally held at the Bandodkar
 ground in Panaji, attended by around 30,000 people, he said:
 
-> “Apart from that the Portuguese here and if I may say so to some
+> *“Apart from that the Portuguese here and if I may say so to some
 > extent in their own country have developed a society which is
 > completely out of date in the modern world. I am prepared to admit
 > that our society in India is also out of date in a different sense,
@@ -566,9 +566,9 @@ ground in Panaji, attended by around 30,000 people, he said:
 > changes are going on. And when a change happens in the social fabric,
 > it has an upsetting feature.  It may ultimately be good; it may even
 > immediately be good for many; but for some, it is upsetting. And I can
-> well understand that.
+> well understand that.*
 >
-> Now we do not want this change or any change to occur which causes
+> *Now we do not want this change or any change to occur which causes
 > harm or injury to the people, but sometimes it cannot be
 > helped. Suppose, as in India, one of our major reforms has been
 > putting an end to the big landlord system, the big zamindari system,
@@ -576,9 +576,9 @@ ground in Panaji, attended by around 30,000 people, he said:
 > generally to have this big landlord system. That is the common
 > thinking all over the world today.  But in removing the zamindari
 > system, the poor zamindars suffered. We gave them compensation and
-> they said it was not enough. They suffered.
+> they said it was not enough. They suffered.*
 >
-> When there is social change, it has to be faced. One tries to minimise
+> *When there is social change, it has to be faced. One tries to minimise
 > the inconvenience of the suffering, but for the larger social good, it
 > has to be faced. Anyhow, it was inevitable that some changes should
 > take place here, should upset your normal way of living. We did not
@@ -586,7 +586,7 @@ ground in Panaji, attended by around 30,000 people, he said:
 > the fact is there and we want to work well, we want rather to leave it
 > to you to work and according to your wishes so as to proceed to have
 > this change over quietly and as far as possible for the benefit of the
-> larger number of this."[^24]
+> larger number of this."*[^24]
 
 [^24]: Selected Works of Jawaharlal Nehru; Series 2/Vol. 82/May 1963-July 1963 Pg 162
 
@@ -598,33 +598,33 @@ he explained why abolishing the feudal system of Zamindari was the
 need of the hour if we ha to progress and compete with other developed
 countries:
 
-> "So we want to create a society in India which gives opportunity to
+> *"So we want to create a society in India which gives opportunity to
 > everyone and which lessens greatly the differences that exist between
 > the people, rich and poor: That is a difficult job, but it is a
 > possible job and we are going to achieve it. It was not possible
 > perhaps in the old days, but science has made progress, and science
 > and technology have made it possible for us by our own labour to
-> produce enough for everybody. That will take some time.
+> produce enough for everybody. That will take some time.*
 >
-> You know how rich America is, how rich England and Germany and Japan
+> *You know how rich America is, how rich England and Germany and Japan
 > are, and Russia? What is there in common between a capitalist country
 > like America and Communist country like Russia? A common factor is
 > that both depend on science and technology and both have made
 > progress. Their Gods are science and technology. They may have
 > different religions but the real Gods they worship are science and
 > technology. And there is no capitalism in science and no communism in
-> physics and chemistry and other things. It is just knowledge as such.
+> physics and chemistry and other things. It is just knowledge as such.*
 >
-> And it is by that knowledge that they have progressed and it is by
+> *And it is by that knowledge that they have progressed and it is by
 > that knowledge that we shall progress. Science and the children of
 > science, technology etc, that will tell us how to increase the wealth
 > that we produce from the land, from industry, and that is the only
 > way. We cannot produce wealth except by hard work and by understanding
 > modern methods of working on land and for industry. It is not a thing
 > by going to an astrologer that you get rich, or by other methods like
-> that; it is hard work.
+> that; it is hard work.*
 >
-> So, we adopted, soon after freedom came to us we adopted this major
+> *So, we adopted, soon after freedom came to us we adopted this major
 > method, this major approach, which we call the planning approach,
 > thinking out what we should do. One of the first things we did was to
 > put an end to the large landlords in India because they came in the
@@ -640,7 +640,7 @@ countries:
 > cities, big cities like Bombay and Calcutta and Delhi or Madras, that
 > make a difference, but the villages that must progress. And therefore,
 > we have to think of this general progress of the country- villages and
-> towns and the like."[^25]
+> towns and the like."*[^25]
 
 [^25]: Selected Works of Jawaharlal Nehru; Series 2/Vol. 82/May
     1963- - July 1963 Pg 183
@@ -653,16 +653,16 @@ down the plan before the people. And then when he went to Ponda the
 same day to address Goa’s farmers, he even told them how to achieve
 this goal:
 
-"In the olden days, we had a feudal system in India and all the land
+*"In the olden days, we had a feudal system in India and all the land
 was owned by zamindars, taluqdars, jagirdars and princes. The rest of
 the people worked for them which was not right. That system has been
 abolished. Now we want that the tillers of the soil should own the
 land too. [Applause] It is gradually happening. It has already come to
 pass to a very large extent. But it is not enough to have abolished
 feudalism. We must increase production from land. We have to adopt the
-right methods.
+right methods.*
 
-First of all, as I said, education of children is extremely important…
+*First of all, as I said, education of children is extremely important…
 We have adopted the Panchayati Raj system to strengthen the
 development programme… So now you will find that you do not have to
 belong to a wealthy family or a high caste to attain some
@@ -673,10 +673,10 @@ government into their own hands as it is being done in the rest of the
 country…  You will elect representatives to the Lok Sabha in Delhi who
 will participate in the law-making processes for the entire country.
 Secondly, you will have your own legislature in Goa to which the
-people will elect their representatives."[^26]
+people will elect their representatives."*[^26]
 
 It was a clear-cut election agenda he set for the people of
-Goa. Abolish the feudal system of Bhatkarshai, let the tillers own
+Goa. Abolish the feudal system of *Bhatkarshai*, let the tillers own
 their land, educate their children, and learn modern technology. To
 achieve this, elect your own representatives through elections and
 start ruling Goa for the haves and the have-nots. Did the Congress
@@ -690,7 +690,7 @@ and what was the result of it.
 ## Landlords Rally Around The UGP
 
 The core component of Nehru’s speeches did not go public through the
-media, except for one day in Gomantak. But not less than one and a
+media, except for one day in *Gomantak*. But not less than one and a
 half lakh people had heard him. It was discussed in the towns and the
 villages, at the markets, tinttos, tea shops, taverns and practically
 everywhere since the first election was at the doorstep. While the
@@ -725,7 +725,7 @@ scheduled in the first week of December, on 13 September 1963, a
 formal announcement was made of a new regional party. Five political
 groups functioning in the Old Conquests came together under one common
 banner − the United Goans Party (UGP). Most of the leaders either
-belonged to Christian Brahmins (Bamonn) and Kshatriyas (Chardo),
+belonged to Christian Brahmins (*Bamonn*) and Kshatriyas (*Chardo*),
 owning land and/or were doctors, professors, or lawyers earlier
 aligned with the erstwhile Portuguese rulers. The Hindu Brahmins from
 Margao, the stronghold of Saraswat Brahmins, also joined hands with
@@ -739,7 +739,7 @@ Portuguese-speaking grandfather. Dr Loyola Furtado was a prominent
 Saxttikar Bhakar and equally respected doctor from Chinchinim. During
 the Portuguese regime, he was known for his liberal views.
 
-A India Portuguesa was Goa’s first weekly in Portuguese started in
+**A India Portuguesa* was Goa’s first weekly in Portuguese started in
 1850 and was changed to A India after liberation. It was the
 mouthpiece of Partido Indiano. After coming to power, in 1964, the MGP
 government had imposed press censorship on its publication, alleging
@@ -799,4 +799,4 @@ election where three major parties were crossing swords, the Congress,
 the UGP, and the MGP. The battleground was The Land!
 
 [^28]: The Navhind Times; 17 September 1963
-[^29]: Gomantak; 14 October 1963
+[^29]: गोमंतक; 14 ऑक्टोबर 1963
