@@ -49,15 +49,15 @@ still not been able to purchase the houses, in spite of declaring them
 as deemed owners.[^3]
 
 The legislations were enacted in 1975-76, but the actual
-implementation started in the last decade of the 20th century,
-after 1990, almost 15 years later. Even after three decades the
-tillers have not become the deemed owners of the cultivable
-land or their houses. Isn’t it a tragedy of Indian democracy?
-The MGP was supported mainly by the people from the
-New Conquests. But still suffering are a large number of people
-from the Old Conquests. The pending cases in each taluka of
-the Old Conquests are between 500 to 750. A few hundreds
-have become owners of their rightful land in the last 10 years.
+implementation started in the last decade of the 20th century, after
+1990, almost 15 years later. Even after three decades the tillers have
+not become the deemed owners of the cultivable land or their
+houses. Isn’t it a tragedy of Indian democracy?  The MGP was supported
+mainly by the people from the New Conquests. But still suffering are a
+large number of people from the Old Conquests. The pending cases in
+each taluka of the Old Conquests are between 500 to 750. A few
+hundreds have become owners of their rightful land in the last 10
+years.
 
 Similar is the plight of the mundkars. More cases are pending
 in the Old Conquests than the New Conquests. In eight talukas
@@ -72,30 +72,29 @@ political party or the elected legislator has bothered to inquire
 about their plight.
 
 STATE OF TENANCY & MUNDKAR CASES FROM 2012-2021
-TALUKA COURTS TENANCY MUNDKAR
-PENDING DECLARED PENDING PURCHASED
-NOT
-PURCHASED
-OLD CONQUESTS
-Bardez 7 753 114 225 606 327
-Tiswadi 6 520 183 192 618 120
-Salcete 8 503 60 112 187 241
-Mormugao 5 60 4 33 83 24
-TOTAL 26 1836 361 562 1494 712
-NEW CONQUESTS
-Pernem 4 489 70 12 356 71
-Bicholim 5 229 22 15 245 75
-Sattari 2 37 1 18 67 6
-Ponda 4 43 26 192 49 117
-Quepem 1 94 7 5 54 24
-Canacona 2 42 42 13 18 17
-Sanguem 1 60 0 1 0 5
-Dharbandora
-2 16 0 1 15 3
-TOTAL 21 1010 168 257 804 318
-GRAND
-TOTAL
-47 2846 529 819 2298 1030
+
+
+| TALUKA        | COURTS | TENANCY |          | MUNDKAR |           |               |
+|---------------|--------|---------|----------|---------|-----------|---------------|
+|               |        | PENDING | DECLARED | PENDING | PURCHASED | NOT PURCHASED |
+| OLD CONQUESTS |        |         |          |         |           |               |
+| Bardez        | 7      | 753     | 114      | 225     | 606       | 327           |
+| Tiswadi       | 6      | 520     | 183      | 192     | 618       | 120           |
+| Salcete       | 8      | 503     | 60       | 112     | 187       | 241           |
+| Mormugao      | 5      | 60      | 4        | 33      | 83        | 24            |
+| TOTAL         | 26     | 1836    | 361      | 562     | 1494      | 712           |
+| NEW CONQUESTS |        |         |          |         |           |               |
+| Pernem        | 4      | 489     | 70       | 12      | 356       | 71            |
+| Bicholim      | 5      | 229     | 22       | 15      | 245       | 75            |
+| Sattari       | 2      | 37      | 1        | 18      | 67        | 6             |
+| Ponda         | 4      | 43      | 26       | 192     | 49        | 117           |
+| Quepem        | 1      | 94      | 7        | 5       | 54        | 24            |
+| Canacona      | 2      | 42      | 42       | 13      | 18        | 17            |
+| Sanguem       | 1      | 60      | 0        | 1       | 0         | 5             |
+| Dharbandora   | 2      | 16      | 0        | 1       | 15        | 3             |
+| TOTAL         | 21     | 1010    | 168      | 257     | 804       | 318           |
+| GRAND TOTAL   | 47     | 2846    | 529      | 819     | 2298      | 1030          |
+
 Source: Assembly Questions
 
 ## Delay Tactics Of Bhatkars
@@ -387,14 +386,14 @@ one year.  BJP legislator Dr Pramod Sawant moved only one amendment to
 change it to three years, and both the bills were passed ‘unanimously’
 by all the 40 legislators without much debate.[^15]
 
-But there was an uproar all across Goa over the ‘sunset
-clause’ as well as transferring the cases to the civil courts.
-Revenue Minister Francisco D’Souza defended the legislation,
-claiming that “*civil courts are better places for the disposal of
-cases simply because judges are trained. On the other hand,
-mamlatdars are not so trained because most of them are
-promotees from ‘awal karkuns’ to mamlatdars. They do not have
-a legal background. They manage, but progress is very slow.*”
+But there was an uproar all across Goa over the ‘sunset clause’ as
+well as transferring the cases to the civil courts.  Revenue Minister
+Francisco D’Souza defended the legislation, claiming that “*civil
+courts are better places for the disposal of cases simply because
+judges are trained. On the other hand, mamlatdars are not so trained
+because most of them are promotees from ‘awal karkuns’ to
+mamlatdars. They do not have a legal background. They manage, but
+progress is very slow.*”
 
 There were allegations and counter-allegations, while demanding
 withdrawal of the bill. Reiterating his demand for special revenue
@@ -843,29 +842,6 @@ cultivable zones into settlement. Due to the assurance given to the
 High Court, no applications have been processed after November
 2019.[^20]
 
-CONVERSION APPLICATIONS DURING
-VIJAI SARDESAI’S TENURE
-TALUKA APPLICATIONS AREA (Sq Mts) %
-Pernem 530 3929400 20
-Bardez 1021 3609975 19
-Ponda 1401 2220587 12
-Tiswadi 205 1789033 9
-Quepem 400 1755931 9
-Bicholim 754 1745478 9
-Salcete 538 1515929 8
-Canacona 88 1025612 5
-Sattari 320 537980 3
-Dharbandora 116 514430 3
-Sanguem 75 269288 1
-Mormugao 83 259407 1
-TOTAL 5531 19173050
-PROVISIONAL APPROVALS: VIJAI SARDESAI’S TENURE
-10-01-2019 7 440499
-28-02-2019 15 691505
-10-07-2019 7 168200
-TOTAL 29 1300204
-Source: Assembly Questions; Digambar Kamat on 25-07-19 & Vijai Sardesai on 19-10-21
-
 The Assembly records show that applications for zone conversions have
 come from all across Goa and all the 12 talukas. In fact, more
 applications have come from the villages than the cities, with a
@@ -877,6 +853,35 @@ institutions, in ‘public interest’.
 
 The next table shows taluka-wise conversion applications placed before
 the TCP Board when Vijai Sardesai was the TCP minister till July 2019.
+
+CONVERSION APPLICATIONS DURING VIJAI SARDESAI’S TENURE
+
+| TALUKA      | APPLICATIONS | AREA (sq.mt) | %  |
+|-------------|--------------|--------------|----|
+| Pernem      | 530          | 3929400      | 20 |
+| Bardez      | 1021         | 3609975      | 19 |
+| Ponda       | 1401         | 2220587      | 12 |
+| Tiswadi     | 205          | 1789033      | 9  |
+| Quepem      | 400          | 1755931      | 9  |
+| Bicholim    | 754          | 1745478      | 9  |
+| Salcete     | 538          | 1515929      | 8  |
+| Canacona    | 88           | 1025612      | 5  |
+| Sattari     | 320          | 537980       | 3  |
+| Dharbandora | 116          | 514430       | 3  |
+| Sanguem     | 75           | 269288       | 1  |
+| Mormugao    | 83           | 259407       | 1  |
+| TOTAL       | 5531         | 19173050     |    |
+
+PROVISIONAL APPROVALS: VIJAI SARDESAI’S TENURE
+
+| Date       | Applications | Area (sq.mt.) |
+|------------|--------------|---------------|
+| 10-01-2019 | 7            | 440499        |
+| 28-02-2019 | 15           | 691505        |
+| 10-07-2019 | 7            | 168200        |
+| TOTAL      | 29           | 1300204       |
+
+Source: Assembly Questions; Digambar Kamat on 25-07-19 & Vijai Sardesai on 19-10-21
 
 All these 5531 applications were processed and were in different
 phases of scrutiny, involving over 1.91 crore square metres of
@@ -903,14 +908,16 @@ conversion during the tenure of his successor Babu Kavlekar. This
 table is being compiled, based on the Assembly reply.
 
 TCPB MEETINGS DURING BABU KAVLEKAR TENURE
-TCPB Meeting Applications Area (Sq Mts) Status
-11-10-2019 87 84481 Provisional Approval
-30-06-2021 32 1218860 Provisional Approval
-TOTAL APPROVED 119 1303341
-30-06-2021 71 503660 Considered
-30-06-2021 9 184351 Deferred
-03-02-2021 59 402557 Processed
-GRAND TOTAL 258 2393909
+
+| TCPB Meeting   | Applications | Area (sq. mt.) | Status               |
+| 11-10-2019     | 87           | 84481          | Provisional Approval |
+| 30-06-2021     | 32           | 1218860        | Provisional Approval |
+| TOTAL APPROVED | 119          | 1303341        |                      |
+| 30-06-2021     | 71           | 503660         | Considered           |
+| 30-06-2021     | 9            | 184351         | Deferred             |
+| 03-02-2021     | 59           | 402557         | Processed            |
+| GRAND TOTAL    | 258          | 2393909        |                      |
+
 Source: Assembly Question: Vijai Sardesai on 19-10-21
 
 These tables are not foolproof. TCP Minister Kavlekar, in a reply to
@@ -942,14 +949,28 @@ MLAs, to convert zones from paddy fields, natural cover, private
 forest, land under irrigation command area, and even no development
 zone. The table is self-explanatory.
 
-ZONE CHANGE FROM REGIONAL PLAN 2021 APPLIED No Applicant Related MLA Party Constituency 1 Deepak Dhavlikar Deepak Dhavalikar MGP MLA (Ex) Priol 2 Rajendra V Deshprabhu Vasudev Deshprabhu MGP Candidate Pernem 3 Jit Arolkar Jit Arolkar MGP Candidate Mandrem 4 Harish N P Zantye Pravin Zantye BJP MLA Mayem 5 Alex Sequeira Aleixo Sequeira Congress MLA
-(Ex)
-Nuvem 6 Sandhya Naresh Sawal Naresh Sawal MGP MLA (Ex) Bicholim 7 Anil Hoble Anil Hoble BJP Candidate St Cruz 8 Pratapsingh Rane Pratapsingh Rane Congress MLA Poriem 9 Laxmikant Parsekar Laxmikant Parsekar BJP MLA Mandrem 10 Madkaikar Builder Pandurang Madkaikar BJP MLA Cumbarjua 11 Rajesh Khaunte Rohan Khaunte Ind MLA Porvorim 12 Naresh Sawal Naresh Sawal MGP MLA (Ex) Bicholim 13 Dhaku Madkaikar Pandurang Madkaikar Ind Candidate St Andre 14 Tonia Estates Alexio Sequeira Congress MLA
-(Ex)
-Nuvem 15 Madkaikar Builder Pandurang Madkaikar BJP MLA Cumbarjua 16 Megha M Azgaonkar Babu Azgaonkar BJP MLA Pernem Source: Assembly Questions and replies by Town & Country Planning Dept, Govt of Goa Three-Fourth
-Illegal Tourism
-337
+ZONE CHANGE FROM REGIONAL PLAN 2021 APPLIED 
 2021 APPLIED BY LEADING POLITICIANS, EX-MLAS & MLAS
+
+No Applicant Related MLA Party Constituency 
+1 Deepak Dhavlikar Deepak Dhavalikar MGP MLA (Ex) Priol 
+2 Rajendra V Deshprabhu Vasudev Deshprabhu MGP Candidate Pernem 
+3 Jit Arolkar Jit Arolkar MGP Candidate Mandrem 
+4 Harish N P Zantye Pravin Zantye BJP MLA Mayem 
+5 Alex Sequeira Aleixo Sequeira Congress MLA (Ex) Nuvem 
+6 Sandhya Naresh Sawal Naresh Sawal MGP MLA (Ex) Bicholim 
+7 Anil Hoble Anil Hoble BJP Candidate St Cruz 
+8 Pratapsingh Rane Pratapsingh Rane Congress MLA Poriem 
+9 Laxmikant Parsekar Laxmikant Parsekar BJP MLA Mandrem 
+10 Madkaikar Builder Pandurang Madkaikar BJP MLA Cumbarjua 
+11 Rajesh Khaunte Rohan Khaunte Ind MLA Porvorim 
+12 Naresh Sawal Naresh Sawal MGP MLA (Ex) Bicholim 
+13 Dhaku Madkaikar Pandurang Madkaikar Ind Candidate St Andre 
+14 Tonia Estates Alexio Sequeira Congress MLA (Ex) Nuvem 
+15 Madkaikar Builder Pandurang Madkaikar BJP MLA Cumbarjua 
+16 Megha M Azgaonkar Babu Azgaonkar BJP MLA Pernem 
+
+
 Area (Sq Mts) Places Existing Zone as per RPG21 Zone Change
 393100 Dharbandora Error marking eco-sensitive zone Settlement
 225000 Arambol Orchard, Within High Tide Line Settlement
@@ -976,6 +997,8 @@ Settlement
 1575 Colva, Salcete Orchard Settlement
 1210 Gaundalim, Tiswadi VP2 Category settlement Settlement
 1000 Dhargalim, Pernem Orchard Settlement
+
+Source: Assembly Questions and replies by Town & Country Planning Dept, Govt of Goa Three-Fourth Illegal Tourism
 
 ## Three-Fourth Illegal Tourism
 
