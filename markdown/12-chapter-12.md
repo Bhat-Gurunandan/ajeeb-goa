@@ -92,7 +92,7 @@ proposal of a plebiscite. Rather than having a press conference
 on the issue, Dr Jack de Sequeira preferred to issue a short press
 note, terming the decision of a referendum practical and sensible.
 This decision will put an end to the number of interpretations
-that were attempted, he stated.[^7] Gomantak, in its editorial,
+that were attempted, he stated.[^7] *Gomantak*, in its editorial,
 called it UGP’s volte face from its original demand of Statehood
 for Goa.[^8] PSP leader, S M Joshi termed Patil’s announcement as
 a ‘bomb explosion’ on the eve of Diwali, which would have
@@ -287,7 +287,7 @@ of the Opinion Poll, for three-and-a-half hours on behalf of the
 Konkani Bhasha Mandal. He categorically stated: “*The Opinion Poll was
 not fought on linguistic grounds.  Konkani-Marathi was just one of the
 arguments. It was purely a political battle for Goa’s socio-political
-identity.*” He also said that Rashtramat, the Marathi daily the
+identity.*” He also said that *Rashtramat*, the Marathi daily the
 anti-mergerists had launched to reach out to the Hindu Bahujan Samaj,
 had the Konkaniwadis as well as Marathiwadis, who were opposed to the
 merger.
@@ -301,36 +301,36 @@ publishing 26 newsrelated periodicals.[^15] That number had increased
 further when the Opinion Poll was held.
 
 The mainstream news media consisted of mine owner Vishwasrao
-Chowgule’s Gomantak, founded on 24 March 1962; followed by Dempo’s The
+Chowgule’s *Gomantak*, founded on 24 March 1962; followed by Dempo’s The
 Navhind Times on 18 February 1963; and Novem Goem (1962), a
 fortnightly in Konkani written in the Devanagari script. Sot (1962)
 and Uzvadd (1963) were weeklies in Romi Konkani. Pradip and Gomant
 Vani were dailies in Marathi. The two Marathi newspapers campaigned
 for merger. The other publications opposed merger tooth-and-nail.  But
-their circulation was very limited, except for Gomantak and The
-Navhind Times.
+their circulation was very limited, except for *Gomantak* and *The
+Navhind Times*.
 
 To reach out to the Hindu Bahujan Samaj, a group of young Konkani
-writers came together to start Rashtramat, a Marathi daily,
+writers came together to start *Rashtramat*, a Marathi daily,
 in 1964. Their initial effort of ‘crowdfunding’ did not work and they
 approached the mine owners. Seven mine owners from the three families
 of Salgaocar, Timblo and Gosalia together funded the
-venture. Rashtramat’s mission was to counter the pro-merger propaganda
-of Goa’s then sole Marathi daily Gomantak, which was run by the
+venture. *Rashtramat’s* mission was to counter the pro-merger propaganda
+of Goa’s then sole Marathi daily *Gomantak*, which was run by the
 Chowgules.  Their target readership was the Hindu Bahujan
 Samaj. Winning the Opinion Poll with 38 per cent Christians and two
 per cent Hindu Brahmins was next to impossible when all the
 Christians, due to heavy migration, were not available for voting.
 
-The experiment of Rashtramat not only worked but played wonders. It
+The experiment of *Rashtramat* not only worked but played wonders. It
 succeeded in countering the pro-merger propaganda of not only Goa’s
 Marathi newspapers but also the newspapers from Maharashtra like
-Pudhari (Kolhapur), Sakal (Pune), Maharashtra Times (Bombay) and
-Maratha, a daily edited by Prahlad Keshav aka ‘Acharya’ Atre, a
-firebrand orator and writer. Udaybab’s daily column Brahmastra in
-Rashtramat became a matter of discussion in most of the households,
+*Pudhari* (Kolhapur), *Sakal* (Pune), *Maharashtra Times* (Bombay) and
+*Maratha*, a daily edited by Prahlad Keshav aka ‘Acharya’ Atre, a
+firebrand orator and writer. Udaybab’s daily column *Brahmastra* in
+*Rashtramat* became a matter of discussion in most of the households,
 especially in the New Conquests and among the Hindu Bahujan
-Samaj. Udaybab recalls that Rashtramat changed its strategy when it
+Samaj. Udaybab recalls that *Rashtramat* changed its strategy when it
 realised that people were in a mood to weigh the issue ahead of the
 poll. Rather than outright attacks on the mergerist viewpoint, the
 newspaper began logically explaining the issue, putting forth
@@ -353,13 +353,13 @@ like beatings and stabbings.
 The really interesting battle was on the cultural front.
 Maharashtra’s popular Lal Bavtta Kala Pathak led by Shahir Amar
 Shaikh, as well as Shahir Sable, enthralled crowds with inspiring
-patriotic Marathi songs like Jai Jai Maharashtra Mazha (Victory to my
+patriotic Marathi songs like *Jai Jai Maharashtra Mazha* (Victory to my
 Maharashtra), to generate support for merger.
 
 To counter them, a young brigade of singers, musicians and lyricists
 led by Ulhas Buyao entered the arena, styling themselves as the Jai
-Gomantak Kala Pathak. Their Konkani campaign songs like Goenchea
-Mhojea Goenkarano, Jayat Jage and Channeache Rati long outlived the
+Gomantak Kala Pathak. Their Konkani campaign songs like *Goenchea
+Mhojea Goenkarano*, *Jayat Jage* and *Channeache Rati* long outlived the
 movement to become popular folk songs that even today’s younger
 generation continues to enjoy.  Interestingly, while the banners
 displayed at public meetings by both sides were always in Marathi in
@@ -367,11 +367,11 @@ the New Conquests, all the speeches made by even the pro-merger Goan
 leaders, were almost always in Konkani.
 
 Another unique campaign came up when the pro-merger camp brought the
-‘padukas’ (sacred footwear) of the goddess Bhavani, a beloved Maratha
+‘*padukas*’ (sacred footwear) of the goddess Bhavani, a beloved Maratha
 icon, to Goa, in an attempt to polarise voters on religious
 lines. Shabu Desai, himself a proud Maratha and staunch MGP supporter
 from Cuncolim, rose up in rebellion against his own party. He marched
-across the length and breadth of Goa with a Sangh Pradesh Jyot (Union
+across the length and breadth of Goa with a *Sangh Pradesh Jyot* (Union
 Territory Torch), along with an image of Goa’s own beloved deity,
 Shantadurga Kunkolikarin of Fatorpa. Hundreds of youth joined his
 march, and devout Goans welcomed the deity, especially in the
@@ -383,8 +383,8 @@ It was an established fact that the small and big landlord class was
 strongly against the merger because Maharashtra, among all the states,
 had the most revolutionary land reforms in the country. It had begun
 producing results with a co-operative movement, which unfortunately
-later became the powerful political and financial lobby of Sahakar
-Samrats. But there was another influential lobby that wholeheartedly
+later became the powerful political and financial lobby of *Sahakar
+Samrats*. But there was another influential lobby that wholeheartedly
 supported the antimerger movement financially, that of the mine owners
 in Goa.  The Portuguese regime had granted 893 mining concessions, and
 made them deemed owners of the iron ore mines.
@@ -405,14 +405,14 @@ When the Opinion Poll was announced, the obvious fear was that if Goa
 was merged into Maharashtra, the mines would be governed by the laws
 in Maharashtra and India, on par with mines of bigger
 states. Consequently, Goa’s mining lobby stood firmly behind the
-anti-merger movement, giving it full financial support. Rashtramat was
+anti-merger movement, giving it full financial support. *Rashtramat* was
 one such venture of seven mine owners. However, there were also some
 passionate mine owners like V M Salgaocar, who was playing a
 pro-active role to retain Goa’s identity by taking Bhau head-on. My
 maternal uncle Ulhas Buyao told me that VM used to personally attend
 his musical shows held on open grounds and honour him with garlands of
 currency notes if he liked any particular song. On the other hand,
-Chowgule’s Gomantak was tilting more towards the merger.
+Chowgule’s *Gomantak* was tilting more towards the merger.
 
 In the campaign that Bandodkar led for the Flower, much of the
 publicity material as well as the speakers were ‘imported’ from
@@ -459,7 +459,7 @@ every voter to the polling booth. The UGP did not spare any efforts to
 get the maximum number of people, especially Christians, onto the
 electoral roll.
 
-The young Rashtramat brigade comprised young writers and thinkers in
+The young *Rashtramat* brigade comprised young writers and thinkers in
 their 20s and 30s, not politicians. They concentrated their efforts in
 the Hindu-dominated New Conquest areas, facing all kinds of
 risks. Getting booed, stoned, and even beaten up was all in a day’s
@@ -488,7 +488,7 @@ possible transfers in a huge state like Maharashtra with an area of 3
 lakh square kilometres; in comparison, Goa’s 3700 sq.km area seemed
 like a comfort zone. Consequently, teachers secretly campaigned
 house-tohouse in their localities, endorsing the anti-merger arguments
-raised by the Rashtramat group.
+raised by the *Rashtramat* group.
 
 The major employer of educated youth from the villages, after
 liberation, was the Government of Goa, which paid the central
@@ -522,7 +522,7 @@ roots in Goan society, from education and culture to literature and
 even religious rituals. The anti-merger stance was labelled a
 ‘Portuguese mentality’.
 
-The anti-merger camp, especially Rashtramat, said the merger was an
+The anti-merger camp, especially *Rashtramat*, said the merger was an
 expansionist action by Maharashtra. They insisted that Goa had a
 distinct culture, unique from Maharashtra, and that Konkani was an
 independent language. Goans adopted Marathi for education only because
@@ -686,6 +686,8 @@ GOA: OPINION POLL VERDICT
 | Polling                  | 317633 | 81.78 |
 | Voters                   | 388392 |       |
 
+
+*Source: Government Gazette; Govt of Goa, Daman & Diu, Series II, No 42, 21 January 1967*
 
 So certain was the victory for Two Leaves, that Chief Minister
 Dayanand Bandodkar did not even turn up at the counting centre on the
@@ -858,22 +860,22 @@ tragedy of Goa’s politics is that the thinking pattern has shifted
 from performance to delivery.  It sometimes doesn’t matter if the
 candidate is a defector, smuggler, rapist, or highly corrupt, as long
 as he “delivers”.  Perhaps educated Goan voters are thinking on the
-wrong lines
+wrong lines.
 
-1. राधाकृष्ण वामन; मुक्ति नंतरचा गोवा, पान 23
+1. राधाकृष्ण वामन; मुक्तीनंतरचा गोवा, पान 23
 2. Governor’s Address to the Assembly, 13 January 1964
 3. The Navhind Times, 21 October 1964
 4. The Navhind Times, 1 November 1964
 5. The Navhind Times, 1 November 1964
 6. The Navhind Times, 3-4 November
 7. The Navhind Times, 6 November 1964
-8. गोमंतक, डॉ􀇛 सि कैरांची कोलांटउडी, 9 नोव्हेंबर 1964
+8. गोमंतक, संपादकीय, डॉ सिकैरांची कोलांटउडी, 9 नोव्हेंबर 1964
 9. गोमंतक, 2 व 6 नोव्हेंबर 1964
 10. Narayan Rajan & D’Cuz Sharon; Triumph of Secularism: Battle of the Opinion Poll in Goa,
 P 15
 11. The Navhind Times, 8-9 November 1964
-12. राधाकृष्ण वामन; मुक्ति नंतरचा गोवा
+12. राधाकृष्ण वामन; मुक्तीनंतरचा गोवा
 13. The Navhind Times, 2 December 1966
 14. The Navhind Times, 9 & 10 December 1966
 15. गोमंतक; 14 जानेवारी 1964
-16. उसगांवकर अच्युत; आमचे भाऊ (सहकाऱ्या च्या दृष्टि कोनातून भाऊसाहेब) पान 223
+16. उसगांवकर अच्युत; आमचे भाऊ (सहकाऱ्याच्या दृष्टिकोनातून भाऊसाहेब) पान 223

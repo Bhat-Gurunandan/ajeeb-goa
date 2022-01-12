@@ -60,7 +60,7 @@ women. South Goa MP Mukund Shinkre said at the rally that the MGP
 victory had strengthened the hands of Pandit Nehru. Tony Fernandes
 said the results had proved that the MGP was not a communal party. He
 was elected from Hindu-dominated Sanguem, Shinkre from the
-Christian-dominated South and Peter Alvares from Hindudominated North
+Christian-dominated South and Peter Alvares from Hindu-dominated North
 Goa. Late at night, the MGP legislature party elected Bandodkar as
 their leader, to take over as Goa’s first chief minister.[^3]
 
@@ -97,7 +97,7 @@ region to be merged into Surat district while Mamadali Ravji,
 Independent MLA of Diu, wanted to merge with Saurashtra.[^5]
 
 [^3]: The Navhind Times, 14 December 1963
-[^4]: राधाकृष्ण वामन; महाराष्ट्र वादी गोमंतक पक्ष, स्था पना आणि वाटचाल पान 27
+[^4]: राधाकृष्ण वामन; महाराष्ट्रवादी गोमंतक पक्ष, स्थापना आणि वाटचाल, पान 27
 [^5]: The Next Steps, Editorial, The Navhind Times, 13 December 1963
 
 ## The Bahujan Formula
@@ -172,7 +172,7 @@ become the order of the day. The BJP too could come to power only when
 it had conquered the hearts of the Christians, besides the Hindu
 Bahujan Samaj.
 
-[^7]: राधाकृष्ण वामन: मुक्ती नंतरचा गोवा, पान 75
+[^7]: राधाकृष्ण वामन: मुक्तीनंतरचा गोवा, पान 75
 
 Riding on the wave of the Babri Masjid-Ram Janmabhoomi issue, when in
 1994 the BJP made its debut in the Assembly with four MLAs, it had
@@ -365,7 +365,7 @@ Commission’s report in the Assembly.[^13] The very next day, at a
 press conference held in Bombay, PM Nehru welcomed Bandodkar’s
 statement on the merger:
 
-> “It was true that those who were elected did not differ much from the
+> *“It was true that those who were elected did not differ much from the
 > Congress and he was glad that the Chief Minister Mr Bandodkar had
 > decided not to raise the issue of merger for the time being, he
 > said…. There was a considerable section of Roman Catholics there. They
@@ -374,7 +374,7 @@ statement on the merger:
 > the future of Goa was taken after some time but it would certainly
 > cause harm if it was taken immediately, he said. Mr. Nehru said he was
 > glad that the elected representatives were following this
-> policy.”[^14]
+> policy.”*[^14]
 
 After personally meeting PM Nehru in Bombay, Bandodkar told the media
 in the national capital that all the misunderstandings between them
@@ -382,11 +382,11 @@ have been resolved. The PM was misguided by the opposition about
 voting on communal lines. He also said their topmost priority would be
 to introduce land reforms in Goa and not an immediate merger.
 
-> “We are in a position to pass a resolution right now to merge Goa
+> *“We are in a position to pass a resolution right now to merge Goa
 > immediately into Maharashtra. But ultimately it is the Centre that
 > needs to take the necessary steps to make it happen. We would try to
 > canvas our case with the legislators, members of Parliament and
-> others.”[^15]
+> others.”*[^15]
 
 [^13]: The Navhind Times, 25 December 1963
 [^14]: Press Trust of India, Bombay, 26 December 1963
@@ -503,7 +503,7 @@ sub-committee to draft a constitution of the party.[^21]
 [^20]: The Navhind Times, 9 November 1964
 [^21]: The Navhind Times, 11 November 1964
 
-## THE ONE-SIXTH FACTOR
+## The One-Sixth Factor
 
 ‘Land to the Tiller’ was the topmost priority of the MGP
 government. But CM Bandodkar had also made it clear that no
@@ -592,10 +592,10 @@ land reforms. J L G Araujo, the St Cruz MLA, gave an example of three
 brothers, each one investing money in a field, a bus, and a shop,
 respectively.
 
-> “There is some kind of injustice here. Whoever is a worker should be
+> *“There is some kind of injustice here. Whoever is a worker should be
 > regarded as a worker and should get the share in the profit. Why
 > injustice to a person who invested money in the field? In saying this,
-> I am not against this Bill.”[^24]
+> I am not against this Bill.”*[^24]
 
 Urminda Mascarenhas Lima Leitao, the Vasco MLA, landlord and mine
 owner, asked why hay had not been included in the gross produce. Today
@@ -605,7 +605,7 @@ cattle that the tenants keep for ploughing the fields.[^25] And then
 there was a comprehensive question posed by Navelim MLA Dr Alvaro
 Loyola Furtado:
 
-> “Then the next and most important question is why one-sixth?  … Why has
+> *“Then the next and most important question is why one-sixth?  … Why has
 > it not been fixed at 50 per cent of the gross produce for irrigated
 > lands and 45 per cent of the produce for dry lands? Why not one-fourth
 > of the gross produce for irrigated lands and one-fifth in other cases
@@ -620,18 +620,18 @@ Loyola Furtado:
 > supplemented by lift irrigation and 33 and one third per cent in other
 > cases as in Madras? Why not one-fourth of the gross produce for lands
 > irrigated from tanks or river channels and one-fifth in other cases or
-> value thereof as in Mysore?”[^26]
+> value thereof as in Mysore?”*[^26]
 
 In reply, Law Minister Tony Fernandes said: 
 
-“But the fact that this territory of ours is not in Kashmir, neither
-it is in Mysore, nor in Madras, has been forgotten. It is here on the
-Konkan coast bordering Maharashtra where it has been already fixed
-that the rent should not be more than one-sixth. I say not more than
-one-sixth because it is misunderstood by the Opposition that it is
-just a fraction – one-sixth. But it is not so. In the subsequent
-section it has been further clarified that the ratio of rent will be
-fixed after the survey and settlement.”[^27]
+>*“But the fact that this territory of ours is not >in Kashmir, neither
+>it is in Mysore, nor in Madras, has been >forgotten. It is here on the
+>Konkan coast bordering Maharashtra where it has >been already fixed
+>that the rent should not be more than one-sixth. >I say not more than
+>one-sixth because it is misunderstood by the >Opposition that it is
+>just a fraction – one-sixth. But it is not so. In >the subsequent
+>section it has been further clarified that the >ratio of rent will be
+>fixed after the survey and settlement.”*[^27]
 
 [^23]: Legislative Assembly of Goa 1964: 4 August 1964, P 1202-1205
 [^24]: Legislative Assembly of Goa 1964: 4 August 1964, P 1214
@@ -645,7 +645,7 @@ bill was introduced till it was passed. Mandrem MLA Vijay Kamulkar, a
 teacher who had defeated two mighty landlords Raoraje Deshprabhu of
 the Congress and Sadhashiv Desai of the UGP, said:
 
-> “The farmers had faced all kinds of harassment from the landlords with
+> *“The farmers had faced all kinds of harassment from the landlords with
 > the blessings of the Portuguese rulers. The Portuguese would have not
 > been a mighty empire if these landlords had not helped them. In
 > return, the Portuguese protected the interests of the landlords and
@@ -658,7 +658,7 @@ the Congress and Sadhashiv Desai of the UGP, said:
 > of some land for cultivation, but with a ceiling. I also urge the
 > government to set up a council to monitor the implementation of the
 > act. Otherwise the landlords would keep on approaching civil courts to
-> stall its implementation.”
+> stall its implementation.”*
 
 The bill was finally passed with UGP staging walkouts on two
 consecutive days. On 9 November, Calangute MLA J M D’Souza did not
