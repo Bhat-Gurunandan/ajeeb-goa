@@ -3,7 +3,7 @@ title: Praja Becomes the Raja
 ---
 
 ### Chapter 8
-# Praja Becomes The Raja
+# *Praja* Becomes The *Raja*
 
 The election process in Goa did not begin with its annexation to the
 Indian Republic in 1961, but rather with the end of monarchy in
@@ -16,11 +16,11 @@ constitutional monarchy, the new system elected two persons from Goa
 to the Portuguese Parliament, and one of them could even be a part of
 the Senate.
 
-> “Mapusa and Madgao were the two constituencies created for the
+> *“Mapusa and Madgao were the two constituencies created for the
 > purpose. The Mapusa constituency included Bardes, Pednem, Sanquelim,
 > Sattari, Daman, Diu and Nagar Haveli, while Mormugao, Salcete, Ponda,
 > Ilhas (Tiswadi), Canacona, Quepem and Sanguem came under the Madgao
-> constituency.”[^1]
+> constituency.”*[^1]
 
 [^1]: Kamat Varsha Vijayendra; Resurgent Goa: Goan Society from 1900-1961 P 77
 
@@ -65,11 +65,11 @@ Portuguesde Colonialism, Loyola University, Chicago (1974)
 
 However, by 1926, the Republic came to an end and the economist
 Antonio de Oliveira Salazar took over as the Prime Minister of
-Portugal. The Carta Organica issued by Salazar for the state of India
+Portugal. The *Carta Organica* issued by Salazar for the state of India
 in 1926, the Colonial Act promulgated in 1930, and subsequently the
 New Constitution of 1933 incrementally curtailed the civil liberties
 that people of the colonies enjoyed during the Republic, including the
-Estado da India. Goans were reduced to second-class citizens in their
+*Estado da India*. Goans were reduced to second-class citizens in their
 own country. But this did not kill the spirit of democracy which Goans
 had achieved through education. Two things began to grow in tandem in
 Goa: the opening of more private educational institutions, and the
@@ -166,32 +166,32 @@ decline in the market price of paddy. The government tried to give
 solace to the farmers by reducing the Communidade rent by 20 per
 cent. Also, directives were issued that the rents of Communidade, as
 well as private landowners, should not exceed 50 per cent of the
-average annual produce. But both, the Communidade Mazania as well as
-the Bhatkars (private landlords) kept violating the directives of the
+average annual produce. But both, the *Communidade Mazania* as well as
+the *Bhatkars* (private landlords) kept violating the directives of the
 authorities. Tenants were often evicted by the landlords, in spite of
 the government’s efforts to prevent it. The agrarian problem was too
 complicated and was left for the new elected government to tackle.
 
-> “It is a fact that the agricultural sector had lots of problems and
+> *“It is a fact that the agricultural sector had lots of problems and
 > the agrarian relations were too complicated. The new administration
 > did not undertake any reforms for fear of antagonizing the powerful
 > landed aristocracy and constituents of communidades (village
 > communities). However, efforts were made to mitigate the sufferings of
-> tenants and cultivators.
+> tenants and cultivators.* 
 >
-> Goans in general did not approve of the cavalier and insensitive
+> *Goans in general did not approve of the cavalier and insensitive
 > manner in which the new administration handled the
 > transition. Surely, it would have not caused much economic harm if
 > the ‘unnecessary’ colonial departments were allowed to continue
-> functioning for some time.
+> functioning for some time.*
 >
-> By forcing the transition thoughtlessly, by refusing to give local
+> *By forcing the transition thoughtlessly, by refusing to give local
 > people time to adjust, the new administration caused much
 > bitterness. The government did try to address the problem when those
 > who were retrenched on or after 18 December, 1961, were asked to
 > report to the government so that they could be absorbed in the
 > administration on a priority basis. However, it was too little too
-> late.”[^4]
+> late.”*[^4]
 
 ## The Battle Lines Are Drawn
 
@@ -214,7 +214,7 @@ successor Mulk Raj Sachdev, who took over from him on 2 September,
 [^5]: Civic Affairs; Monthly Journal of Local Govt and Public
 Administration in India, February 1962
 
-After converting the age-old Gaunkari system into Communidades, which
+After converting the age-old *Gaunkari* system into Communidades, which
 were run by the upper strata of the Goan society, the villages were
 governed by Camara Municipals.  These were situated in the central
 towns of the talukas. Except for Panaji, which was called Camara
@@ -236,7 +236,7 @@ taxes, in addition to the grants they received from the
 government. They performed all the civil functions, including the
 construction of buildings.
 
-“Until a few years before liberation, these self-sustaining bodies
+*“Until a few years before liberation, these self-sustaining bodies
 were neither elective nor local. Their offices were reserved for
 ‘Casados’ (married). It was only in 1959 that ‘Juntas de Freguesias’
 (rural self-government bodies) were established by the Portuguese
@@ -247,7 +247,7 @@ Thus prior to liberation, there were Panchayats in the villages but
 they were not codified and the people used to settle their grievances
 themselves rather than approaching the Government authorities. There
 used to be a ‘Regidor’ (village headman) in each village who was
-entrusted with some of the functions…”[^7]
+entrusted with some of the functions…”*[^7]
 
 [^7]: Citizens’ Charter, Directorate of Panchayats
 
@@ -269,7 +269,7 @@ both literate and illiterate, reacted to it. The Panchayat Raj system
 was not yet fully implemented in the rest of India when Goa was going
 for the first panchayat election. In fact, while going through the
 newspapers in the Central Library, I came across a news report in
-Gomantak of 30 September, 1962, about the announcement made by Union
+*Gomantak* of 30 September, 1962, about the announcement made by Union
 Social Welfare Minister, S D Mishra, who told the Rajya Sabha that the
 Panchayat Raj system would also be implemented in Kerala and West
 Bengal, while it had already been resolved to begin the system in
@@ -289,13 +289,13 @@ Mulgaonkar of the agricultural wing of the Indian National
 Congress. They brought to his notice several instances of landlords
 evicting tenants after Goa attained freedom, and demanded total
 security to the tenants. While a Mundkar Act was already in force at
-that time, the delegation told him that Bhatkars were creating hurdles
-for the Mundkars (tenants) whose houses were damaged due to heavy rain
+that time, the delegation told him that *Bhatkars* were creating hurdles
+for the *Mundkars* (tenants) whose houses were damaged due to heavy rain
 and needed urgent repairs. The Nerul Kisan Sanghatana also protested
 against the Communidade for imposing a tax amounting to half of the
-Khand (share to be given to Communidade) for growing vegetables.[^8]
+*Khand* (share to be given to Communidade) for growing vegetables.[^8]
 
-[^8]: Gomantak; 17 August 1962
+[^8]: गोमंतक; 17 ऑगस्ट 1962
 
 The delegation had met the Governor ahead of the historic Goa Shetkari
 Parishad held in Panaji on 18 August, 1962. The Congress was not part
@@ -322,8 +322,7 @@ workers, render, and the Gauda community. The Shektari Parishad was
 the first initiative in this regard, of which Adv Vishwanat Lawande
 was the chairman.[^9]
 
-[^9]: Lawande Vishwanath; Mayem: Swatantrya Sangramachya Aghadivaril
-    Ek Ganv P 127-132
+[^9]: लवंदे विश्वनाथ; मयेः स्वातंत्र्यसंग्रामाच्या आघाडीवरील एक गाव, पान 127-132
 
 The historic Parishad, held on 18 August, 1962, in the capital city
 was presided over by Maharashtra Congress General Secretary Mohan
@@ -351,7 +350,7 @@ to exploit the farming community.
 
 The day-long convention from 9.30 in the morning till 5.30 in the
 evening passed nine major resolutions, besides a forceful demand to
-promulgate the Land to the Tiller Act by abolishing the Bhatkarshahi
+promulgate the Land to the Tiller Act by abolishing the *Bhatkarshahi*
 (Landlordism). While paying tributes to the martyrs who shed their
 blood to liberate Goa, the convention fully supported the ongoing
 struggles of the farmers from Mayem, Cuncolim, and Ozrim.
@@ -362,7 +361,7 @@ The resolutions, in brief, were to:
 Goa, recommend firm steps to abolish landlordism and promote
 agriculture on a cooperative basis.
 2. Till the Land to the Tiller Act comes into force, tenants were not
-to give the Khand (share) of more than one sixth of the produce.
+to give the *Khand* (share) of more than one sixth of the produce.
 3. Promulgate an act not to evict the tenants, and stop the
 Communidades’ harassment of tillers, who were tilling the land on or
 before December 1960.
@@ -376,9 +375,9 @@ to provide loans at a low interest.
 7. Enact Cooperative Act in order to set up cooperatives and uplift
 the standard of living of the farming community.
 8. Enact the best land reform and agricultural acts which are in force
-in other states of India, especially the “*neighbouring states*”.[^10]
+in other states of India, especially the “neighbouring states”.[^10]
 
-[^10]: Gomantak; 19 August 1962
+[^10]: गोमंतक; 19 ऑगस्ट 1962
 
 On the forefront of this Farmers’ Convention were several freedom
 fighters, including Zotico D’Souza, Dattatray Deshpande, Narayan Naik,
@@ -406,10 +405,10 @@ King)*” was their attractive slogan. In response, the illiterates came
 forward to contest elections, but the majority of the educated and
 whitecollar Goans stayed away from contesting as well as voting.
 
-Gomantak, Goa’s sole Marathi newspaper, had started the same year and
+*Gomantak*, Goa’s sole Marathi newspaper, had started the same year and
 53-year old B D Satoskar, a veteran Goan writer and experienced
 journalist hailing from Marcela village, had taken over as its founder
-editor. With his initiative, Gomantak played a pioneering role in
+editor. With his initiative, *Gomantak* played a pioneering role in
 educating the Goan masses about the Panchayati Raj system. The
 newspaper published articles detailing the powers and functioning of
 the panchayats, areas of work, such as hygiene, health, public works,
@@ -446,7 +445,7 @@ panchayats, while the least number of five were in
 Mormugao. Altogether 2.34 lakh voters were supposed to exercise their
 franchise on 24 October.
 
-[^11]: Gomantak; Editorial 5 October 1962
+[^11]: गोमंतक; संपादकीय 5 ऑक्टोबर 1962
 
 Surprisingly, 31 panchayats had all their panchas elected unopposed,
 including 128 men and 63 women. In Sattari, out of six, five
@@ -461,7 +460,7 @@ election. Salcete taluka was in the forefront with a fierce battle
 being witnessed in 26 panchayats and 190 wards.  The women of Salcete
 too were actively involved. A certain panchayat in Salcete had nine
 women in the fray in different wards, not just in the reserved
-ward. Gomantak also made a special mention of Loliem-Pollem, a border
+ward. *Gomantak* also made a special mention of Loliem-Pollem, a border
 village of Canacona taluka, from where 22 candidates were contesting
 for eight seats!
 
@@ -512,6 +511,6 @@ ruled over them hand-in-glove with the wealthy landlords and
 oppressive tax collectors. A new dawn had arisen on the west coast of
 India.
 
-[^12]: Lawande Vishwanath; Mayem: Swatantrya Sangramachya Aghadivaril Ek Ganv P 138
+[^12]: लवंदे विश्वनाथ; मयेः स्वातंत्र्यसंग्रामाच्या आघाडीवरील एक गाव, पान 138 
 [^13]: Gaitonde Dr Pundalik; The Liberation of Goa: A Participant’s View of History P 186
-[^14]: Gomantak; 25 October 1962
+[^14]: गोमंतक; 25 ऑक्टोबर 1962

@@ -13,7 +13,7 @@ soothing with their unique characteristics. The coastland primarily
 consists of beaches and low-lying river basins strewn with coconut
 plantations. The midland is made up of plateaus and small hillocks
 planted with cashew, rivulets flowing in the valleys, some islands,
-refreshing green paddy fields and other vegetation including Kullagar
+refreshing green paddy fields and other vegetation including *Kullagar*
 (orchards of coconut, betel nut and all kinds of fruit-bearing
 trees). The hinterland comprises mountainous regions of the Sahyadri
 Ghats with thick forests, consisting of rich flora and fauna, boasting
@@ -79,7 +79,7 @@ than half. And historically, we know that the Old Conquests were
 dominated by Christians, since no significant religious conversions
 took place in the New Conquests.
 
-Constituencies In Old Conquests: Union Territory & State
+**Constituencies In Old Conquests: Union Territory & State**
 
 | TALUKAS  | UT | CONSTITUENCIES                                | STATE | CONSTITUENCIES                                                       |
 |----------|----|-----------------------------------------------|-------|----------------------------------------------------------------------|
@@ -89,7 +89,7 @@ Constituencies In Old Conquests: Union Territory & State
 | Salcete  | 5  | Cuncolim, Benaulim, Navelim, Margao, Curtorim | 8     | Cuncolim, Benaulim, Navelim, Margao, Curtorim, Velim, Fatorda, Nuvem |
 | TOTAL    | 16 |                                               | 24    |                                                                      |
 
-Source: Election Commission of India
+*Source: Election Commission of India*
 
 Until the 2007 Assembly election, the Old Conquests had 22
 constituencies. However, after delimitation, from the 2009 Lok Sabha
@@ -112,7 +112,7 @@ the Old Conquests to be up in arms against the housing projects coming
 up in their areas? Has Goa’s politics started moving around land with
 a demographic perspective?
 
-Goans - Not Migrants - Congesting The Cities!
+## Goans - Not Migrants - Congesting The Cities!
 
 In 1977, the veteran freedom fighter Madhav Bir was elected as the
 Panaji MLA to the fifth assembly. During an assembly debate on
@@ -264,7 +264,7 @@ outside Goa. Most of them are non- Christians. But this does not
 affect the Christian domination in their constituencies. The table is
 a testimony.
 
-Rural Goa: 1961-2011 (%)
+**Rural Goa: 1961-2011 (%)**
 
 |               | HINDU |      | CHRISTIAN |      | MUSLIM |      |
 |---------------|-------|------|-----------|------|--------|------|
@@ -284,7 +284,7 @@ Rural Goa: 1961-2011 (%)
 | Canacona      | 76    | 81   | 23        | 18   | 0      | 1    |
 | NEW-CONQUESTS | 84    | 87   | 15        | 10   | 1      | 3    |
 
-Source: Census of India
+*Source: Census of India*
 
 When Goa went for its first poll in 1963, the Christians constituted
 nearly 60 per cent of the electorate in the then 16 constituencies of
@@ -320,7 +320,7 @@ other constituencies in and around the port town of Vasco were also
 held by Christian candidates several times. Momugao was in fact a
 Hindu-majority constituency right from the beginning and yet held by
 Christian legislators.  Prominent among them are Urminda Lima Leitao
-(UGP) in 1963, John Manuel Vaz (Ind) in 1994, and his son Karl Vaz
+(UGP) in 1963, John Manuel Vaz (Independent) in 1994, and his son Karl Vaz
 (Congress) in 2002.
 
 Even after continuous migrations, and new townships coming up every
@@ -356,7 +356,7 @@ provides a clear picture of how religion counts in Goan politics in
 terms of choosing popular candidates, but does not matter when it
 comes to voting.
 
-Religions 2017: Old Conquests
+**Religions 2017: Old Conquests (%)**
 
 | NO | CONSTITUENCY  | HINDU | CHRISTIAN | MUSLIM |
 |----|---------------|-------|-----------|--------|
@@ -386,7 +386,7 @@ Religions 2017: Old Conquests
 | 24 | Mormugao      | 73    | 11        | 16     |
 |    | AVERAGE       | 53    | 39        | 9      |
 
-Source: Vivek Mordekar, IT Professional, Margao
+*Source: Vivek Mordekar, IT Professional, Margao*
 
 Even after an in-migration in large numbers and the influx of local
 Hindus (also a few Muslims), five constituencies in Salcete continue
