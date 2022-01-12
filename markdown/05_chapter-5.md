@@ -231,7 +231,7 @@ priests. Even the Portuguese high court had reviewed the decree,
 according to which the Goan Christians had to be accorded the same
 privileges as the Portuguese whites. By 1705, Goa had almost 2500
 natives as the priests and the majority among them were Brahmins. As a
-result, Goan history witnessed three revolts − Matheus de Crasto in
+result, Goan history witnessed three revolts − Matheus de Castro in
 the 17th century, the Pinto conspiracy in the 18th century, and the
 unrest stirred up by Padre Alvares in the 19th century. All these
 revolts were led by Christian Brahmins. None of them included the
