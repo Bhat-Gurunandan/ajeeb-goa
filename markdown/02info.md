@@ -1,5 +1,6 @@
 ---
 title: Information
+style: info
 ---
 
 **Ajeeb Goa's Gajab Politics**  

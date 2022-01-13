@@ -1,5 +1,6 @@
 ---
 title: Ajeeb Goa
+style: chapter
 ---
 
 ### Chapter 1

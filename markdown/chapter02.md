@@ -1,5 +1,6 @@
 ---
 title: National Mines and Regional Rejects
+style: chapter
 ---
 
 ### Chapter 2

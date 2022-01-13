@@ -1,5 +1,6 @@
 --- 
 title: Foreword
+style: chapter
 ---
 # Foreword
 

@@ -1,5 +1,6 @@
 ---
 title: Old is Gold
+style: chapter
 ---
 
 ### Chapter 7

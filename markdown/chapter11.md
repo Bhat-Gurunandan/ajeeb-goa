@@ -1,5 +1,6 @@
 ---
 title: Begins the Bahujan Era
+style: chapter
 ---
 
 ### Chapter 11

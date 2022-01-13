@@ -1,5 +1,6 @@
 ---
 title: History of Bhumiputras
+style: chapter
 ---
 
 ### Chapter 3

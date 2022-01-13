@@ -1,5 +1,6 @@
 ---
 title: The Politics of Land
+style: chapter
 ---
 
 ### Chapter 13

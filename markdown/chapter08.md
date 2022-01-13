@@ -1,5 +1,6 @@
 ---
 title: Praja Becomes the Raja
+style: chapter
 ---
 
 ### Chapter 8

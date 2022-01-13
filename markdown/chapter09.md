@@ -1,5 +1,6 @@
 ---
 title: Laying the Ground for a Revolution
+style: chapter
 ---
 
 ### Chapter 9

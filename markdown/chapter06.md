@@ -1,5 +1,6 @@
 ---
 title: The 'State' of Migrants
+style: chapter
 ---
 
 ### Chapter 6

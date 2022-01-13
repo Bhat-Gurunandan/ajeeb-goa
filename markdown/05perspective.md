@@ -1,5 +1,6 @@
 ---
 title: With a Perspective
+style: chapter
 ---
 
 # WITH A PERSPECTIVE…
