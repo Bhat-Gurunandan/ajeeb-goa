@@ -374,7 +374,7 @@ migrants. But when the migration of Goans abroad is studied from a
 socio-cultural viewpoint, their tales sound similar to what we witness
 among the migrants in Goa today.
 
-### EAST AFRICA
+##### EAST AFRICA
 
 The Industrial Revolution in Europe and the USA had a direct
 repercussion on Estado da India in terms of new opportunities for
@@ -475,7 +475,7 @@ Uganda.[^10]
 
 [^10]: Goa Migration Study 2008
 
-### USA
+##### USA
 
 Goan settlers began arriving in the US from East Africa around 80
 years ago. In 1990, the US had 5000 Goan families, mostly Goan
@@ -484,7 +484,7 @@ migration of Goan Hindus to the US, mainly as IT professionals. Till
 January 2020, 12.80 lakh Indians are recorded to be living in the US,
 which, of course, includes Goans.[^12]
 
-### PORTUGAL 
+##### PORTUGAL 
 
 Despite Goa being a colony of Portugal for over four centuries, the
 number of Goans settled in Portugal is less compared to other European
@@ -600,7 +600,7 @@ politics stooping to regional and ethnic fanaticism while our bright
 Goans with a worldwide vision shine in different parts of the world?
 Goa’s ‘broadminded’ politics needs introspection indeed!
 
-### GULF 
+##### GULF 
 
 The oil boom in the Gulf region of Middle East in the 1960s and 1970s
 lasted till early 1990s. Thousands of Goans, from the Old and New

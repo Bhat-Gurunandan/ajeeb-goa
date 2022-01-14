@@ -3,9 +3,9 @@ title: Table of Contents
 style: toc
 ---
 
-[Foreword](04foreword.xhtml)
-
-[Preface](05perspective.md)
+[Dedication](03dedication.xhtml)  
+[Foreword](04foreword.xhtml)  
+[Preface](05perspective.md)  
 
 1.  [Ajeeb Goa](chapter01.xhtml)
 2.  [National 'Mines' and Regional 'Rejects'](chapter02.xhtml)
