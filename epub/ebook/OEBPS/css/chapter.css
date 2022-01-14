@@ -69,13 +69,13 @@ h1 {
     margin-bottom: 2em;
 }
 
-h1 em {
+ h1 em {
     font-weight: bold;
 }
 
 h2 {
     font-family: "CMR", sans-serif;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 1.4em;
     margin-top: 1.6em;
     margin-bottom: 1.3em;
