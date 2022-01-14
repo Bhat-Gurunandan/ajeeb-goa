@@ -14,7 +14,7 @@ as a lone crusader
 for the land-rights  
 of the have-nots  
 
-![Advocate Amrut Kansar](../images/amrut_kansar_profile.jpg)
+![Advocate Amrut Kansar](../images/amrut_kansar_profile.png)
 
 dedicated to  
 **Adv Amrut Kansar**  
