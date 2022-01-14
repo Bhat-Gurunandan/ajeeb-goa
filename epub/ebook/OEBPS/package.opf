@@ -1,0 +1,91 @@
+<package xmlns="http://www.idpf.org/2007/opf" xmlns:epub="http://www.idpf.org/2007/ops" xmlns:svg="http://www.w3.org/2000/svg" unique-identifier="pub-id" version="3.0" xml:lang="en">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Good Economics for Hard Times</dc:title>
+<dc:creator id="creator01">Abhijit V. Banerjee</dc:creator>
+<meta property="role" refines="#creator01" scheme="marc:relators">aut</meta>
+<meta property="file-as" refines="#creator01">Banerjee, Abhijit V. and Duflo, Esther</meta>
+<meta property="display-seq" refines="#creator01">1</meta>
+<dc:creator id="creator02">Esther Duflo</dc:creator>
+<meta property="role" refines="#creator02" scheme="marc:relators">aut</meta>
+<meta property="file-as" refines="#creator02">Duflo, Esther</meta>
+<meta property="display-seq" refines="#creator02">2</meta>
+<dc:publisher>PublicAffairs</dc:publisher>
+<dc:rights>Copyright © 2019 by Abhijit V. Banerjee and Esther Duflo</dc:rights>
+<dc:date>2019-11-12</dc:date>
+<dc:identifier id="pub-id">9781541762879</dc:identifier>
+<meta property="dcterms:modified">2019-09-27T12:48:49Z</meta>
+<dc:language>en</dc:language>
+<meta content="cover-image" name="cover"/>
+<description xmlns="http://purl.org/dc/elements/1.1/">&lt;b&gt;Two prize-winning economists show how economics, when done right, can help us solve the thorniest social and political problems of our day&lt;/b&gt;&lt;br&gt;The experience of the last decade has not been kind to the image of economists: asleep at the wheel (perhaps with the foot on the gas pedal) in the run-up to the great recession, squabbling about how to get out of it, tone-deaf in discussions of the plight of Greece or the Euro area; they seem to have lost the ability to provide reliable guidance on the great problems of the day.&lt;br&gt;In this ambitious, provocative book Abhijit V. Banerjee and Esther Duflo show how traditional western-centric thinking has failed to explain what is happening to people in a newly globalized world: in short Good Economics has been done badly. This precise but accessible book covers many of the most essential issues of our day&amp;#8212;including migration, unemployment, growth, free trade, political polarization, and welfare. Banerjee and Duflo will confound...</description>
+</metadata>
+<manifest>
+<item href="cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
+<item href="images/9781541762879.jpg" id="cover-image" media-type="image/jpeg" properties="cover-image"/>
+<item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+<item href="css/stylesheet.css" id="style" media-type="text/css"/>
+<item href="css/discover-page.css" id="style1" media-type="text/css"/>
+<item href="images/publisher-logo.png" id="publisher-logo" media-type="image/png"/>
+<item href="discover-page.xhtml" id="discover-page" media-type="application/xhtml+xml"/>
+<item href="discover-page_pre.xhtml" id="discover-page_pre" media-type="application/xhtml+xml"/>
+<item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+<item href="copyright.xhtml" id="copyright" media-type="application/xhtml+xml"/>
+<item href="toc.xhtml" id="toc" media-type="application/xhtml+xml"/>
+<item href="images/Art_tit.jpg" id="aArt_tit" media-type="image/jpeg"/>
+<item href="images/Art_dot.jpg" id="aArt_dot" media-type="image/jpeg"/>
+<item href="images/Art_P12.jpg" id="aArt_P12" media-type="image/jpeg"/>
+<item href="images/Art_P23.jpg" id="aArt_P23" media-type="image/jpeg"/>
+<item href="images/Art_P403a.jpg" id="aArt_P403a" media-type="image/jpeg"/>
+<item href="images/Art_P403b.jpg" id="aArt_P403b" media-type="image/jpeg"/>
+<item href="images/Art_sborn.jpg" id="aArt_sborn" media-type="image/jpeg"/>
+<item href="images/Art_sign.jpg" id="aArt_sign" media-type="image/jpeg"/>
+<item href="praise.xhtml" id="praise" media-type="application/xhtml+xml"/>
+<item href="dedication.xhtml" id="dedication" media-type="application/xhtml+xml"/>
+<item href="preface002.xhtml" id="preface002" media-type="application/xhtml+xml"/>
+<item href="chapter001.xhtml" id="chapter001" media-type="application/xhtml+xml"/>
+<item href="chapter002.xhtml" id="chapter002" media-type="application/xhtml+xml"/>
+<item href="chapter003.xhtml" id="chapter003" media-type="application/xhtml+xml"/>
+<item href="chapter004.xhtml" id="chapter004" media-type="application/xhtml+xml"/>
+<item href="chapter005.xhtml" id="chapter005" media-type="application/xhtml+xml"/>
+<item href="chapter006.xhtml" id="chapter006" media-type="application/xhtml+xml"/>
+<item href="chapter007.xhtml" id="chapter007" media-type="application/xhtml+xml"/>
+<item href="chapter008.xhtml" id="chapter008" media-type="application/xhtml+xml"/>
+<item href="chapter009.xhtml" id="chapter009" media-type="application/xhtml+xml"/>
+<item href="chapter010.xhtml" id="chapter010" media-type="application/xhtml+xml"/>
+<item href="acknowledgements.xhtml" id="acknowledgements" media-type="application/xhtml+xml"/>
+<item href="personblurb.xhtml" id="personblurb" media-type="application/xhtml+xml"/>
+<item href="appendix002.xhtml" id="appendix002" media-type="application/xhtml+xml"/>
+<item href="endnotes.xhtml" id="endnotes" media-type="application/xhtml+xml"/>
+<item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+</manifest>
+<spine page-progression-direction="ltr" toc="ncx">
+<itemref idref="cover" linear="yes"/>
+<itemref idref="titlepage" linear="yes"/>
+<itemref idref="copyright" linear="yes"/>
+<itemref idref="toc" linear="yes"/>
+<itemref idref="discover-page_pre" linear="yes"/>
+<itemref idref="dedication" linear="yes"/>
+<itemref idref="preface002" linear="yes"/>
+<itemref idref="chapter001" linear="yes"/>
+<itemref idref="chapter002" linear="yes"/>
+<itemref idref="chapter003" linear="yes"/>
+<itemref idref="chapter004" linear="yes"/>
+<itemref idref="chapter005" linear="yes"/>
+<itemref idref="chapter006" linear="yes"/>
+<itemref idref="chapter007" linear="yes"/>
+<itemref idref="chapter008" linear="yes"/>
+<itemref idref="chapter009" linear="yes"/>
+<itemref idref="chapter010" linear="yes"/>
+<itemref idref="acknowledgements" linear="yes"/>
+<itemref idref="discover-page" linear="yes"/>
+<itemref idref="personblurb" linear="yes"/>
+<itemref idref="praise" linear="yes"/>
+<itemref idref="endnotes" linear="yes"/>
+<itemref idref="appendix002" linear="yes"/>
+</spine>
+<guide>
+<reference href="copyright.xhtml" title="Copyright" type="copyright"/>
+<reference href="cover.xhtml" title="Begin Reading" type="start"/>
+<reference href="toc.xhtml" title="Table of Contents" type="toc"/>
+<reference href="cover.xhtml" title="Cover Image" type="cover"/>
+</guide>
+</package>
