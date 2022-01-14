@@ -4,7 +4,8 @@ style: chapter
 ---
 
 ### Chapter 2
-# NATIONAL ‘MINES’ & REGIONAL ‘REJECTS’
+![](../images/common.jpg)
+# National ‘Mines’ and Regional ‘Rejects’
 
 Before getting into the history of Goan polity, let us learn a bit
 more about the presence of national and regional parties in Goa. In

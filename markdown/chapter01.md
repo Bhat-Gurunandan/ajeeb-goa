@@ -60,7 +60,7 @@ attained independence. Yet, see what the majority of Goans stated when
 it came to spelling out their mother tongue at the Census conducted in
 1961:
 
-**MOTHER TONGUE: 1961 CENSUS**
+#### Mother Tongue: 1961 Census
 
 
 | Mother Tongue | Population | Per cent |
@@ -235,8 +235,9 @@ one in Goa. Almost 19 bigwigs out of 28 candidates lost their
 deposits. And in the third election of 1972, eight candidates of the
 national party lost their deposits.
 
-CONGRESS IN KERALA & GOA: 1957 TO 1972
+The *Ajeebi* of Goan voters does not end here.
 
+#### Congress In Kerala & Goa: 1957 To 1972
 
 | Elections    | Kerala    |     |        | Goa             |     |        |
 |--------------|-----------|-----|--------|-----------------|-----|--------|
@@ -250,9 +251,7 @@ CONGRESS IN KERALA & GOA: 1957 TO 1972
 \* Kerala election: 1960, Goa election: 1963\
 \*\* Kerala election: 1970, Goa election: 1972
 
-2. ‘The General Elections in Goa’ by Principal Ram Joshi
 
-The *Ajeebi* of Goan voters does not end here.
 
 When did the Congress eventually make its debut in the Goa Assembly?
 When the Indian voter, in a nationwide wave, ended the 26-year long
@@ -278,10 +277,7 @@ seat went to the MGP. The BLD candidates were pushed to third position
 in both the constituencies of Goa, with a vote share of a mere 15 per
 cent. The Congress and the MGP polled 40 per cent each.[^3]
 
-
 [^3]: Election Commission of India
-
-3. Election Commission of India
 
 Simultaneously, the election was also held for the Goa Assembly. Its
 term had actually expired on 24th March, but was extended due to the
@@ -294,8 +290,7 @@ de Sequeira joined the Janata Party before the elections. On the other
 hand, Revenue Minister Pratapsingh Rane had stepped down from the MGP
 cabinet, resigned from the party and joined the Congress.
 
-LOK SABHA 1977 RESULTS: GOA
-
+#### Lok Sabha 1977 Results: Goa
 
 | PARTY | CANDIDATE            | VOTES % | CANDIDATE        | VOTES % |
 |-------|----------------------|---------|------------------|---------|
@@ -655,8 +650,7 @@ the BJP and Digambar Kamat of the Congress.  Goa’s Bahujan Samaj and
 even the Christian community rallied behind them without any
 hesitation and they ruled for many full terms.
 
-CHIEF MINISTERS BY POPULAR VOTE
-
+#### Chief Ministers By Popular Vote
 
 | ELECTION | CHIEF MINISTER      | COMMUNITY            | PERCENT |
 |----------|---------------------|----------------------|---------|

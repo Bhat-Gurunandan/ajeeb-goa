@@ -663,7 +663,7 @@ these, only 225 exist today. Among the non-existent 201 Communidades,
 who took over these huge tracts of cultivable land during the
 Portuguese regime.
 
-### AFORAMENTO
+##### AFORAMENTO
 
 Aforamento is a provision in the Communidade system of leasing out
 limited areas of land for agriculture or housing. The special chapter
@@ -703,7 +703,7 @@ well as Alvara land.[^30]
 
 [^30]: Assembly debate on 7 Aaugust 2019
 
-### ALVARA
+##### ALVARA
 
 In order to increase the agricultural production and land revenue, the
 Portuguese started the Alvara system in 1917 under decree number 3602
@@ -842,7 +842,7 @@ cultivation in the forests. Even their village settlements, called
 Gauthan, have been registered in land records as encroachments. This
 issue is widely prevalent in the New Conquests.
 
-### MOKASSO
+##### MOKASSO
 
 Besides this, the Sattari taluka in particular, is also fighting for
 the ownership of Mokasso land, which is held by Ranes and Desai, who

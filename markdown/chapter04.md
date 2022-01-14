@@ -4,7 +4,7 @@ style: chapter
 ---
 
 ### Chapter 4
-# *Gaunkar* To *Bhatkar*
+# *Gaunkar* to *Bhatkar*
 
 
 Who doesn’t like to live in Goa? Its pristine natural beauty from the
