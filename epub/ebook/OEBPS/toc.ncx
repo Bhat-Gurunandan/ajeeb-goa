@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" xmlns:epub="http://www.idpf.org/2007/ops" version="2005-1" xml:lang="en">
+<head>
+<meta name="dtb:uid" content="9781541762879"/>
+<meta name="dtb:depth" content="1"/>
+<meta name="dtb:totalPageCount" content="0"/>
+<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Ajeeb Goa's Gajab Politics</text></docTitle>
+<docAuthor><text>Sandesh Prabhudesai</text></docAuthor>
+<navMap>
+<navPoint playOrder="1" id="cover"><navLabel><text>Cover</text></navLabel><content src="01cover.xhtml"/></navPoint>
+<navPoint playOrder="2" id="info"><navLabel><text>Copyright Information</text></navLabel><content src="02info.xhtml"/></navPoint>
+<navPoint playOrder="3" id="dedication"><navLabel><text>Dedication</text></navLabel><content src="03dedication.xhtml"/></navPoint>
+<navPoint playOrder="4" id="toc"><navLabel><text>Table of Contents</text></navLabel><content src="toc.xhtml"/></navPoint>
+<navPoint playOrder="5" id="foreword"><navLabel><text>Foreword</text></navLabel><content src="04foreword.xhtml"/></navPoint>
+<navPoint playOrder="6" id="perspective"><navLabel><text>Perspective</text></navLabel><content src="05perspective.xhtml"/></navPoint>
+<navPoint playOrder="7" id="chapter01"><navLabel><text>Chapter 1</text></navLabel><content src="chapter01.xhtml"/></navPoint>
+<navPoint playOrder="8" id="chapter02"><navLabel><text>Chapter 2</text></navLabel><content src="chapter02.xhtml"/></navPoint>
+<navPoint playOrder="9" id="chapter03"><navLabel><text>Chapter 3</text></navLabel><content src="chapter03.xhtml"/></navPoint>
+<navPoint playOrder="10" id="chapter04"><navLabel><text>Chapter 4</text></navLabel><content src="chapter04.xhtml"/></navPoint>
+<navPoint playOrder="11" id="chapter05"><navLabel><text>Chapter 5</text></navLabel><content src="chapter05.xhtml"/></navPoint>
+<navPoint playOrder="12" id="chapter06"><navLabel><text>Chapter 6</text></navLabel><content src="chapter06.xhtml"/></navPoint>
+<navPoint playOrder="13" id="chapter07"><navLabel><text>Chapter 7</text></navLabel><content src="chapter07.xhtml"/></navPoint>
+<navPoint playOrder="14" id="chapter08"><navLabel><text>Chapter 8</text></navLabel><content src="chapter08.xhtml"/></navPoint>
+<navPoint playOrder="15" id="chapter09"><navLabel><text>Chapter 9</text></navLabel><content src="chapter09.xhtml"/></navPoint>
+<navPoint playOrder="16" id="chapter10"><navLabel><text>Chapter 10</text></navLabel><content src="chapter10.xhtml"/></navPoint>
+<navPoint playOrder="17" id="chapter11"><navLabel><text>Chapter 11</text></navLabel><content src="chapter11.xhtml"/></navPoint>
+<navPoint playOrder="18" id="chapter12"><navLabel><text>Chapter 12</text></navLabel><content src="chapter12.xhtml"/></navPoint>
+</navMap>
+</ncx>
