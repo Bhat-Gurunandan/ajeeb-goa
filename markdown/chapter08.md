@@ -1,6 +1,5 @@
 ---
 title: Praja Becomes the Raja
-style: chapter
 ---
 
 ### Chapter 8
@@ -121,9 +120,9 @@ they were either working temporarily, or had settled down.
 
 With the liberation of Goa on 19 December, 1961, the process of
 democracy extended by the Indian Union to Goa and other liberated
-Portuguese colonies in India began in earnest.  From 20 January, 1961,
+Portuguese colonies in India began in earnest.  From 20 December, 1961,
 till 8 June, 1962, ‘liberator’ Major General K P Kandeth was appointed
-as the Military Governor of Goa for a period of six months. He took
+as the Military Governor of Goa for a period of one and a half years. He took
 immediate steps to take over the properties in the possession of the
 Portuguese, deporting the Portuguese armed forces back to Portugal,
 and providing Goans the option of adopting a Portuguese citizenship,

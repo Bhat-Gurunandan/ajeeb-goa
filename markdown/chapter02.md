@@ -341,7 +341,7 @@ random facts and figures. The ninth Assembly of 1999 had 25
 professional and habitual defectors out of 40. From 1990 to 2002,
 after which started the BJP era, Goa had 13 chief ministers in three
 Assemblies. In these 12 years, defections took place 21 times and the
-number of detectors was 80. That does not mean 80 MLAs defected. A
+number of defectors was 80. That does not mean 80 MLAs defected. A
 large chunk among them had defected at least twice in these 12
 years. The BJP, for example in 1999, had 10 MLAs in the
 beginning. When the then CM Manohar Parrikar had suddenly dissolved
