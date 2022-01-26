@@ -4,7 +4,7 @@ style: chapter
 ---
 
 ### Chapter 3
-# History of *Bhumiputras*
+# HISTORY OF *BHUMIPUTRAS*
 
 The history of Goa does not begin with the Portuguese
 conquest of Goa in 1510. Rather, it ends with the
@@ -17,9 +17,9 @@ pilot. India at that time was trading with Arabs, due to which the sea
 is called the Arabian Sea.
 
 Neither does the history of Goa begin with Lord Parashuram, an
-incarnation of Lord Vishnu’s Dashavatara. The Sahyadri Khand, which
-tells us of his tale was added to the Skand Purana later, probably to
-establish that Goa or Gomantak Bhumi was created by Lord Parashuram
+incarnation of Lord Vishnu’s Dashavatara. The 'Sahyadri Khand', which
+tells us of his tale was added to the 'Skand Purana' later, probably to
+establish that Goa or *Gomantak Bhumi* was created by Lord Parashuram
 and that the Brahmins were the first settlers of Goa. One of the
 legends says that Parashuram, the warrior sage, stood on the peak of
 the Sahyadri Ghat and shot an arrow towards the sea. The water receded
@@ -29,8 +29,8 @@ holy poison and converted the soil into fertile lush green land. Out
 of respect, Vasuki and all snakes were appointed as protectors and
 guardians of the land.[^1]
 
-The Sahyadri Khand terms the Himalayas as Devatma (soul of the Gods)
-and Sahyadri as Viratma (soul of the heroes).  The entire Sahyadri
+The 'Sahyadri Khand' terms the Himalayas as *Devatma* (soul of the Gods)
+and Sahyadri as *Viratma* (soul of the heroes).  The entire Sahyadri
 range does not touch the sea anywhere from River Tapi to Kanyakumari,
 because of Lord Parashuram’s heroic work. The Sapt Konkan, which
 Parashuram created from the North to the South includes Chiplun,
@@ -40,7 +40,7 @@ Konkan, which included Bhargava, Nagare, Chitpavan, Karhade, Saraswat,
 Havik and Nambudri.[^2]
 
 [^1]: Wikipedia: Parshurama
-[^2]: गायतोंडे व्या करणाचार्य गजानन शास्त्री: सह्याद्री खंड
+[^2]: गायतोंडे व्याकरणाचार्य गजानन शास्त्री: सह्याद्री खंड
 
 You may ask why this controversial issue is raised here as we discuss
 the elections and politics of Goa. It is not only important, rather
@@ -49,14 +49,14 @@ directly connected to the land holdings of Goa, around which the
 politics of Goa has been moving right from ancient times till date. It
 is thus important to know who were the early settlers of Goa, to whom
 the land belonged to, how the Brahmins and a few Kshatriya Sardar
-classes became the *bhatkars* (landlords) of Goa, and how the
+classes became the *Bhatkars* (landlords) of Goa, and how the
 *Bahujan* politics evolved in Free Goa.
 
-## The Myth of Parashuram Bhoomi
+## The Myth of *Parashuram Bhoomi*
 
 This mythological legend is challenged by many historians.
 It primarily tries to say that the Gaud Saraswat Brahmins were
-the first settlers in Gomant Bhoomi due to which it is called
+the first settlers in *Gomant Bhoomi* due to which it is called
 Parashuram Bhoomi. The tale claims that Parashuram brought
 96 Saraswat Brahmin families from Tirhut (probably in Gaur,
 Bengal, now in Bihar) in Northern India and got them settled
@@ -255,7 +255,7 @@ by experts provide us with a detailed scenario :[^7]
 No evidence however is found till date whether these
 hunter-gatherers finally settled down in Goa.
 
-## Mundari, Kol, Asura
+## *Mundari, Kol, Asura*
 
 According to Dhume, while the Konkan coast was created due to seismic
 movement 10000 BCE, the pluvial rains continued, though with
@@ -302,7 +302,7 @@ diminishing intensity, for one thousand years:[^8]
 > new-born area starting from the western foot of the Sahyadri and
 > Nilgiri ranges. The human folk which first established themselves in
 > Goa are those that came from the foothills of the Sahyadri
-> range. They were named by the newcomers (in the Mundari language)
+> range. They were named by the newcomers (in the *Mundari* language)
 > from North India as Mhars, meaning “of the eldest house” or say the
 > most ancient settlers. The Mhars did not hunt because they had no
 > implements. So their food was only that which was produced
@@ -361,7 +361,7 @@ settled elsewhere in Goa.
 
 The second tribe migrated along with the Goud Saraswat Brahmins from
 Kannauj (Uttar Pradesh) and established themselves at Kutthali
-(Cortalim). They are called Kelshi- Kutthalkar Gaudde. They are
+(Cortalim). They are called *Kelshi- Kutthalkar Gaudde.* They are
 believed to have developed the Khazan lands in Madkai, across the
 Zuari river.
 
@@ -474,7 +474,7 @@ sea later in 700 CE and joined them in Goa to settle down.[^13]
 > *“The Kshatriya-Bhojas and Chediyas, named together as Chaddes,
 > expelled the Satarkars who fled to the south up to the village of
 > Rivona in Sanguem taluka and occupied the villages and established
-> their headquarters at Amonem village.  They however kept the Mundari
+> their headquarters at Amonem village.  They however kept the *Mundari*
 > tribe as well as other families of the original pastoral tribe in
 > their service. They established the system of kingship under the
 > hegemony of the Bhojas, which is the first kingship to appear in the
@@ -653,7 +653,7 @@ Or is the history of Goa full of migrations, from all over the world
 as well as different parts of India? What are we originally? Iraqis?
 Afghanis?  Pakistani? Indo-Europeans? Aryans? Dravidians? Bengalis?
 Odiyas? Jharkhandi? Bihari? Madhya Pradeshi? Chattisgarhi?  Gujarati?
-Mundaris? Kol? Sumerians? Arabs?
+*Mundaris*? *Kol*? Sumerians? Arabs?
 
 If we analyse this history, we find that different tribes came down
 and settled in Goa in different centuries. And here Goa’s politics has

@@ -1,10 +1,9 @@
 ---
 title: Opinion Poll Matters, Not The ...
-style: chapter
 ---
 
 ### Chapter 12
-# Opinion (Poll) Matters, Not The ...
+# OPINION (POLL) MATTERS, NOT THE...
 
 The initial plan of the MGP and PSP was to embarrass the Centre. The
 MGP would win the first election, then resign en masse within six
@@ -147,7 +146,7 @@ Shastri suddenly died in Tashkent, Uzbekistan (in the then Soviet
 Union) on 11 January 1966, a day after signing a peace treaty to end
 the 1965 Indo-Pakistan War.
 
-The powerful ‘syndicate’ of K Kamaraj of Madras, Atulya Ghosh of West
+The powerful ‘Syndicate’ of K Kamaraj of Madras, Atulya Ghosh of West
 Bengal, Neelam Sanjiva Reddy of Andhra Pradesh, S Nijalingappa of
 Mysore and S K Patil of Maharashtra, which had elevated Shastri to the
 PM’s post after Nehru’s death, backed Indira Gandhi for prime
@@ -162,7 +161,7 @@ Kakodkar then played some astute politics. Though Deputy Prime
 Minister Morarji Desai also declined his request, he managed to get an
 assurance from Desai that he would not oppose an alternative, if it
 was proposed in the Parliamentary Board. S K Patil, now a powerful
-member of the ‘syndicate’, moved the vital resolution at the Congress
+member of the ‘Syndicate’, moved the vital resolution at the Congress
 Parliamentary Board meeting on 3 September 1966. Patil proposed that
 instead of a mid-term poll, a ‘different kind of mechanism’ be evolved
 to resolve Goa’s merger issue. Neither Morarji Desai, Indira Gandhi,
@@ -352,14 +351,14 @@ sides were arrested.  There were also occasional serious incidents
 like beatings and stabbings.
 
 The really interesting battle was on the cultural front.
-Maharashtra’s popular Lal Bavtta Kala Pathak led by Shahir Amar
+Maharashtra’s popular *Lal Bavtta Kala Pathak* led by Shahir Amar
 Shaikh, as well as Shahir Sable, enthralled crowds with inspiring
 patriotic Marathi songs like *Jai Jai Maharashtra Mazha* (Victory to my
 Maharashtra), to generate support for merger.
 
 To counter them, a young brigade of singers, musicians and lyricists
-led by Ulhas Buyao entered the arena, styling themselves as the Jai
-Gomantak Kala Pathak. Their Konkani campaign songs like *Goenchea
+led by Ulhas Buyao entered the arena, styling themselves as the *Jai
+Gomantak Kala Pathak*. Their Konkani campaign songs like *Goenchea
 Mhojea Goenkarano*, *Jayat Jage* and *Channeache Rati* long outlived the
 movement to become popular folk songs that even today’s younger
 generation continues to enjoy.  Interestingly, while the banners

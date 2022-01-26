@@ -3,7 +3,7 @@ title: The Gifts of Portuguese
 ---
 
 ### chapter 5
-# The 'Gifts' of Portuguese
+# THE 'GIFTS' OF PORTUGUESE
 
 It was not the Communidades alone that got transformed into a feudal
 system, making the original cultivators its tenants. Goa was not an
@@ -421,7 +421,7 @@ and Hindus were converted.
 > *“The Hindu leaders regularly complained to the Vijayanagar rulers
 > including Rama Raya, of the Portuguese highhandedness.  But the
 > kings were reluctant to anger the Portuguese on whom they were
-> dependent for the critical supply of horses.”*[^19]
+> dependent for the critical supply of horses.”* [^19]
 
 Trade politics overrode the duty of a king to protect his
 religion!
@@ -561,8 +561,8 @@ Goa witnessed the conversion of several Brahmin chiefs. However, after
 an attack by some Hindus on the neoconverts, Noronha demolished the
 200 remaining temples in Salcete in 1567. Besides expelling these
 Hindus, government posts were kept exclusively for the
-Christians. Hindu Gaunkars were excluded from Communidades when
-Christian Gaunkars could form the quorum.
+Christians. Hindu *Gaunkars* were excluded from Communidades when
+Christian *Gaunkars* could form the quorum.
 
 When Luis de Ataide (1568-1574) came in as the viceroy, he had to face
 a siege by Adilshah for almost 10 months.  Conversions became
@@ -753,7 +753,7 @@ Alvara land in these talukas.
 The CAG found this ‘disappeared’ land with the Directorate
 of Settlement and Land Record.
 
-**Alvara Land Holdings In Goa**
+ALVARA LAND HOLDINGS IN GOA 
 
 | TALUKA    | LEASES   | AREA IN HECTARES |
 |-----------|----------|------------------|
@@ -982,7 +982,7 @@ land in other parts of Goa other than Sattari. Government does
 not intend to give tenancy or ownership rights to the tillers of
 Mokasso land. No steps are taken in this regard.*”[^38]
 
-**Mokashe Of Sattari-Bicholim & Tentative Area**
+MOKASHE OF SATTARI-BICHOLIM & TENTATIVE AREA 
 
 | VILLAGE      | TALUKA   | *Khashe* | Acres     | Sq Mts       | Acres    | Sq Mts       |
 |--------------|----------|--------|-----------|--------------|----------|--------------|

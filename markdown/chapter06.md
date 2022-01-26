@@ -1,10 +1,9 @@
 ---
 title: The 'State' of Migrants
-style: chapter
 ---
 
 ### Chapter 6
-# The 'State' of Migrants
+# THE 'STATE' OF MIGRANTS 
 
 Unlike the rest of India, Goa is a state formed by four kinds of major
 migrations. Two among them are similar to the rest of India while the
@@ -21,7 +20,7 @@ then by the neoconverts, especially in the 17th century.
 
 Then came a major spate of migration of Goans, which gained momentum
 from the 19th century. The decaying economic situation in Goa, in the
-Estado da India, and the opportunities thrown up all over the world
+*Estado da India*, and the opportunities thrown up all over the world
 led to the migration of many aspiring people from the Christian
 community of Goa.  This migration still continues. In the last three
 decades Goa’s educated Hindu population has also been migrating in a
@@ -44,8 +43,8 @@ strongly connected with the concerns and welfare of their motherland.
 
 ## More Christians Than Hindus Left Goa?
 
-We know that Goa was historically divided into two Goas − the Velhas
-Conquistas (Old Conquests) and Nova Conquistas (New Conquests). By
+We know that Goa was historically divided into two Goas − the *Velhas
+Conquistas* (Old Conquests) and *Nova Conquistas* (New Conquests). By
 1788, when the eight talukas of the latter were annexed to Goa, the
 Portuguese had changed their policy on religious conversions. They had
 agreed to respect the traditions and customs of their population. The
@@ -64,7 +63,7 @@ Gulf, and now in the UK.
 [^1]: Mendonça Delio de: Conversions and Citizenry, Goa under the Portugal 1510-1610 P 85
 
 But it is not true that Christians were always a minority in Goa. Even
-after the New Conquests were annexed to Estado da India, the
+after the New Conquests were annexed to *Estado da India*, the
 Christians were the majority. The official figures of the Portuguese
 Census indicate that way back in 1850, Christians comprised 64 per
 cent of Goa’s population. Out of a total of 3.64 lakh population,
@@ -81,11 +80,12 @@ liberated in 1961. From 1850 to 1960, the whole picture had
 reversed. Hindus (3.54 lakh) were one lakh more than the Christians
 (2.25 lakh).
 
-Note
-: Other religions like Buddhists etc are included in the category of Muslims
-Source
-: Portuguese Census of Estado da India, An Historical and Archaeological Sketch of City
-of Goa & Census of India
+*Note*
+*: Other religions like Buddhists etc are included in the category of Muslims*
+
+*Source*
+*: Portuguese Census of Estado da India, An Historical and Archaeological Sketch of City
+of Goa & Census of India*
 
 Was it a state-wide transition? It was, but to a large extent
 in the Old Conquests. Let’s analyse the following graph, which
@@ -175,7 +175,7 @@ Then occurred a major exodus, largely of Christians,
 when the Anglo-Portuguese Treaty was signed in 1878 and Goa
 became the prime supplier of labour to British India. Official
 figures from Portuguese records show that 3.23 lakh Goans had
-left Estado da India (Portuguese Goa) and settled in Bombay as
+left *Estado da India* (Portuguese Goa) and settled in Bombay as
 the citizens of British India, in just 30 years, from 1880 to 1910.
 Ninety-two per cent among them were from the Old Conquests.
 Obviously, the majority of them were Christians. Besides
@@ -205,7 +205,7 @@ researchers from Portugal and the Netherlands: Paulo Teodoro de Matos
 of the Instituto Universitário de Lisboa in Lisboa and Jan Lucassen of
 the International Institute of Social History in Amsterdam. Of the
 total number of 37,345 passports granted between 1847 and 1855 by
-Estado da India from Goa, they selected 2,042 passports, corresponding
+*Estado da India* from Goa, they selected 2,042 passports, corresponding
 to a sample of 5.5% (constant for each year).
 
 They found that almost all the applicants (96%) went to Bombay. Most
@@ -217,8 +217,7 @@ seven per cent of Hindus migrated from the Old Conquests.
 
 [^5]: De Souza Teotonio: The Portuguese in Goa
 
-Passengers’ Religion Taluka-Wise (5% Sample)
-1847-1855
+PASSENGERS' RELIGION TALUKA-WISE 1847-1855 (5% SAMPLE)
 
 | RELIGION   | BARDEZ | TISWADI | SALCETE | OLD CONQUEST | NEW CONQUEST | TOTAL |
 |------------|--------|---------|---------|--------------|--------------|-------|
@@ -256,7 +255,7 @@ left the state for good every year.
 > white-collar jobs or worked as musicians. Some proceeded to Bombay
 > for further studies in medicine and other fields.”*[^6]
 
-Emigration Of Goans To British India: 1880-1910
+EMIGRATION OF GOANS TO BRITIST INDIA: 1880-1910
 
 | YEAR  | TISWADI | SALCETE | BARDEZ | OLD CONQUESTS | NEW CONQUESTS | TOTAL  |
 |-------|---------|---------|--------|---------------|---------------|--------|
@@ -374,10 +373,10 @@ migrants. But when the migration of Goans abroad is studied from a
 socio-cultural viewpoint, their tales sound similar to what we witness
 among the migrants in Goa today.
 
-##### EAST AFRICA
+### EAST AFRICA
 
 The Industrial Revolution in Europe and the USA had a direct
-repercussion on Estado da India in terms of new opportunities for
+repercussion on *Estado da India* in terms of new opportunities for
 employment, including self-employment.  The destination was British
 colonies in East Africa. The first Goan ‘pioneers’ migrated in 1895 to
 Zanzibar, an island in Tanzania, to work in the administrative units
@@ -398,9 +397,9 @@ expertise. This included hotels, restaurants, bars, bakeries, photo
 studios, tailoring shops, teaching, healthcare, law firms, etc. The
 following table is a census conducted in these countries, where Goans
 were listed separately and not with other Indians since they came from
-the Portuguese Estado da India.
+the Portuguese *Estado da India*.
 
-Goans In East Africa (1911-1948)
+GOANS IN EAST AFRICA (1911-1948)
 
 | Year  | KENYA | UGANDA | ZANZIBAR | TANGANYIKA | TOTAL |
 |-------|-------|--------|----------|------------|-------|
@@ -475,7 +474,7 @@ Uganda.[^10]
 
 [^10]: Goa Migration Study 2008
 
-##### USA
+### USA
 
 Goan settlers began arriving in the US from East Africa around 80
 years ago. In 1990, the US had 5000 Goan families, mostly Goan
@@ -484,7 +483,7 @@ migration of Goan Hindus to the US, mainly as IT professionals. Till
 January 2020, 12.80 lakh Indians are recorded to be living in the US,
 which, of course, includes Goans.[^12]
 
-##### PORTUGAL 
+### PORTUGAL 
 
 Despite Goa being a colony of Portugal for over four centuries, the
 number of Goans settled in Portugal is less compared to other European
@@ -600,7 +599,7 @@ politics stooping to regional and ethnic fanaticism while our bright
 Goans with a worldwide vision shine in different parts of the world?
 Goa’s ‘broadminded’ politics needs introspection indeed!
 
-##### GULF 
+### GULF 
 
 The oil boom in the Gulf region of Middle East in the 1960s and 1970s
 lasted till early 1990s. Thousands of Goans, from the Old and New
@@ -722,7 +721,7 @@ per cent. Despite this, the urban population has grown by 133 per
 cent. Obviously, this is not just due to Goan villagers rushing to the
 cities but due to a huge influx of migrants.
 
-Decadal Growth In Rural-Urban Population: 1960-2011
+DECADAL GROWTH IN RURAL-URBAN POPULATION: 1960-2011
 
 | YEAR | TOTAL   | RURAL POPULATION |        | URBAN POPULATION |        |
 |------|---------|------------------|--------|------------------|--------|
@@ -794,7 +793,7 @@ been living here for the last 50 years. A large chunk of them also
 speak fluent Konkani. This assumption is proved by yet another
 Census finding, based on their mother tongue.
 
-Migrants In Goa From States In India: Census
+MIGRANTS IN GOA FROM STATES IN INDIA: CENSUS 
 
 | STATE       | 1961 | 1971  | 1981   |
 |-------------|------|-------|--------|
@@ -933,7 +932,7 @@ Goans to register their mother tongue as Marathi. In response, the
 number of Goans calling themselves ‘Marathi’ went on rising till the
 historic official language agitation of 1986.
 
-Konkani & Marathi Of Goa & Maharashtra
+KONKANI & MARATHI OF GOA & MAHARASHTRA 
 
 | LANGUAGE       | 1961   | 1971   | 1981   | 1991   | 2001   | 2011   |
 |----------------|--------|--------|--------|--------|--------|--------|

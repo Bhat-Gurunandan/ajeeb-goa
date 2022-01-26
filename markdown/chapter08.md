@@ -3,7 +3,7 @@ title: Praja Becomes the Raja
 ---
 
 ### Chapter 8
-# *Praja* Becomes The *Raja*
+# *PRAJA* BECOMES THE *RAJA*
 
 The election process in Goa did not begin with its annexation to the
 Indian Republic in 1961, but rather with the end of monarchy in

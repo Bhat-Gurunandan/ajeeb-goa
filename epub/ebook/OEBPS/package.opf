@@ -11,72 +11,95 @@
     <dc:identifier id="pub-id">9781541762879</dc:identifier>
     <meta property="dcterms:modified">2022-01-01T01:01:01Z</meta>
     <dc:language>en</dc:language>
-    <meta content="cover-image" name="cover"/>
+    <meta content="cover-image" name="cover" />
     <description xmlns="http://purl.org/dc/elements/1.1/">&lt;b&gt;Description required here...</description>
   </metadata>
   <manifest>
-    <item href="fonts/cmunrm.ttf" id="cmunrmttf" media-type="font/ttf"/>
-    <item href="fonts/cmunss.ttf" id="cmunssttf" media-type="font/ttf"/>
-    <item href="fonts/cmunsx.ttf" id="cmunsxttf" media-type="font/ttf"/>
-    <item href="fonts/cmunti.ttf" id="cmuntittf" media-type="font/ttf"/>
-    <item href="fonts/cmunrm-webfont.woff" id="cmunrmwebfont" media-type="font/woff"/>
-    <item href="css/reset.css" id="resetcss" media-type="text/css"/>
-    <item href="css/stylesheet.css" id="stylesheetcss" media-type="text/css"/>
-    <item href="css/cover.css" id="covercss" media-type="text/css"/>
-    <item href="css/toc.css" id="toccss" media-type="text/css"/>
-    <item href="css/chapter.css" id="chaptercss" media-type="text/css"/>
-    <item href="css/dedication.css" id="dedicationcss" media-type="text/css"/>
-    <item href="css/info.css" id="infocss" media-type="text/css"/>
-    <item href="images/logo-goa-news.jpeg" id="publisher-logo" media-type="image/jpeg"/>
-    <item href="images/common.jpg" id="commonjpg" media-type="image/jpeg"/>
-    <item href="images/01_01_graph.png" id="graph_01_01" media-type="image/png"/>
-    <item href="images/amrut_kansar_profile.png" id="amrut_kansar_profile" media-type="image/png"/>
-    <item href="images/cover.png" id="coverpng" media-type="image/png"/>
-    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-    <item href="01cover.xhtml" id="cover" media-type="application/xhtml+xml"/>
-    <item href="02info.xhtml" id="info" media-type="application/xhtml+xml"/>
-    <item href="03dedication.xhtml" id="dedication" media-type="application/xhtml+xml"/>
-    <item href="toc.xhtml" id="toc" media-type="application/xhtml+xml"/>
-    <item href="04foreword.xhtml" id="foreword" media-type="application/xhtml+xml"/>
-    <item href="05perspective.xhtml" id="perspective" media-type="application/xhtml+xml"/>
-    <item href="chapter01.xhtml" id="chapter01" media-type="application/xhtml+xml"/>
-    <item href="chapter02.xhtml" id="chapter02" media-type="application/xhtml+xml"/>
-    <item href="chapter03.xhtml" id="chapter03" media-type="application/xhtml+xml"/>
-    <item href="chapter04.xhtml" id="chapter04" media-type="application/xhtml+xml"/>
-    <item href="chapter05.xhtml" id="chapter05" media-type="application/xhtml+xml"/>
-    <item href="chapter06.xhtml" id="chapter06" media-type="application/xhtml+xml"/>
-    <item href="chapter07.xhtml" id="chapter07" media-type="application/xhtml+xml"/>
-    <item href="chapter08.xhtml" id="chapter08" media-type="application/xhtml+xml"/>
-    <item href="chapter09.xhtml" id="chapter09" media-type="application/xhtml+xml"/>
-    <item href="chapter10.xhtml" id="chapter10" media-type="application/xhtml+xml"/>
-    <item href="chapter11.xhtml" id="chapter11" media-type="application/xhtml+xml"/>
-    <item href="chapter12.xhtml" id="chapter12" media-type="application/xhtml+xml"/>
-    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+    <item href="css/fonts/BowlbyOne-Regular.ttf" id="BowlbyOne-Regular-TTF" media-type="font/ttf" />
+    <item href="css/fonts/BowlbyOne-Regular.woff" id="BowlbyOne-Regular-WOFF" media-type="font/woff" />
+
+    <item href="css/fonts/Faustina-Regular.ttf" id="Faustina-Regular-TTF" media-type="font/ttf" />
+    <item href="css/fonts/Faustina-Regular.woff" id="Faustina-Regular-WOFF" media-type="font/woff" />
+
+    <item href="css/fonts/FiraSans-Regular.ttf" id="FiraSans-Regular-TTF" media-type="font/ttf" />
+    <item href="css/fonts/FiraSans-Regular.woff" id="FiraSans-Regular-WOFF" media-type="font/woff" />
+
+    <item href="css/fonts/cmunci.ttf" id="cmunci-TTF" media-type="font/ttf" />
+    <item href="css/fonts/cmunci.woff" id="cmunci-WOFF" media-type="font/woff" />
+    <item href="css/fonts/cmunci.otf" id="cmunci-OTF" media-type="font/otf" />
+
+    <item href="css/fonts/FiraSans-SemiBold.ttf" id="FiraSans-SemiBold-TTF" media-type="font/ttf" />
+    <item href="css/fonts/FiraSans-SemiBold.woff" id="FiraSans-SemiBold-WOFF" media-type="font/woff" />
+
+    <item href="css/fonts/Monda-Regular.ttf" id="Monda-Regular-TTF" media-type="font/ttf" />
+    <item href="css/fonts/Monda-Regular.woff" id="Monda-Regular-WOFF" media-type="font/woff" />
+
+    <item href="css/fonts/Playball-Regular.ttf" id="Playball-Regular-TTF" media-type="font/ttf" />
+    <item href="css/fonts/Playball-Regular.woff" id="Playball-Regular-WOFF" media-type="font/woff" />
+
+    <item href="css/fonts/SignikaNegative-Regular.ttf" id="SignikaNegative-Regular-TTF" media-type="font/ttf" />
+    <item href="css/fonts/SignikaNegative-Regular.woff" id="SignikaNegative-Regular-WOFF" media-type="font/woff" />
+
+    <item href="css/fonts/SignikaNegative-SemiBold.ttf" id="SignikaNegative-SemiBold-TTF" media-type="font/ttf" />
+    <item href="css/fonts/SignikaNegative-SemiBold.woff" id="SignikaNegative-SemiBold-WOFF" media-type="font/woff" />
+
+    <item href="css/stylesheet.css" id="stylesheetcss" media-type="text/css" />
+    <item href="css/fonts/fonts.css" id="fontscss" media-type="text/css" />
+    <item href="css/cover.css" id="covercss" media-type="text/css" />
+    <item href="css/toc.css" id="toccss" media-type="text/css" />
+    <item href="css/chapter.css" id="chaptercss" media-type="text/css" />
+    <item href="css/dedication.css" id="dedicationcss" media-type="text/css" />
+    <item href="css/info.css" id="infocss" media-type="text/css" />
+    <item href="images/logo-goa-news.jpeg" id="publisher-logo" media-type="image/jpeg" />
+    <item href="images/common.jpg" id="commonjpg" media-type="image/jpeg" />
+    <item href="images/01_01_graph.png" id="graph_01_01" media-type="image/png" />
+    <item href="images/amrut_kansar_profile.png" id="amrut_kansar_profile" media-type="image/png" />
+    <item href="images/cover.png" id="coverpng" media-type="image/png" />
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="01cover.xhtml" id="cover" media-type="application/xhtml+xml" />
+    <item href="02info.xhtml" id="info" media-type="application/xhtml+xml" />
+    <item href="03dedication.xhtml" id="dedication" media-type="application/xhtml+xml" />
+    <item href="toc.xhtml" id="toc" media-type="application/xhtml+xml" />
+    <item href="04foreword.xhtml" id="foreword" media-type="application/xhtml+xml" />
+    <item href="05perspective.xhtml" id="perspective" media-type="application/xhtml+xml" />
+    <item href="chapter01.xhtml" id="chapter01" media-type="application/xhtml+xml" />
+    <item href="chapter02.xhtml" id="chapter02" media-type="application/xhtml+xml" />
+    <item href="chapter03.xhtml" id="chapter03" media-type="application/xhtml+xml" />
+    <item href="chapter04.xhtml" id="chapter04" media-type="application/xhtml+xml" />
+    <item href="chapter05.xhtml" id="chapter05" media-type="application/xhtml+xml" />
+    <item href="chapter06.xhtml" id="chapter06" media-type="application/xhtml+xml" />
+    <item href="chapter07.xhtml" id="chapter07" media-type="application/xhtml+xml" />
+    <item href="chapter08.xhtml" id="chapter08" media-type="application/xhtml+xml" />
+    <item href="chapter09.xhtml" id="chapter09" media-type="application/xhtml+xml" />
+    <item href="chapter10.xhtml" id="chapter10" media-type="application/xhtml+xml" />
+    <item href="chapter11.xhtml" id="chapter11" media-type="application/xhtml+xml" />
+    <item href="chapter12.xhtml" id="chapter12" media-type="application/xhtml+xml" />
+    <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav" />
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
-    <itemref idref="cover" linear="yes"/>
-    <itemref idref="info" linear="yes"/>
-    <itemref idref="dedication" linear="yes"/>
-    <itemref idref="toc" linear="yes"/>
-    <itemref idref="foreword" linear="yes"/>
-    <itemref idref="perspective" linear="yes"/>
-    <itemref idref="chapter01" linear="yes"/>
-    <itemref idref="chapter02" linear="yes"/>
-    <itemref idref="chapter03" linear="yes"/>
-    <itemref idref="chapter04" linear="yes"/>
-    <itemref idref="chapter05" linear="yes"/>
-    <itemref idref="chapter06" linear="yes"/>
-    <itemref idref="chapter07" linear="yes"/>
-    <itemref idref="chapter08" linear="yes"/>
-    <itemref idref="chapter09" linear="yes"/>
-    <itemref idref="chapter10" linear="yes"/>
-    <itemref idref="chapter11" linear="yes"/>
-    <itemref idref="chapter12" linear="yes"/>
+    <itemref idref="cover" linear="yes" />
+    <itemref idref="info" linear="yes" />
+    <itemref idref="dedication" linear="yes" />
+    <itemref idref="toc" linear="yes" />
+    <itemref idref="foreword" linear="yes" />
+    <itemref idref="perspective" linear="yes" />
+    <itemref idref="chapter01" linear="yes" />
+    <itemref idref="chapter02" linear="yes" />
+    <itemref idref="chapter03" linear="yes" />
+    <itemref idref="chapter04" linear="yes" />
+    <itemref idref="chapter05" linear="yes" />
+    <itemref idref="chapter06" linear="yes" />
+    <itemref idref="chapter07" linear="yes" />
+    <itemref idref="chapter08" linear="yes" />
+    <itemref idref="chapter09" linear="yes" />
+    <itemref idref="chapter10" linear="yes" />
+    <itemref idref="chapter11" linear="yes" />
+    <itemref idref="chapter12" linear="yes" />
   </spine>
   <guide>
-    <reference href="02info.xhtml" title="Copyright Information" type="copyright"/>
-    <reference href="01cover.xhtml" title="Begin Reading" type="start"/>
-    <reference href="toc.xhtml" title="Table of Contents" type="toc"/>
-    <reference href="01cover.xhtml" title="Cover Image" type="cover"/>
+    <reference href="02info.xhtml" title="Copyright Information" type="copyright" />
+    <reference href="01cover.xhtml" title="Begin Reading" type="start" />
+    <reference href="toc.xhtml" title="Table of Contents" type="toc" />
+    <reference href="01cover.xhtml" title="Cover Image" type="cover" />
   </guide>
 </package>

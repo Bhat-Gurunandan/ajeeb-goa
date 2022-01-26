@@ -1,41 +1,12 @@
-@font-face {
-    font-family: "CMR Serif";
-    src: url(../fonts/cmunrm-webfont.woff);
-    font-style: normal;
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: "CMR";
-    src: url(../fonts/cmunss.ttf);
-    font-style: sans-serif;
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: "CMR";
-    src: url(../fonts/cmunti.ttf);
-    font-style: italic;
-    font-weight: normal;
-}
-
-@font-face {
-    font-family: "CMR";
-    src: url(../fonts/cmunsx.ttf);
-    font-style: sans-serif;
-    font-weight: bold;
-}
-
 body {
     background-color: #ffffff;
     line-height: 1.2em;
-    width: 100%;
     font-size: 18px;
     margin: 10px;
 }
 
 p {
-    font-family: "CMR Serif", serif;
+    font-family: "Faustina", serif;
     font-weight: normal;
     margin-bottom: 1em;
     text-indent: 30px;
@@ -47,7 +18,10 @@ p.right-quote {
 }
 
 em {
-    font-family: "CMR", italic;
+    font-family: "CMUI", serif;
+    font-style: italic;
+    line-height: 1em;
+    font-size: 1em;
 }
 
 sup, sub {
@@ -56,17 +30,19 @@ sup, sub {
   top: -0.4em;
 }
 
-ul {
-    font-family: "CMR Serif";
+ul li, ol li {
+    font-family: "CMUI";
     font-style: normal;
 }
 
 h1 {
-    font-family: "CMR", sans-serif;
-    font-weight: bold;
-    font-size: 2em;
-    text-align: center;
+    font-family: "BowlbyOne", sans-serif;
+    font-weight: normal;
+    font-size: 1.8em;
+    text-align: right;
     margin-bottom: 2em;
+    margin-top: 0px;
+    line-height: 1.4em;
 }
 
  h1 em {
@@ -74,35 +50,31 @@ h1 {
 }
 
 h2 {
-    font-family: "CMR", sans-serif;
-    font-weight: bold;
+    font-family: "SignikaNegativeSemiBold", sans-serif;
+    font-weight: normal;
     font-size: 1.4em;
     margin-top: 1.6em;
     margin-bottom: 1.3em;
 }
 
 h3 {
-    font-family: "CMR", sans-serif;
+    font-family: "SignikaNegative", sans-serif;
     font-weight: normal;
     font-size: 1.2em;
-    text-align: center;
-    padding-bottom: 1.8em;
-    background-image: url(../images/common.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
+    text-align: right;
 }
 
 h4 {
-    font-family: "CMR", sans-serif;
-    font-weight: bold;
+    font-family: "SignikaNegative", sans-serif;
+    font-weight: normal;
     font-size: 1em;
     text-align: center;
     margin-bottom: 1em;
 }
 
 h5 {
-    font-family: "CMR", sans-serif;
-    font-weight: bold;
+    font-family: "SignikaNegative", sans-serif;
+    font-weight: normal;
     font-size: 1em;
     margin-bottom: 1em;
 }
@@ -111,9 +83,13 @@ table {
     margin: 0 auto;
 }
 
+tr:nth-child(even) {background-color: #f2f2f2;}
+th {background-color: #4f4f4f; color: #f2f2f2;}
+
 th, td {
-    font-family: "CMR", sans-serif;
+    font-family: "Monda", sans-serif;
     padding: 5px 20px;
     border: 1px;
     text-align: left;
+    font-size: smaller;
 }

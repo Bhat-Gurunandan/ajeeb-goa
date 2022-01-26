@@ -1,10 +1,9 @@
 ---
 title: Begins the Bahujan Era
-style: chapter
 ---
 
 ### Chapter 11
-# Begins the Bahujan Era
+# BEGINS THE *BAHUJAN* ERA 
 
 12 December 1963. Bhausaheb Bandodkar was nowhere in the forefront
 while the MGP and UGP camps were rejoicing over their victories in
@@ -142,7 +141,7 @@ Mayekar resigned from the ministry. Bhau’s third ministry in 1972
 included Atchutrao Usgaonkar and Pratapsingh Rane as the cabinet
 ministers and Shashikala Kakodkar as the minister of state.
 
-[^6]:. The Navhind Times, 18 December 1963
+[^6]: The Navhind Times, 18 December 1963
 
 A little before his sudden demise in 1973, Bhau had finalised the plan
 to merge the MGP into Congress. Uma Shankar Dixit, the influential
@@ -308,7 +307,7 @@ Socialist leaders including S M Joshi and N G Goray came down heavily
 on the Congress, calling the party opportunistic and saying the Goa
 verdict was a lesson not to encourage factional elements like the
 UGP.[^8] Joining the chorus was the seniormost and most respectable
-Congress leader C Rajgopalachari. In the periodical ‘Swarajya’ he
+Congress leader C Rajgopalachari. In the periodical *Swarajya* he
 edited, Rajaji hit out at Pandit Nehru, alleging that he wanted to
 keep Goa as ‘streedhan’ for New Delhi. Rajaji wanted Pondicherry to
 merge with Madras and Goa with Maharashtra.[^9]
@@ -536,7 +535,7 @@ Dr Alvaro Loyola Furtado and Enio Pimenta were the members.
 The bill was finally passed after debating the revised draft based on
 the Select Committee report, for nine long days from 26 October to 10
 November. However, the bone of contention of the debate, right from
-the first day, remained the Khand (share of produce), which was fixed
+the first day, remained the *Khand* (share of produce), which was fixed
 at one-sixth uniformly to all kinds of lands − Ker, Khajan and
 Morod.[^22] It was made mandatory to the tenant to pay this share to the
 landlord. The cut-off date for being a tenant was 1

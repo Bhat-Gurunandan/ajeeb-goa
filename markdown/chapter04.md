@@ -1,10 +1,9 @@
 ---
 title: Gaunkar to Bhatkar
-style: chapter
 ---
 
 ### Chapter 4
-# *Gaunkar* to *Bhatkar*
+# *GAUNKAR* TO *BHATKAR*
 
 
 Who doesn’t like to live in Goa? Its pristine natural beauty from the
@@ -143,28 +142,10 @@ allowed to speak, raise objections, and debate on all the issues. A
 highly democratic system indeed![^6]
 
 [^4]: Kamat Dr Nandkumar: History of Khazan land management in Goa: Ecological, Economic and Political Perspective
-[^5]: गावकर देविदास; गोव्यातील आदिवासी रचना आणि जीवनशैली, पान 193
-[^6]: Gawas Vijay: Impact on tribal people after codification of Gaunkary system into Code of Communidades
+[^5]: गावकर देविदास; गोव्यातील आदि---
+title: The Gifts of Portuguese
+---
 
-The second stage of this democratic *Gaunkari* institution is
-*Barazan*. In Konkani it means twelve people. The heads of twelve maand,
-either Jalmi or *Gaunkar*, would sit in a specially demarcated circular
-space with 12 stone seats. It functioned like an appellate authority
-with judicial powers. The issues which could not be resolved at the
-*Ganvponn* were discussed at *Barazan*. The system, unfortunately, does
-not exist now. But the places with *Barazan* deities still exist in many
-tribal villages all across Goa.
-
-The institution did not stop at this. It had a much higher stage
-called *Varg*. The *Varg* met twice a year at a much larger open
-space. It was a large assembly of the *Barazan* as well as the Mandd
-members of all the 12 villages. The *Varg* took all the major
-decisions common for the 12 villages as well as to discuss and resolve
-the issues which could not be resolved either by the *Maand* or
-*Barazan*, in the presence of the whole gathering.  Hardly any place
-traditionally marked for the *Varg* exists today.  One of the last
-ones, existing at the Curca-Bambolim plateau adjacent to the military
-camp, has been destroyed due to new constructions.
 
 ## Revenue-Moulding of *Gaunkari*
 
@@ -214,10 +195,10 @@ instituted by the Portuguese, as well as the further erosion of the
 > *The fertile land was auctioned triennially. The villagers were
 > informed about it five nights in advance (‘panch rati’). The
 > Gaonkars gathered at the ‘Gaonponn’ to make land grants. In case a
-> Gaunkar wanted to sell his rights, the Gaonponn had the right of
+> *Gaunkar* wanted to sell his rights, the Gaonponn had the right of
 > preemption. If an outsider wanted to take a bid at the auction, he
-> had to find a Gaunkar who could stand as a security for him. If the
-> Gaunkar was unable to pay his taxes, his rights to the ‘zon’ were
+> had to find a *Gaunkar* who could stand as a security for him. If the
+> *Gaunkar* was unable to pay his taxes, his rights to the ‘zon’ were
 > auctioned during his lifetime.*”
 
 Meanwhile, various dynasties started ruling the Indian
@@ -304,7 +285,7 @@ their ownership of the land to the Portuguese crown.[^9]
 > and the agrarian surplus. They also introduced the concept of
 > semi-private property or individual property rights in land. In the
 > wake of evangelisation, the temples were destroyed and their lands
-> were taken away. Gaunkaria rights were forcibly taken away from
+> were taken away. *Gaunkaria* rights were forcibly taken away from
 > those villagers who resisted conversion. Religious persecution led
 > to large-scale migration of the agro-based communities. All these
 > lands were either gifted to the church (namoxim) or leased out to
@@ -321,13 +302,13 @@ their ownership of the land to the Portuguese crown.[^9]
 > (Neura o Grande, Ganssim, Ella, Azossim, Calapur, Morombim o Grande,
 > Carambolim and Batim). The land in the defaulting villages could be
 > leased out by auction during which period the Gaonkars lost their
-> Gaunkaria rights. The general meeting of the chiefs of the group of
+> *Gaunkaria* rights. The general meeting of the chiefs of the group of
 > villages was presided over by a ‘thanadar’ and a clerk who were
 > appointed by the Portuguese. They took the decisions and passed the
 > resolutions (‘nems’) aloud. The chief ‘thanadar’ could call a
 > meeting of all the representatives of the village to elect the
-> administrative body at the Gaunkaria.  When a member of the
-> Gaunkarias died without a male issue, got converted to Islam or
+> administrative body at the *Gaunkaria*.  When a member of the
+> *Gaunkarias* died without a male issue, got converted to Islam or
 > Hinduism or continued to profess ‘his’ religion, his share lapsed to
 > the king. These properties were then auctioned or gifted by the
 > crown.*”
@@ -439,7 +420,7 @@ This was the last nail in the coffin of the age-old *Gaunkari*
 institution, just before Goa was liberated, which completely destroyed
 the community spirit. No doubt the Code of Communidade streamlined its
 democratic functioning in letter, but sadly, not in spirit. By this
-time, Communidade itself had become a Bhatkar. On the other hand, the
+time, Communidade itself had become a *Bhatkar*. On the other hand, the
 influential and privileged landlords, most of whom were allies of the
 Portuguese, had become its **Gaunkars** (with few exceptions).  And, if
 required, the Government had all the powers to overrule any decision
@@ -493,7 +474,7 @@ talukas.[^14]
 [^13]: Raikar Avinash & D’Cruz Dr Sharon: Democratic Management of Common Property in Goa
 [^14]: Report of Communidade Commission 2015
 
-Existing Communidades In Talukas/Conquests
+EXISTING COMMUNIDADES IN TALUKAS/CONQUESTS 
 
 | TALUKAS/CONQUESTS | COMMUNIDADES |
 |-------------------|--------------|
@@ -535,7 +516,7 @@ table is an eye opener:
 [^15]: Indicators of Socio Economic Development - 2020: Directorate of
 Planning & Statistics, Govt of Goa
 
-Number Of Communidades During Pre & Post-Liberated Goa
+NO. OF COMMUNIDADES DURING PRE & POST-LIBERATED GOA 
 
 | CONQUEST      | 1750-1910 | 1961    | NON-EXISTENT |
 |---------------|-----------|---------|--------------|
@@ -577,7 +558,7 @@ that are merely interested in collecting the ‘foro’ (tribute) and
 distributing the surplus to Gaonkars in the form of ‘zono’
 (shares)... The rents that were hitherto collected by the Communidades
 are no longer claimed. The system of an annual, public auction of the
-plots owned by the Gaunkaria is abolished... The Gaonkars, who have
+plots owned by the *Gaunkaria* is abolished... The Gaonkars, who have
 immigrated, enjoy their ‘zons’ in absentia. They have acquired a
 ‘nouveau riche’ status, adopting a highly luxurious, leisure-oriented
 lifestyle. They invest in real estate, hospitality concerns and
@@ -618,7 +599,7 @@ the current Assembly is being wound up without discussing this most
 crucial report.
 
 [^17]: गोमंतक; संपादकीयः मगोचे यशस्वी अधिवेशन, 11 मार्च 1975
-[^18]: राधाकृष्ण वामन: मुक्ती नंतरचा गोवा
+[^18]: राधाकृष्ण वामन: मुक्तीनंतरचा गोवा
 
 No concrete steps were taken by any ruling party on the matter of the
 Communidades, though every Assembly session sees heated debates on the
@@ -789,7 +770,7 @@ observations to make in this regard:
 > Land.*”[^21]
 
 [^21]: Gawas Vijay: Impact on tribal people after codification of
-Gaunkary system into Code of Communidades
+*Gaunkary* system into Code of Communidades
 
 Vijay Gawas from Neura hails from the same tribal community, who lost
 their cultivated land to the Communidades.  It is worth investigating

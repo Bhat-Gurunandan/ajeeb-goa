@@ -3,4 +3,4 @@ title: "Ajeeb Goa Cover Page"
 style: "cover"
 ---
 
-![Cover Image](../images/cover.png)
+![Cover Image](images/cover.png)

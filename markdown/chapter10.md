@@ -1,10 +1,9 @@
 ---
 title: The Revolutionary Election
-style: chapter
 ---
 
 ### Chapter 10
-# The Revolutionary Election
+# THE REVOLUTIONARY ELECTION 
 
 Differences within the Congress started coming to the fore with the
 beginning of the election process and the releasing of the party
@@ -482,7 +481,7 @@ most of the people in the Old Conquests were fired up by the emotional
 speeches made, in Konkani, by the UGP leaders.
 
 But none of these meetings were getting the publicity they deserved in
-the mainstream media of Goa. The Navhind Times, whose owner Vaicuntrao
+the mainstream media of Goa. *The Navhind Times*, whose owner Vaicuntrao
 Dempo was the Congress candidate, had blacked out both the local
 parties. It was only about the Congress, Congress, and Congress,
 except for a few mentions of the MGP or the UGP when some political
@@ -503,8 +502,8 @@ Satoskar, the editor, was a strong proponent of the merger. But
 from Maharashtra addressed the public rallies. Some mentions in
 single-column one-paragraph news reports were sometimes found, about
 the public meetings held by the MGP. *Gomantak*, owned by another mine
-owner, Chowgule, appears to have had a policy similar to The Navhind
-Times: Congress, Congress, and more Congress!
+owner, Chowgule, appears to have had a policy similar to *The Navhind
+Times*: Congress, Congress, and more Congress!
 
 The mining lobby of Goa also made attempts to create hurdles in the
 MGP campaign. Bandodkar was extracting the ore and supplying it to the
@@ -679,7 +678,7 @@ asked the audience:
 > *“Whose advice are you going to take? Mr Yeshwantrao Chavan’s or Mr
 > Dayanand Bandodkar’s"?*
 
-The Navhind Times, who published this incident with this question
+*The Navhind Times*, who published this incident with this question
 itself as a headline, reported that the audience shouted: “*Of course,
 Mr Chavan!*”
 

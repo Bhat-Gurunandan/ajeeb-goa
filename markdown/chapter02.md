@@ -4,8 +4,7 @@ style: chapter
 ---
 
 ### Chapter 2
-![](../images/common.jpg)
-# National ‘Mines’ and Regional ‘Rejects’
+# NATIONAL 'MINES' AND REGIONAL 'REJECTS'
 
 Before getting into the history of Goan polity, let us learn a bit
 more about the presence of national and regional parties in Goa. In
@@ -34,8 +33,8 @@ Bandodkar was all praise for Nehru while refuting the Prime Minister’s
 allegation that the election had been fought on religious lines.[^2] He
 blamed the local leadership of the Congress for their debacle.
 
-[^1]: गोमंतक; हा कौल जनतेचा आहे, 13 डि सेंबर 1963
-[^2]: गोमंतक; श्री दयानंद बांदोडकर यांचे पं नेहरूं ना उत्तर, 17 डि सेंबर 1963
+[^1]: गोमंतक; हा कौल जनतेचा आहे, 13 डिसेंबर 1963
+[^2]: गोमंतक; श्री दयानंद बांदोडकर यांचे पं नेहरूंना उत्तर, 17 डिसेंबर 1963
 
 While contesting the second Assembly election soon after the Opinion
 Poll, Bhau refused to continue the MGP’s alliance with the PSP. “The
@@ -48,8 +47,10 @@ polled hardly five per cent votes, 3033 to be precise. Seven of them
 lost their deposits.  Even the sitting MLAs like Jaisingrao Rane (6%)
 and Gajanan Raikar (2%) could not make any impact.[^4]
 
-[^3]: राधाकृष्ण वामन; मुक्ति नंतरचा गोवा, पान 46
+[^3]: राधाकृष्ण वामन; मुक्तीनंतरचा गोवा, पान 46
 [^4]: Election Commission of India
+
+
 
 ## The Gold Mine of Congress
 
@@ -205,7 +206,7 @@ Kakodkar quitting the Congress and staging a homecoming to the MGP on
 Bhausaheb Bandodkar Gomantak Party (BBGP). Her fate too was no
 different from the Goa Congress.[^9]
 
-[^9]: बेळेकर सुहास; गोव्या तील नि वडणुका, विधानसभा व लोकसभा 1963 ते 2014
+[^9]: बेळेकर सुहास; गोव्यातील निवडणुका, विधानसभा व लोकसभा 1963 ते 2014
 
 The Congress once again swept the 1984 election by winning 18 out of
 30 seats and gaining 1.60 lakh votes out of 1.71 lakhs polled by five
@@ -281,7 +282,7 @@ Still, in the surprise poll of 2017, Congress once again rose from
 nine to 17 seats, pushing the BJP from 21 down to a mere 13, in a hung
 Assembly including three each of the MGP, Goa Forward Party, and
 independents. Churchill Alemao was the sole NCP man elected. Parrikar
-was surely stunned by this Ajeeb behaviour of the Goan voter.
+was surely stunned by this *Ajeeb* behaviour of the Goan voter.
 
 Sitting in a dejected mood with his journalist friend, Parrikar said:
 “There is no other option other than sitting in the opposition now.”
@@ -403,7 +404,7 @@ the Internal Threat’, the book states:
 > and will have to be treated as such.”*[^13]
 
 [^12]: Bhagwat Dr Mohan; Future Bharat- An RSS Perspective, P 87-89
-[^13]: गोळवलकर मा स; विचारधन (पाचवी आवृत्तीः डि सेंबर 2001), पान 177
+[^13]: गोळवलकर मा स; विचारधन (पाचवी आवृत्तीः डिसेंबर 2001), पान 177
 
 Did the BJP manage to come to power by remaining hostile towards the
 Christians in a Hindu-majority Goa?
@@ -601,7 +602,7 @@ government. While the newly sworn in Congress government led by
 Pratapsingh Rane was in trouble due to disqualifications and other
 vexing issues, the three-time BJP MLA Digambar Kamat came to his
 rescue. Claiming that he had been suffocating in the Hindutva party
-all those years, he quit the BJP. It is known as the Ghusmat episode
+all those years, he quit the BJP. It is known as the *Ghusmat* episode
 in the history of Goan politics!
 
 This was the time when China had emerged as the major client for Goan
@@ -765,7 +766,7 @@ Christians. The enemies described in the ‘Bunch of Thoughts’ have
 become friends of the Hindutva party and the friends like the RSS
 rebels have become the arch enemies of the BJP.
 
-These are the dynamics of the Ajeeb politics of Goa!!!
+These are the dynamics of the *Ajeeb* politics of Goa!!!
 
 ## The Regional ‘Rejects’
 
@@ -808,7 +809,7 @@ sort except greed for power.
 Nationally, Goa has been at the forefront, fighting issues of regional
 identity and protecting its ecology for the last 50 years. It began
 with pollution at Zuari Agro Industries and protecting interests of
-traditional workmen like Render (toddy tappers) and Ramponkar
+traditional workmen like *Render* (toddy tappers) and *Ramponkar*
 (traditional fishermen) in the 70s, a militant students’ movement and
 violent Konkani movement in the 80s, opposing allegedly polluting
 projects like Nylon 6,6, alignment of Konkan railway, and destruction
@@ -880,7 +881,7 @@ only 16 seats out of 131 seats they contested in 17 different
 elections in nearly three decades. That’s pathetic.
 
 **GLP**: Gomant Lok Pokx was one regional party that had evolved through
-people’s struggles like Render (toddy tappers), Ramponkar (traditional
+people’s struggles like *Render* (toddy tappers), *Ramponkar* (traditional
 fishermen), factory and mining workers, motorcycle pilots etc. It was
 demanding the continued implementation of the Tenancy Act. It was also
 espousing the cause of ‘Sons of the Soil’, which had migrants as its
@@ -1002,8 +1003,8 @@ Viegas.
 
 **GOA FORWARD**: On the eve of the Assembly election 2017 and on the eve
 of India’s Republic Day, on 25 January 2016, a new regional party came
-into being: the Goa Forward Party. The core slogan was Goem, Goenkar,
-Goenkarponn (Goa, Goan, Goan Ethos). It was floated by Vijai Sardesai,
+into being: the Goa Forward Party. The core slogan was *Goem, Goenkar,
+Goenkarponn* (Goa, Goan, Goan Ethos). It was floated by Vijai Sardesai,
 an independent MLA from Fatorda who was denied Congress ticket in
 2012. He mobilised the best political brains of South Goa, made
 eminent educationist and political analyst Prabhakar Timble the
@@ -1034,8 +1035,8 @@ merging the GFP into the TMC and began fresh talks with the
 Congress. Meantime party MLA Jayesh Salgaokar resigned and joined the
 BJP, while the working president Kiran Khandolkar, a former BJP MLA,
 crossed over to the TMC. However, in the bargain, the five-year old
-regional outfit has faded out its shining colours of Goem, Goenkar,
-Goenkarponn. The party supposedly of regional aspirations has proved
+regional outfit has faded out its shining colours of *Goem, Goenkar,
+Goenkarponn*. The party supposedly of regional aspirations has proved
 to be yet another ‘negotiator party’ of personal aspirations!
 
 **REVOLUTIONARY GOANS**: Calling itself Uzzo (Fire), a section of youth of
@@ -1086,10 +1087,10 @@ encouraged Goan youth to take up different opportunities being made
 available due to the changing socioeconomic conditions of Goa.
 
 These two chapters have tried to highlight the unique aspects of Goan
-politics from 1963 till date, with the Ajeeb character of the Goan
+politics from 1963 till date, with the *Ajeeb* character of the Goan
 voter, the politician, as well as the Goan polity. The rest of the
 book will try to explore the root causes behind this kind of politics,
-which seems stranger or Ajeeb than the rest of India. With the BJP
+which seems stranger or *Ajeeb* than the rest of India. With the BJP
 government trying to enforce the Bhumiputra Adhikarini Bill and the
 brand new political outfit the Revolutionary Goans pursuing an ethnic
 movement for the “Sons of the Soil Only”, this book will also try and

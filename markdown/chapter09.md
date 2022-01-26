@@ -1,10 +1,9 @@
 ---
 title: Laying the Ground for a Revolution
-style: chapter
 ---
 
 ### Chapter 9
-# Laying the Ground for a Revolution
+# LAYING THE GROUND FOR A REVOLUTION
 
 The process towards establishing democracy in Goa began with the
 military administration being replaced by Lt Governor T Sivasankar on
@@ -94,8 +93,8 @@ organisation but also formed a committee, which met Prime Minister
 Jawaharlal Nehru in Delhi and requested him to maintain the separate
 identity of Goa by promoting Konkani as well as Marathi languages.[^6]
 
-[^5]: राधाकृष्ण वामन; महाराष्ट्रवादी गोमंतक पक्षः स्थापना आणि वाटचाल पान 18
-[^6]: राधाकृष्ण वामन; मुक्तीनंतरचा गोवा पान 11
+[^5]: राधाकृष्ण वामन; महाराष्ट्रवादी गोमंतक पक्षः स्थापना आणि वाटचाल, पान 18
+[^6]: राधाकृष्ण वामन; मुक्तीनंतरचा गोवा, पान 11
 
 According to Purushottam Kakodkar, who later led the Congress for over
 a decade, he had decided to withdraw from politics as he felt
@@ -118,7 +117,7 @@ Ram Hegde, Prof Laxmikant Bhembre, Anthony D’Souza, N B Rao, Alvaro
 Pereira, Dr Laura D’Souza and Mitra Madhav Bir.[^8]
 
 [^7]: नागवेंकार डॉ हरिश्चंद्र ; पुरुषोत्तम काकोडकार, जिवीत आनी कार्य, पान 72
-[^8]: राधाकृष्ण वामन; मुक्तीनंतरचा गोवा पान 17
+[^8]: राधाकृष्ण वामन; मुक्तीनंतरचा गोवा, पान 17
 
 These are the founders of the Congress party in Goa.  It was a group
 of freedom fighters who had their differences of opinion on merging
@@ -129,7 +128,7 @@ opinions.
 
 They immediately formed an Agriculture Cell headed by Madhav Bir and
 Adv Mulgaonkar with the intention of taking ahead the cause of
-exploited peasants who were the tenants of Bhatkars and Communidades,
+exploited peasants who were the tenants of *Bhatkars* and Communidades,
 as well as the issues of Kumeri cultivators etc. On the other hand,
 the Azad Gomantak Dal had been converted into the Goa Democratic Party
 and had organised a Shetkari Parishad in August 1962. Later on, the
@@ -205,8 +204,8 @@ mindset of the common Goenkar at this juncture:
 > the community which had reached far ahead of him. To quite an extent,
 > it was true. The high class people enjoyed all the privileges under
 > the Portuguese regime…  There were three sections of Goan society that
-> were exploiting the Bahujan Samaj. The Bhatkar (landlords), the Savkar
-> (moneylender) and the Empregado (bureaucrat). Sometimes all these
+> were exploiting the Bahujan Samaj. The 'Bhatkar' (landlords), the 'Savkar'
+> (moneylender) and the 'Empregado' (bureaucrat). Sometimes all these
 > three sections were found together in one family. There were also some
 > educated people from the Bahujan Samaj who were into money lending or
 > working as Empregado. These egoistic people were considering
@@ -215,7 +214,7 @@ mindset of the common Goenkar at this juncture:
 > was scared that the same people would continue exploiting them using
 > their power of education and influence.”*[^10]
 
-[^10]: राधाकृष्ण वामन; महाराष्ट्रवादी गोमंतक पक्षः स्थापना आणि वाटचाल पान 13, 15
+[^10]: राधाकृष्ण वामन; महाराष्ट्रवादी गोमंतक पक्षः स्थापना आणि वाटचाल, पान 13, 15
 
 Amidst these developments, two more socio-cultural organisations were
 in search of a political solution. One was the Gomantak Maratha Samaj
@@ -259,7 +258,7 @@ invitation, asking in his witty style why they wanted to merge Goa
 into Maharashtra when “you have nothing to eat and I have nothing to
 drink”. (Maharashtra government had imposed prohibition on liquor
 consumption at that time). Interestingly, Pracharya Atre’s periodical
-Maratha played a major role later during Goa’s Opinion Poll and Atre
+*Maratha* played a major role later during Goa’s Opinion Poll and Atre
 himself addressed public meetings in Goa, supporting the merger.
 
 [^11]: Interview with Ramdas Prabhugaonkar
@@ -345,8 +344,7 @@ the day the MGS was formed. Shinkre told him: “He carries lots of
 respect among the Bahujan Samaj.”[^15]
 
 [^13]: राधाकृष्ण वामन; महाराष्ट्रवादी गोमंतक पक्षः स्थापना आणि वाटचाल, पान 20
-[^14]: कारवारकर उर्फ मराठे नारायण आ; आमच्या समाजाचे स्फूर्तीस्थान (आमचे भाऊ,
-ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती गौरव ग्रंथ) पान 204
+[^14]: कारवारकर उर्फ मराठे नारायण आ; आमच्या समाजाचे स्फूर्तीस्थान (आमचे भाऊ, ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती गौरव ग्रंथ), पान 204
 [^15] राधाकृष्ण वामन; महाराष्ट्रवादी गोमंतक पक्षः स्थापना आणि वाटचाल, पान 20
 
 People knew Bandodkar in those days as a young businessman and mine
@@ -373,7 +371,7 @@ Bhausaheb on the occasion of his 60th birthday:
 
 B D Satoskar, the first editor of *Gomantak*, says that Bhau gave credit
 to Lokmanya Tilak for his mission of Charity.[^17] Sitaram Tengse, yet
-another senior journalist and former Editor of Rashtramat, says that
+another senior journalist and former Editor of *Rashtramat*, says that
 many politicians in those days were inspired by Royist theory of
 Humanism, including Maharashtra’s first chief minister Y B Chavan, D B
 Karnik and especially veteran freedom fighter Com Shamrao Madkaikar in
@@ -388,11 +386,10 @@ concept of ‘Bahujan’ had evolved through these influences which Chavan
 had implemented in Maharashtra and Bhau wanted it to be extended to
 Goa, by merging it into Maharashtra.
 
-[^16]: जोशी लक्ष्मणशास्त्री; अनेक तेजस्वी पैलू असलेले व्यक्तिमत्व (आमचे भाऊ, ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती
-गौरव ग्रंथ) पान 29-30
-[^17]: सातोस्कर बा. द.; समाजसेवक बांदोडकर (आमचे भाऊ, ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती गौरव ग्रंथ) पान 91)
-[^18]: टेंगसे सीताराम; एक असामान्य लोकनेता (भाऊसाहेब गौरव ग्रंथ 2011) पान 23-24
-[^19]: कांसार अमृत; अभिवादन समाजपुरुषाला (भाऊसाहेब गौरव ग्रंथ 2011) पान 14
+[^16]: जोशी लक्ष्मणशास्त्री; अनेक तेजस्वी पैलू असलेले व्यक्तिमत्व (आमचे भाऊ, ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती गौरव ग्रंथ), पान 29-30
+[^17]: सातोस्कर बा. द.; समाजसेवक बांदोडकर (आमचे भाऊ, ना. भाऊसाहेब बांदोडकर षष्ठ्यद्विपूर्ती गौरव ग्रंथ), पान 91)
+[^18]: टेंगसे सीताराम; एक असामान्य लोकनेता (भाऊसाहेब गौरव ग्रंथ 2011), पान 23-24
+[^19]: कांसार अमृत; अभिवादन समाजपुरुषाला (भाऊसाहेब गौरव ग्रंथ 2011), पान 14
 
 This makes it crystal clear why Bhau opposed an anti-Brahmin party and
 refused to be part of any organisation that would divide the Goan
@@ -541,6 +538,8 @@ made either at the public rallies or the press conferences:
 > unity of design of it, and yet l maintain the beauty of individual
 > parts of it.”*
 
+
+
 ## The Media Blackout
 
 Nehru had tried to awaken the Goan masses, but perhaps the Goan media
@@ -592,7 +591,7 @@ ground in Panaji, attended by around 30,000 people, he said:
 [^24]: Selected Works of Jawaharlal Nehru; Series 2/Vol. 82/May 1963-July 1963 Pg 162
 
 Nehru was clear in his thoughts about abolishing the ‘outdated’ feudal
-system, which we called Bhatkarshai in Goa.  He was also blunt enough
+system, which we called *Bhatkarshai* in Goa.  He was also blunt enough
 to state that he could not help if it upset the existing system in
 Goa. The next day, at a much bigger rally of around 30,000 in Margao,
 he explained why abolishing the feudal system of Zamindari was the
@@ -772,7 +771,7 @@ Within three days, on 16 September the Sunday, the UGP had its first
 public meeting at Saligao in Bardez. It was attended by around 500
 people. Besides these five leaders, it was also addressed by Lima
 Leitao, the Vasco-based lady mine owner and landowner; Sadashiv Desai,
-a Bhatkar from Pernem as well as Jagdish Rao. Their prime attack was
+a *Bhatkar* from Pernem as well as Jagdish Rao. Their prime attack was
 on the Congress, blaming the party for Goans going through hardships
 since liberation due to restrictions imposed on mining, banning of the
 lottery, and curtailing imports. The speakers also cautioned the
@@ -785,7 +784,7 @@ on the UGP. Calling it a communal party, they alleged that the leaders
 had their selfish motives and had no interest in protecting the
 interest of their community.[^28] In its meetings, the Congress
 leaders also made fun of the Land to the Tiller demand made by the UGP
-leaders. Since most of their leaders were wealthy Bhatkars, the
+leaders. Since most of their leaders were wealthy *Bhatkars*, the
 Congress leaders publicly asked if they agreed with the demand and
 whether they would now personally hold the plough in their hands and
 get into the field physically.[^29]

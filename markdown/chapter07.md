@@ -1,10 +1,9 @@
 ---
 title: Old is Gold
-style: chapter
 ---
 
 ### Chapter 7
-# 'Old' is Gold
+# 'OLD' IS GOLD 
 
 
 The tiny state of Goa on the western coast of India is divided into
@@ -80,7 +79,7 @@ than half. And historically, we know that the Old Conquests were
 dominated by Christians, since no significant religious conversions
 took place in the New Conquests.
 
-**Constituencies In Old Conquests: Union Territory & State**
+CONSTITUENCIES IN OLD CONQUESTS: UNION TERRITORY & STATE 
 
 | TALUKAS  | UT | CONSTITUENCIES                                | STATE | CONSTITUENCIES                                                       |
 |----------|----|-----------------------------------------------|-------|----------------------------------------------------------------------|
@@ -265,7 +264,7 @@ outside Goa. Most of them are non- Christians. But this does not
 affect the Christian domination in their constituencies. The table is
 a testimony.
 
-**Rural Goa: 1961-2011 (%)**
+RURAL GOA:1961-2011 (%)
 
 |               | HINDU |      | CHRISTIAN |      | MUSLIM |      |
 |---------------|-------|------|-----------|------|--------|------|
@@ -357,7 +356,7 @@ provides a clear picture of how religion counts in Goan politics in
 terms of choosing popular candidates, but does not matter when it
 comes to voting.
 
-**Religions 2017: Old Conquests (%)**
+RELIGIONS 2017: OLD CONQUESTS (%)
 
 | NO | CONSTITUENCY  | HINDU | CHRISTIAN | MUSLIM |
 |----|---------------|-------|-----------|--------|

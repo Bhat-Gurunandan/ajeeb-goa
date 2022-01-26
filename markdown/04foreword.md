@@ -2,7 +2,7 @@
 title: Foreword
 style: chapter
 ---
-# Foreword
+# FOREWORD
 
 Whichever way one looks at ‘*Ajeeb* Goa’s *Gajab* Politics’ one comes to
 the conclusion that it is an interesting and delightful book. If you

@@ -6,8 +6,7 @@ style: chapter
 ### Chapter 1
 # AJEEB GOA
 
-*Ajeeb hai yeh Goa-ke log*  
-(Strange are the people of Goa).
+*Ajeeb hai yeh Goa-ke log*... (Strange are the people of Goa)...
 
 This quote is often attributed to the first Prime Minister of India,
 Pandit Jawaharlal Nehru. But it was not a statement he had made on any
@@ -60,8 +59,7 @@ attained independence. Yet, see what the majority of Goans stated when
 it came to spelling out their mother tongue at the Census conducted in
 1961:
 
-#### Mother Tongue: 1961 Census
-
+MOTHER TONGUE: 1961 CENSUS
 
 | Mother Tongue | Population | Per cent |
 |---------------|------------|----------|
@@ -158,11 +156,11 @@ to date, Congress has never been able to cross this polling
 figure. Except for once in 1999, it has not touched the magic figure
 of 21 in the 40-member House.
 
-![](../images/01_01_graph.png)
+![](images/01_01_graph.png)
 
-Source: Election Commission of India  
-1.   Goa Assembly had a total of 28 seats until 1984 and 40 seats from 1989 onwards.
-2.   1980 shows seats won by Cong (U). Cong (I) did not win a single seat
+*Source: Election Commission of India*  
+*1.   Goa Assembly had a total of 28 seats until 1984 and 40 seats from 1989 onwards.*
+*2.   1980 shows seats won by Cong (U). Cong (I) did not win a single seat*
 
 
 In 1963 the same voter had wiped out the Congress when it was ‘united
@@ -200,7 +198,7 @@ a lakh people greeted him all along the roads he travelled to Margao,
 Mapusa, Bicholim, Calangute, and Ponda. And each public rally drew
 crowds of not less than 20,000 to 30,000 enthusiastic Goans.
 
-[^1]: मयेकर डॉ� विनायक; गोमं तक, 23 मे 1963
+[^1]: मयेकर डॉ विनायक; गोमंतक, 23 मे 1963
 
 But when his party went for the first ever Assembly poll within seven
 months of his maiden visit, the Nehru-loving Goans made all his 28
@@ -237,7 +235,7 @@ national party lost their deposits.
 
 The *Ajeebi* of Goan voters does not end here.
 
-#### Congress In Kerala & Goa: 1957 To 1972
+CONGRESS IN KERALA & GOA: 1957 TO 1972
 
 | Elections    | Kerala    |     |        | Goa             |     |        |
 |--------------|-----------|-----|--------|-----------------|-----|--------|
@@ -290,7 +288,7 @@ de Sequeira joined the Janata Party before the elections. On the other
 hand, Revenue Minister Pratapsingh Rane had stepped down from the MGP
 cabinet, resigned from the party and joined the Congress.
 
-#### Lok Sabha 1977 Results: Goa
+LOK SABHA 1977 RESULTS: GOA 
 
 | PARTY | CANDIDATE            | VOTES % | CANDIDATE        | VOTES % |
 |-------|----------------------|---------|------------------|---------|
@@ -531,7 +529,7 @@ first defection in the history of Goa. During a vote of confidence in
 the Assembly, five UGP MLAs led by Orlando Sequeira supported the MGP
 government. Bhau won the vote by 17 to 14 votes[^8].
 
-[^8]: राधाकृष्ण वामन; मुक्ती नंतरचा गोवा, पान 53-65
+[^8]: राधाकृष्ण वामन; मुक्तीनंतरचा गोवा, पान 53-65
 
 This two-month long rebel saga was fully backed by Madhav Gadkari, the
 editor of the leading Marathi daily Gomantak. This newspaper’s
@@ -650,7 +648,7 @@ the BJP and Digambar Kamat of the Congress.  Goa’s Bahujan Samaj and
 even the Christian community rallied behind them without any
 hesitation and they ruled for many full terms.
 
-#### Chief Ministers By Popular Vote
+CHIFE MINISTERS BY POPULAR VOTE 
 
 | ELECTION | CHIEF MINISTER      | COMMUNITY            | PERCENT |
 |----------|---------------------|----------------------|---------|
@@ -668,7 +666,7 @@ hesitation and they ruled for many full terms.
 | 2012     | Manohar Parrikar    | Brahmin              | 2.5     |
 | 2017     | Manohar Parrikar    | Brahmin              | 2.5     |
 
-• Chief Ministers gaining office via defections are not included in the above list
+*Chief Ministers gaining office via defections are not included in the above list*
 
 Goa had only one Christian chief minister by popular vote. Luizinho
 Faleiro rose to that position when the Congress achieved the magic
