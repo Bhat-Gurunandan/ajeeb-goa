@@ -1,5 +1,6 @@
 ---
 title: The 'State' of Migrants
+style: chapter
 ---
 
 ### Chapter 6
@@ -186,9 +187,9 @@ Bombay, some of them also settled in Madras and Bengal.[^4]
 [^4]: Some Aspects of the Consumption History of Estado da India: 1900-50 by Remy Dias
 
 > *“Goa’s rural scene became increasingly more desolate.  When the
-> first Goan Provincial Congress met in 1951, one participant
+> first Goan Provincial Congress met in 1915, one participant
 > presented statistics of unemployment: 5000 jobless, 1500 beggars,
-> 1,50,000 idle bodies…the Second Provincial Congress in 1971 paid
+> 1,50,000 idle bodies…the Second Provincial Congress in 1917 paid
 > more attention to the problems of emigration; it concluded that the
 > horrendous exodus was a pathological phenomenon for which the
 > Portuguese colonial administration ought to accept

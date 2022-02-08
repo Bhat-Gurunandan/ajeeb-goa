@@ -1,5 +1,6 @@
 ---
 title: Gaunkar to Bhatkar
+style: chapter
 ---
 
 ### Chapter 4

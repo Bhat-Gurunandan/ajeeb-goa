@@ -323,6 +323,43 @@ defection episode in India’s political history!
 
 TOPPLINGS & CMS OF GOA: 1963 TO 2021
 
+| Poll Year | Chief Minister                      | Party Split | Party                 | From         | To           | Period                    |
+|-----------|-------------------------------------|-------------|-----------------------|--------------|--------------|---------------------------|
+| 1963      | Dayanand Bandodkar                  |             | MGP                   | Dec 20, 1963 | Dec 2, 1966  | 2 Years 11 Months 12 Days |
+| 1967      | **President's Rule (Opinion Poll)** |             |                       | Dec 2, 1966  | Apr 5, 1967  | 4 Months 3 Days           |
+| 1967      | Dayanand Bandodkar                  |             | MGP                   | Apr 5, 1967  | Mar 23, 1972 | 4 Years 11 Months 18 Days |
+| 1972      | Dayanand Bandodkar                  |             | MGP                   | Mar 23, 1972 | Aug 12, 1973 | 1 Years 4 Months 20 Days  |
+|           | Shashikala Kakodkar                 |             | MGP                   | Aug 12, 1973 | Jun 7, 1977  | 3 Years 9 Months 26 Days  |
+| 1977      | Shashikala Kakodkar                 |             | MGP                   | Jun 7, 1977  | Apr 27, 1979 | 1 Years 10 Months 20 Days |
+|           | President's Rule                    |             |                       | Apr 27, 1979 | Jan 16, 1980 | 8 Months 20 Days          |
+| 1980      | Pratapsingh Rane                    |             | Congress              | Jan 16, 1980 | Jan 7, 1985  | 4 Years 11 Months 22 Days |
+| 1984      | Pratapsingh Rane                    |             | Congress              | Jan 7, 1985  | Jan 9, 1990  | 5 Years 2 Days            |
+| 1989      | Pratapsingh Rane                    |             | Congress              | Jan 9, 1990  | Mar 27, 1990 | 2 Months 18 Days          |
+|           | Churchill Alemao                    | Congress    | Goan People's Party   | Mar 27, 1990 | Apr 14, 1990 | 18 Days                   |
+|           | Luis Proto Barbosa                  | Congress    | Goan People's Party   | Apr 14, 1990 | Dec 14, 1990 | 8 Months                  |
+|           | **President's Rule**                |             |                       | Dec 14, 1990 | Jan 25, 1991 | 1 Months 11 Days          |
+|           | Ravi Naik                           | MGP         | Congress              | Jan 25, 1991 | May 18, 1993 | 2 Years 3 Months 23 Days  |
+|           | Wilfred de Souza                    |             | Congress              | May 18, 1993 | Apr 2, 1994  | 10 Months 15 Days         |
+|           | Ravi Naik                           | MGP         | Congress              | Apr 2, 1994  | May 18, 1994 | 1 Months 16 Days          |
+|           | Wilfred de Souza                    |             | Congress              | May 18, 1993 | Apr 2, 1994  | 10 Months 15 Days         |
+| 1994      | Pratapsingh Rane                    |             | Congress              | Apr 2, 1994  | Apr 8, 1994  | 6 Days                    |
+|           | Wilfred de Souza                    | Congress    | Goa Rajiv Congress    | Apr 8, 1994  | Dec 16, 1994 | 8 Months 8 Days           |
+|           | Luizinho Faleiro                    |             | Congress              | Dec 16, 1994 | Jul 29, 1998 | 3 Years 7 Months 13 Days  |
+|           | **President's Rule**                |             |                       | Jul 29, 1998 | Dec 26, 1998 | 4 Months 27 Days          |
+| 1999      | Luizinho Faleiro                    |             | Congress              | Dec 26, 1998 | Feb 10, 1999 | 1 Months 15 Days          |
+|           | Francisco Sardinha                  | Congress    | Goa People's Congress | Feb 10, 1999 | May 9, 1999  | 2 Months 29 Days          |
+|           | Manohar Parrikar                    |             | BJP                   | May 9, 1999  | Nov 24, 1999 | 6 Months 15 Days          |
+|           | Manohar Parrikar (Caretaker)        |             | Assembly Dissolved    | Nov 24, 1999 | Jun 3, 2002  | 2 Years 6 Months 10 Days  |
+| 2002      | Manohar Parrikar                    |             | BJP                   | Jun 3, 2002  | Feb 3, 2005  | 2 Years 8 Months          |
+|           | Pratapsingh Rane                    |             | Congress              | Feb 3, 2005  | Mar 4, 2005  | 1 Months 1 Days           |
+|           | **President's Rule**                |             |                       | Mar 4, 2005  | Jun 7, 2005  | 3 Months 3 Days           |
+|           | Pratapsingh Rane                    |             | Congress              | Jun 7, 2005  | May 8, 2007  | 1 Years 11 Months 1 Days  |
+| 2007      | Digambar Kamat                      |             | Congress              | May 8, 2007  | Mar 9, 2012  | 4 Years 10 Months 1 Days  |
+| 2012      | Manohar Parrikar                    |             | BJP                   | Mar 9, 2012  | Nov 8, 2014  | 2 Years 7 Months 30 Days  |
+|           | Laxmikant Parsekar                  |             | BJP                   | Nov 8, 2014  | Mar 14, 2017 | 2 Years 4 Months 6 Days   |
+| 2017      | Manohar Parrikar                    |             | BJP                   | Mar 14, 2017 | Mar 19, 2019 | 2 Years 5 Days            |
+|           | Pramod Sawant                       |             | BJP                   | Mar 19, 2019 | Present      |                           |
+
 As of the time this book was being penned, a total number of 15
 legislators from the Congress and the MGP have quit their parties in
 order to ‘strengthen’ the hands of Modi-ji. And still, the Congress

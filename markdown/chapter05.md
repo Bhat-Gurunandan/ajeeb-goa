@@ -1,5 +1,6 @@
 ---
 title: The Gifts of Portuguese
+style: chapter
 ---
 
 ### chapter 5
@@ -265,7 +266,7 @@ the Velhas Conquistas (Old Conquests). The rest of the eight talukas,
 which were called Nova Conquistas (New Conquests) came under the
 Portuguese empire in the second half of the 18th century: Ponda,
 Sanguem and Quepem in 1763, Canacona in 1764, Bicholim and Sattari in
-1781 and Pernem in 1788. Dharbandora taluka is now being carved out
+1781 and Pernem in 1788. Dharbandora taluka has been now carved out
 from Sanguem.[^9]
 
 The Old Conquests covered an area of only 755 square kilometres while

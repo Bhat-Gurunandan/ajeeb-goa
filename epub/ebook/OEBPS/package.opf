@@ -51,7 +51,6 @@
     <item href="css/dedication.css" id="dedicationcss" media-type="text/css" />
     <item href="css/info.css" id="infocss" media-type="text/css" />
     <item href="images/logo-goa-news.jpeg" id="publisher-logo" media-type="image/jpeg" />
-    <item href="images/common.jpg" id="commonjpg" media-type="image/jpeg" />
     <item href="images/01_01_graph.png" id="graph_01_01" media-type="image/png" />
     <item href="images/amrut_kansar_profile.png" id="amrut_kansar_profile" media-type="image/png" />
     <item href="images/cover.png" id="coverpng" media-type="image/png" />

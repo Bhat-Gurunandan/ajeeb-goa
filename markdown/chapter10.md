@@ -1,5 +1,6 @@
 ---
 title: The Revolutionary Election
+style: chapter
 ---
 
 ### Chapter 10

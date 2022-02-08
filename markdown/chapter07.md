@@ -1,5 +1,6 @@
 ---
 title: Old is Gold
+style: chapter
 ---
 
 ### Chapter 7
@@ -317,7 +318,7 @@ Cortalim is the only constituency in Mormugao which was dominated by
 Christians right from the beginning, having always had Christian
 MLAs. In spite of the influx of migrant outsiders and local Goans,
 other constituencies in and around the port town of Vasco were also
-held by Christian candidates several times. Momugao was in fact a
+held by Christian candidates several times. Mormugao was in fact a
 Hindu-majority constituency right from the beginning and yet held by
 Christian legislators.  Prominent among them are Urminda Lima Leitao
 (UGP) in 1963, John Manuel Vaz (Independent) in 1994, and his son Karl Vaz
@@ -329,7 +330,7 @@ eight constituencies. The whole picture of election results in Goa
 changes when counting begins in Salcete. During the Union Territory
 days when it had five constituencies, only Margao was consistently
 held by a Hindu, like Vasudev Sarmalkar and Anant alias Babu Naik till
-he was defeated by Adv Uday Behmbre in a historic election held
+he was defeated by Adv Uday Bhembre in a historic election held
 in 1984. All three of them were in total harmony with the
 Christians. The rest of the four constituencies till 1984 and seven
 seats till date have always been held by Christian MLAs.
