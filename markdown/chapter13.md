@@ -745,6 +745,7 @@ table is being compiled, based on the Assembly reply.
 TCPB MEETINGS DURING BABU KAVLEKAR TENURE
 
 | TCPB Meeting   | Applications | Area (sq. mt.) | Status               |
+|----------------|--------------|----------------|----------------------|
 | 11-10-2019     | 87           | 84481          | Provisional Approval |
 | 30-06-2021     | 32           | 1218860        | Provisional Approval |
 | TOTAL APPROVED | 119          | 1303341        |                      |
@@ -785,53 +786,26 @@ forest, land under irrigation command area, and even no development
 zone. The table is self-explanatory.
 
 ZONE CHANGE FROM REGIONAL PLAN 2021 APPLIED 
-2021 APPLIED BY LEADING POLITICIANS, EX-MLAS & MLAS
+2021 APPLIED BY LEADING POLITICIANS, EX-MLAS & MLAS FOR CONVERSION TO SETTLEMENT
 
-No Applicant Related MLA Party Constituency 
-1 Deepak Dhavlikar Deepak Dhavalikar MGP MLA (Ex) Priol 
-2 Rajendra V Deshprabhu Vasudev Deshprabhu MGP Candidate Pernem 
-3 Jit Arolkar Jit Arolkar MGP Candidate Mandrem 
-4 Harish N P Zantye Pravin Zantye BJP MLA Mayem 
-5 Alex Sequeira Aleixo Sequeira Congress MLA (Ex) Nuvem 
-6 Sandhya Naresh Sawal Naresh Sawal MGP MLA (Ex) Bicholim 
-7 Anil Hoble Anil Hoble BJP Candidate St Cruz 
-8 Pratapsingh Rane Pratapsingh Rane Congress MLA Poriem 
-9 Laxmikant Parsekar Laxmikant Parsekar BJP MLA Mandrem 
-10 Madkaikar Builder Pandurang Madkaikar BJP MLA Cumbarjua 
-11 Rajesh Khaunte Rohan Khaunte Ind MLA Porvorim 
-12 Naresh Sawal Naresh Sawal MGP MLA (Ex) Bicholim 
-13 Dhaku Madkaikar Pandurang Madkaikar Ind Candidate St Andre 
-14 Tonia Estates Alexio Sequeira Congress MLA (Ex) Nuvem 
-15 Madkaikar Builder Pandurang Madkaikar BJP MLA Cumbarjua 
-16 Megha M Azgaonkar Babu Azgaonkar BJP MLA Pernem 
-
-
-Area (Sq Mts) Places Existing Zone as per RPG21 Zone Change
-393100 Dharbandora Error marking eco-sensitive zone Settlement
-225000 Arambol Orchard, Within High Tide Line Settlement
-65302 Dhargalim, Torxem,
-Virnoda
-Orchard, Paddy Field, Cultivable
-land, Irrigation command area,
-Settlement
-26320 Sarvona, Bicholim Party paddy field Settlement
-18075 Nuvem, Salcete Orchard and Natural Cover Settlement
-13975 Latambarce, Bicholim Natural Cover Settlement
-11546 Morombi-o-Grande,
-Tiswadi
-Paddy Fields Settlement
-11465 Podocem, Sattari Partly natural cover with irrigation
-command area & canal abutting
-to the property
-Settlement
-10000 Arambol Orchard, Cultivable Land, Salt Pan Settlement
-9475 Old Goa, Tiswadi Orchard with Archaelogical Parks Settlement
-8445 Azossim, Tiswadi Partly Paddy Field & Khazan Settlement
-7219 Latambarce, Bicholim Partly Natural Cover Settlement
-2475 Candola, Ponda Party Natural Cover Settlement
-1575 Colva, Salcete Orchard Settlement
-1210 Gaundalim, Tiswadi VP2 Category settlement Settlement
-1000 Dhargalim, Pernem Orchard Settlement
+| No | Applicant             | Related MLA         | Party             | Area in Sq.Mts (Location)          | Original Status                                                                    |
+|----|-----------------------|---------------------|-------------------|------------------------------------|------------------------------------------------------------------------------------|
+| 1  | Deepak Dhavlikar      | Deepak Dhavalikar   | MGP MLA (Ex)      | 393100 (Dharbandora)               | Error marking eco-sensitive zone                                                   |
+| 2  | Rajendra V Deshprabhu | Vasudev Deshprabhu  | MGP Candidate     | 225000 (Arambol)                   | Orchard, Within High Tide Line                                                     |
+| 3  | Jit Arolkar           | Jit Arolkar         | MGP Candidate     | 65302 (Dhargalim, Torxem, Virnoda) | Orchard, Paddy Field, Cultivable land, Irrigation command area                     |
+| 4  | Harish Zantye         | Pravin Zantye       | BJP MLA           | 26320 (Sarvona, Bicholim)          | Partly paddy field                                                                 |
+| 5  | Alex Sequeira         | Aleixo Sequeira     | Congress MLA (Ex) | 18075 (Nuvem, Salcete)             | Orchard and Natural Cover                                                          |
+| 6  | Sandhya Naresh Sawal  | Naresh Sawal        | MGP MLA (Ex)      | 13975 (Latambarce, Bicholim)       | Natural Cover                                                                      |
+| 7  | Anil Hoble            | Anil Hoble          | BJP Candidate     | 11546 (Morombi-o-Grande, Tiswadi)  | Paddy Fields                                                                       |
+| 8  | Pratapsingh Rane      | Pratapsingh Rane    | Congress MLA      | 11465 (Podocem, Sattari)           | Partly natural cover with irrigation command area & canal abutting to the property |
+| 9  | Laxmikant Parsekar    | Laxmikant Parsekar  | BJP MLA           | 10000 (Arambol)                    | Orchard, Cultivable Land, Salt Pan                                                 |
+| 10 | Madkaikar Builder     | Pandurang Madkaikar | BJP MLA           | 9475 (Old Goa, Tiswadi)            | Orchard with Archaeological Parks                                                  |
+| 11 | Rajesh Khaunte        | Rohan Khaunte       | Ind MLA           | 8445 (Azossim, Tiswadi)            | Partly Paddy Field & Khazan                                                        |
+| 12 | Naresh Sawal          | Naresh Sawal        | MGP MLA (Ex)      | 7219 (Latambarce, Bicholim)        | Partly Natural Cover                                                               |
+| 13 | Dhaku Madkaikar       | Pandurang Madkaikar | Ind Candidate     | 2475 (Candola, Ponda)              | Partly Natural Cover                                                               |
+| 14 | Tonia Estates         | Alexio Sequeira     | Congress MLA (Ex) | 1575 (Colva, Salcete)              | Orchard                                                                            |
+| 15 | Madkaikar Builder     | Pandurang Madkaikar | BJP MLA           | 1210 (Gaundalim, Tiswadi)          | VP2 Category settlement                                                            |
+| 16 | Megha M Azgaonkar     | Babu Azgaonkar      | BJP MLA           | 1000 (Dhargalim, Pernem)           | Orchard                                                                            |
 
 Source: Assembly Questions and replies by Town & Country Planning Dept, Govt of Goa Three-Fourth Illegal Tourism
 
