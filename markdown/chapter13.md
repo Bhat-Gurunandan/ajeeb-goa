@@ -539,196 +539,30 @@ the Speaker.
 
 FAMILY RAJ POLITICS: SUCCESSES & FAILURES
 
-ELECTIONS NO MLAs/CANDIDATES RELATION PARTIES SEAT RESULT
-1967 1 Dayanand Bandodkar
-Shashikala Kakodkar
-Father
-Daughter
-MGP
-MGP
-Madkai
-Mandrem
-MLAs
-1972 1 Dayanand Bandodkar
-Shashikala Kakodkar
-Father
-Daughter
-MGP
-MGP
-Mandrem
-Bicholim
-MLAs
-2002 1 Churchill Alemao
-Joaquim Alemao
-Brother
-Brother
-Save Goa
-Congress
-Navelim
-Cuncolim
-MLAs
-2007 1 Sudin Dhavalikar
-Deepak Dhavalikar
-Brother
-Brother
-MGP
-MGP
-Madkai
-Priol
-MLAs
-2 Pratapsingh Rane
-Vishwajit Rane
-Father
-Son
-Congress
-Independent
-Poriem
-Valpoi
-MLAs
-3 Churchill Alemao
-Joaquim Alemao
-Brother
-Brother
-Congress
-Congress
-Benaulim
-Cuncolim
-Lost
-MLA
-4 Babush Monserrate
-Jennifer Monserrate
-Husband
-Wife
-UGDP
-UGDP
-Taleigao
-St Cruz
-MLA
-Lost
-2012 1 Pratapsingh Rane
-Vishwajit Rane
-Father
-Son
-Congress
-Congress
-Poriem
-Valpoi
-MLAs
-2 Sudin Dhavalikar
-Deepak Dhavalikar
-Brother
-Brother
-MGP
-MGP
-Madkai
-Priol
-MLAs
-3 Babush Monserrate
-Jennifer Monserrate
-Husband
-Wife
-Congress
-Congress
-St Cruz
-Taleigao
-MLAs
-4 Pandurang Madkaikar
-Dhaku Madkaikar
-Brother
-Brother
-Congress
-Congress
-Cumbarjua
-Priol
-MLA
-Lost
-5 Ravi Naik
-Ritesh Naik
-Father
-Son
-Congress
-Congress
-Ponda
-Madkai
-MLA
-Lost
-6 Churchill Alemao
-Valanka Alemao
-Father
-Daughter
-Congress
-Congress
-Navelim
-Benaulim
-Lost
-7 Joaquim Alemao
-Yuri Alemao
-Father
-Son
-Congress
-NCP
-Cuncolim
-Sanguem
-Lost
-2017 1 Pratapsingh Rane
-Vishwajit Rane
-Father
-Son
-Congress
-Congress
-Poriem
-Valpoi
-MLAs
-2 Babush Monserrate
-Jennifer Monserrate
-Husband
-Wife
-UGP
-Congress
-Panaji
-Taleigao
-Lost
-MLA
-3 Sudin Dhavalikar
-Deepak Dhavalikar
-Brother
-Brother
-MGP
-MGP
-Madkai
-Priol
-MLA
-Lost
-4 Pandurang Madkaikar
-Dhaku Madkaikar
-Brother
-Brother
-BJP
-Independent
-Cumbarjua
-St Andre
-MLA
-Lost
-5 Churchill Alemao
-Joaquim Alemao
-Brother
-Brother
-NCP
-Independent
-Benaulim
-Cuncolim
-MLA
-MLA
-6 Babu Kavlekar
-Savitri Kavlekar
-Husband
-Wife
-Congress
-Congress
-Quepem
-Sanguem
-MLA
-Lost
+| ELECTIONS | NO | CANDIDATES (RELATION, PARTY, SEAT)                         | CANDIDATES (RELATION, PARTY, SEAT)                        |
+|-----------|----|------------------------------------------------------------|-----------------------------------------------------------|
+| 1967      | 1  | **Dayanand Bandodkar** (Father, MGP, Madkai)               | **Shashikala Kakodkar** (Daughter, MGP, Mandrem)          |
+| 1972      | 1  | **Dayanand Bandodkar** (Father, MGP, Mandrem)              | **Shashikala Kakodkar** (Daughter, MGP, Bicholim)         |
+| 2002      | 1  | **Churchill Alemao** (Brother, Save Goa Congress, Navelim) | **Joaquim Alemao** (Brother, Save Goa Congress, Cuncolim) |
+| 2007      | 1  | **Sudin Dhavalikar** (Brother, MGP, Madkai)                | **Deepak Dhavalikar** (Brother, MGP, Priol)               |
+|           | 2  | **Pratapsingh Rane** (Father, Congress, Poriem)            | **Vishwajit Rane** (Son, Independent, Valpoi)             |
+|           | 3  | Churchill Alemao (Brother, Congress, Benaulim)             | **Joaquim Alemao** (Brother, Save Goa Congress, Cuncolim) |
+|           | 4  | **Babush Monserrate** (Husband, UGDP, Taleigaon)           | Jennifer Monserrate (Wife, UGDP, St. Cruz, Lost)          |
+| 2012      | 1  | **Pratapsingh Rane** (Father, Congress, Poriem)            | **Vishwajit Rane** (Son, Congress, Valpoi)                |
+|           | 2  | **Sudin Dhavalikar** (Brother, MGP, Madkai)                | **Deepak Dhavalikar** (Brother, MGP, Priol)               |
+|           | 3  | **Babush Monserrate** (Husband, Congress, St. Cruz)        | **Jennifer Monserrate** (Wife, Congress, Taleigaon)       |
+|           | 4  | **Pandurang Madkaikar** (Brother, Congress, Cumbarjua)     | Dhaku Madkaikar (Bother, Congress, Priol)                 |
+|           | 5  | **Ravi Naik** (Father, Congress, Ponda)                    | Ritesh Naik (Son, Congress, Madkai)                       |
+|           | 6  | Churchill Alemao (Father, Congress, Navelim)               | Valanka Alemao (Daughter, Congress, Benaulim)             |
+|           | 7  | Joaquim Alemao (Father, Congress, Cuncolim)                | Yuri Alemao (Son, NCP, Sanguem)                           |
+| 2017      | 1  | **Pratapsingh Rane** (Father, Congress, Poriem)            | **Vishwajit Rane** (Son, Independent, Valpoi)             |
+|           | 2  | Babush Monserrate (Husband, UGP, Panaji)                   | **Jennifer Monserrate** (Wife, Congress, Taleigaon)       |
+|           | 3  | **Sudin Dhavalikar** (Brother, MGP, Madkai)                | Deepak Dhavalikar (Brother, MGP, Priol)                   |
+|           | 4  | **Pandurang Madkaikar** (Brother, BJP, Cumbarjua)          | Dhaku Madkaikar (Brother, Independent, St. Andre)         |
+|           | 5  | **Churchill Alemao** (Brother, NCP, Benaulim)              | **Joaquim Alemao** (Brother, Independent, Cuncolim)       |
+|           | 6  | **Babu Kavlekar** (Husband, Congress, Quepem)              | Savitri Kavlekar (Wife, Congress, Sanguem)                |
+
+Elected candidates are shown in **bold**
 
 Similarly, the brother duo Churchill and Joaquim Alemao were holding
 the influential portfolios of PWD and Urban Development in the same
