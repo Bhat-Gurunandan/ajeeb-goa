@@ -539,28 +539,29 @@ the Speaker.
 
 FAMILY RAJ POLITICS: SUCCESSES & FAILURES
 
-| ELECTIONS | NO | CANDIDATES (RELATION, PARTY, SEAT)                         | CANDIDATES (RELATION, PARTY, SEAT)                        |
-|-----------|----|------------------------------------------------------------|-----------------------------------------------------------|
-| 1967      | 1  | **Dayanand Bandodkar** (Father, MGP, Madkai)               | **Shashikala Kakodkar** (Daughter, MGP, Mandrem)          |
-| 1972      | 1  | **Dayanand Bandodkar** (Father, MGP, Mandrem)              | **Shashikala Kakodkar** (Daughter, MGP, Bicholim)         |
-| 2002      | 1  | **Churchill Alemao** (Brother, Save Goa Congress, Navelim) | **Joaquim Alemao** (Brother, Save Goa Congress, Cuncolim) |
-| 2007      | 1  | **Sudin Dhavalikar** (Brother, MGP, Madkai)                | **Deepak Dhavalikar** (Brother, MGP, Priol)               |
-|           | 2  | **Pratapsingh Rane** (Father, Congress, Poriem)            | **Vishwajit Rane** (Son, Independent, Valpoi)             |
-|           | 3  | Churchill Alemao (Brother, Congress, Benaulim)             | **Joaquim Alemao** (Brother, Save Goa Congress, Cuncolim) |
-|           | 4  | **Babush Monserrate** (Husband, UGDP, Taleigaon)           | Jennifer Monserrate (Wife, UGDP, St. Cruz, Lost)          |
-| 2012      | 1  | **Pratapsingh Rane** (Father, Congress, Poriem)            | **Vishwajit Rane** (Son, Congress, Valpoi)                |
-|           | 2  | **Sudin Dhavalikar** (Brother, MGP, Madkai)                | **Deepak Dhavalikar** (Brother, MGP, Priol)               |
-|           | 3  | **Babush Monserrate** (Husband, Congress, St. Cruz)        | **Jennifer Monserrate** (Wife, Congress, Taleigaon)       |
-|           | 4  | **Pandurang Madkaikar** (Brother, Congress, Cumbarjua)     | Dhaku Madkaikar (Bother, Congress, Priol)                 |
-|           | 5  | **Ravi Naik** (Father, Congress, Ponda)                    | Ritesh Naik (Son, Congress, Madkai)                       |
-|           | 6  | Churchill Alemao (Father, Congress, Navelim)               | Valanka Alemao (Daughter, Congress, Benaulim)             |
-|           | 7  | Joaquim Alemao (Father, Congress, Cuncolim)                | Yuri Alemao (Son, NCP, Sanguem)                           |
-| 2017      | 1  | **Pratapsingh Rane** (Father, Congress, Poriem)            | **Vishwajit Rane** (Son, Independent, Valpoi)             |
-|           | 2  | Babush Monserrate (Husband, UGP, Panaji)                   | **Jennifer Monserrate** (Wife, Congress, Taleigaon)       |
-|           | 3  | **Sudin Dhavalikar** (Brother, MGP, Madkai)                | Deepak Dhavalikar (Brother, MGP, Priol)                   |
-|           | 4  | **Pandurang Madkaikar** (Brother, BJP, Cumbarjua)          | Dhaku Madkaikar (Brother, Independent, St. Andre)         |
-|           | 5  | **Churchill Alemao** (Brother, NCP, Benaulim)              | **Joaquim Alemao** (Brother, Independent, Cuncolim)       |
-|           | 6  | **Babu Kavlekar** (Husband, Congress, Quepem)              | Savitri Kavlekar (Wife, Congress, Sanguem)                |
+| ELECTIONS | NO | CANDIDATES (PARTY, SEAT)                          | CANDIDATES (RELATION, PARTY, SEAT)                        |
+|-----------|----|---------------------------------------------------|-----------------------------------------------------------|
+| 1967      | 1  | **Dayanand Bandodkar** (MGP, Madkai)              | **Shashikala Kakodkar** (Daughter, MGP, Mandrem)          |
+| 1972      | 1  | **Dayanand Bandodkar** (MGP, Mandrem)             | **Shashikala Kakodkar** (Daughter, MGP, Bicholim)         |
+| 2002      | 1  | **Churchill Alemao** (Save Goa Congress, Navelim) | **Joaquim Alemao** (Brother, Save Goa Congress, Cuncolim) |
+| 2007      | 1  | **Sudin Dhavalikar** (MGP, Madkai)                | **Deepak Dhavalikar** (Brother, MGP, Priol)               |
+|           | 2  | **Pratapsingh Rane** (Congress, Poriem)           | **Vishwajit Rane** (Son, Independent, Valpoi)             |
+|           | 3  | Churchill Alemao (Congress, Benaulim)             | **Joaquim Alemao** (Brother, Save Goa Congress, Cuncolim) |
+|           | 4  | **Babush Monserrate** (UGDP, Taleigaon)           | Jennifer Monserrate (Wife, UGDP, St. Cruz, Lost)          |
+| 2012      | 1  | **Pratapsingh Rane** (Congress, Poriem)           | **Vishwajit Rane** (Son, Congress, Valpoi)                |
+|           | 2  | **Sudin Dhavalikar** (MGP, Madkai)                | **Deepak Dhavalikar** (Brother, MGP, Priol)               |
+|           | 3  | **Babush Monserrate** (Congress, St. Cruz)        | **Jennifer Monserrate** (Wife, Congress, Taleigaon)       |
+|           | 4  | **Pandurang Madkaikar** (Congress, Cumbarjua)     | Dhaku Madkaikar (Bother, Congress, Priol)                 |
+|           | 5  | **Ravi Naik** (Congress, Ponda)                   | Ritesh Naik (Son, Congress, Madkai)                       |
+|           | 6  | Churchill Alemao (Congress, Navelim)              | Valanka Alemao (Daughter, Congress, Benaulim)             |
+|           | 7  | Joaquim Alemao (Congress, Cuncolim)               | Yuri Alemao (Son, NCP, Sanguem)                           |
+| 2017      | 1  | **Pratapsingh Rane** (Congress, Poriem)           | **Vishwajit Rane** (Son, Independent, Valpoi)             |
+|           | 2  | Babush Monserrate (UGP, Panaji)                   | **Jennifer Monserrate** (Wife, Congress, Taleigaon)       |
+|           | 3  | **Sudin Dhavalikar** (MGP, Madkai)                | Deepak Dhavalikar (Brother, MGP, Priol)                   |
+|           | 4  | **Pandurang Madkaikar** (BJP, Cumbarjua)          | Dhaku Madkaikar (Brother, Independent, St. Andre)         |
+|           | 5  | **Churchill Alemao** (NCP, Benaulim)              | **Joaquim Alemao** (Brother, Independent, Cuncolim)       |
+|           | 6  | **Babu Kavlekar** (Congress, Quepem)              | Savitri Kavlekar (Wife, Congress, Sanguem)                |
+
 
 Elected candidates are shown in **bold**
 
@@ -882,14 +883,16 @@ come up in violation of the CRZ guidelines all along the Goan coast as
 well as on the banks of six rivers of Goa.
 
 STRUCTURES VIOLATING CRZ ON THE COAST: 1991-2006
-TALUKA VILLAGES IN 1991 MORE TILL 2006 TOTAL ILLEGAL %
-Bardez 3 1802 1585 3387 35
-Salcete 9 333 802 1135 56
-Canacona 5 959 781 1740 18
-Pernem 4 621 764 1385 14
-Mormugao 8 1445 569 2014 21
-Quepem 2 91 60 151 2
-TOTAL 31 5251 4561 9812
+| TALUKA   | VILLAGES IN 1991 | MORE TILL 2006 | TOTAL | ILLEGAL | %  |
+|----------|------------------|----------------|-------|---------|----|
+| Bardez   | 3                | 1802           | 1585  | 3387    | 35 |
+| Salcete  | 9                | 333            | 802   | 1135    | 56 |
+| Canacona | 5                | 959            | 781   | 1740    | 18 |
+| Pernem   | 4                | 621            | 764   | 1385    | 14 |
+| Mormugao | 8                | 1445           | 569   | 2014    | 21 |
+| Quepem   | 2                | 91             | 60    | 151     | 2  |
+| TOTAL    | 31               | 5251           | 4561  | 9812    |    |
+
 Source: Remote Sensings Instruments, Hyderabad
 
 Analysis of the results of the first phase study in the CRZIII
@@ -930,14 +933,15 @@ violations were also found increasing even on the banks of six major
 rivers of Goa.
 
 STRUCTURES VIOLATING CRZ ON RIVER BANKS: 1991-2006
-RIVER VILLAGES IN 1991 IN 2006 TOTAL AVERAGE/VILLAGE
-Talpon 4 126 103 233 26
-Tiracol 10 242 190 442 19
-Mandovi 42 1795 786 2623 19
-Zuari 24 611 449 1084 19
-Sal 11 208 190 409 17
-Chapora 22 890 349 1261 16
-TOTAL 113 3872 2067 6052 18
+| RIVER   | VILLAGES | IN 1991 | IN 2006 | TOTAL | AVERAGE/VILLAGE |
+|---------|----------|---------|---------|-------|-----------------|
+| Tiracol | 10       | 242     | 190     | 442   | 19              |
+| Mandovi | 42       | 1795    | 786     | 2623  | 19              |
+| Zuari   | 24       | 611     | 449     | 1084  | 19              |
+| Sal     | 11       | 208     | 190     | 409   | 17              |
+| Chapora | 22       | 890     | 349     | 1261  | 16              |
+| TOTAL   | 113      | 3872    | 2067    | 6052  | 18              |
+
 Source: Remote Sensings Instruments, Hyderabad
 
 Analysis of second phase work showed that in the CRZ-I of Tiracol
@@ -1083,14 +1087,17 @@ estimated that 39,694 business tourists – formal or informal - are
 currently operating in the tourism sector in Goa.[^27]
 
 ILLEGAL TOURISM OF GOA: ACCOMMODATION
-HOTELS ETC LEGAL ILLEGAL TOTAL ILLEGAL %
-A Category Hotels 76 15 91 16
-B Category Hotels 252 101 353 29
-C Category Hotels 715 532 1247 43
-D Category Hotels 2784 4872 7656 64
-Villas 8 400 408 98
-Flats, Vacation Homes 0 6000 6000 100
-TOTAL 3835 11920 15755 76
+
+| HOTELS ETC            | LEGAL | ILLEGAL | TOTAL | ILLEGAL % |
+|-----------------------|-------|---------|-------|-----------|
+| A Category Hotels     | 76    | 15      | 91    | 16        |
+| B Category Hotels     | 252   | 101     | 353   | 29        |
+| C Category Hotels     | 715   | 532     | 1247  | 43        |
+| D Category Hotels     | 2784  | 4872    | 7656  | 64        |
+| Villas                | 8     | 400     | 408   | 98        |
+| Flats, Vacation Homes | 0     | 6000    | 6000  | 100       |
+| TOTAL                 | 3835  | 11920   | 15755 | 76        |
+
 Source: Survival & Revival of Goa’s Tourism Industry, A survey by GTDC, Govt of Goa
 
 The TTAG and Small Hoteliers’ Association were alleging that 60 per
@@ -1101,23 +1108,19 @@ Goa. Regarding the unregistered illegal units, it has suggested that a
 circular be issued by the Department of Tourism to register within 30
 days, failing which a penal action would be taken.
 
-The illegal tourism is a direct reply to the question of
-why so many hotels, resorts, villas, holiday homes, real estate
-projects and colonies are proposed to be set up by applying
-under 16b of the TCP Act in the no-development zones
-earmarked by the Regional Plan 2021. The GTDC report also
-proposes development of hinterland tourism while there are
-also hundreds of proposals for conversion of cultivable land
-into settlement zones. In fact these proposals also include some
-big private firms and companies listing out thousands of square
-metres of land for conversion. Though the GTDC report is one
-of the best documents ever produced on how to develop Goa’s
-tourism, it raises eyebrows regarding some proposals, on the
-lines of the controversial clause of 16B in the TCP Act. The
-GTDC report talks about land parcels:
-
-------------------------------------------
-------------------------------------------
+The illegal tourism is a direct reply to the question of why so many
+hotels, resorts, villas, holiday homes, real estate projects and
+colonies are proposed to be set up by applying under 16b of the TCP
+Act in the no-development zones earmarked by the Regional
+Plan 2021. The GTDC report also proposes development of hinterland
+tourism while there are also hundreds of proposals for conversion of
+cultivable land into settlement zones. In fact these proposals also
+include some big private firms and companies listing out thousands of
+square metres of land for conversion. Though the GTDC report is one of
+the best documents ever produced on how to develop Goa’s tourism, it
+raises eyebrows regarding some proposals, on the lines of the
+controversial clause of 16B in the TCP Act. The GTDC report talks
+about land parcels:
 
 Provision of land parcel for increased tenure: Getting
 land parcels for commercial development can be challenging
@@ -1147,6 +1150,10 @@ property tax, excise, trade licences, food safety etc. for
 • Provision of land with increased tenure for glamping /
 camping accommodations.
 • Relaxation in FAR
+
+
+
+
 MIND ‘OUR’ MINES
 The Second World War was a blessing in disguise for
 Portuguese Goa. Mining took off as an industry when Japan
