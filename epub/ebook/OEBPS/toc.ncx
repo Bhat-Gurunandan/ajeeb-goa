@@ -27,5 +27,7 @@
 <navPoint playOrder="16" id="chapter10"><navLabel><text>Chapter 10</text></navLabel><content src="chapter10.xhtml"/></navPoint>
 <navPoint playOrder="17" id="chapter11"><navLabel><text>Chapter 11</text></navLabel><content src="chapter11.xhtml"/></navPoint>
 <navPoint playOrder="18" id="chapter12"><navLabel><text>Chapter 12</text></navLabel><content src="chapter12.xhtml"/></navPoint>
+<navPoint playOrder="19" id="chapter13"><navLabel><text>Chapter 13</text></navLabel><content src="chapter13.xhtml"/></navPoint>
+<navPoint playOrder="20" id="bibliography"><navLabel><text>Bibliography</text></navLabel><content src="bibliography.xhtml"/></navPoint>
 </navMap>
 </ncx>

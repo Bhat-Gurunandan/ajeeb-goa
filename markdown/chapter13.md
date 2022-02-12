@@ -209,7 +209,7 @@ area under cultivation had reduced from 92,000 hectares in
 
 The 60 per cent workforce involved in agriculture in 1960 had declined
 to 16 per cent. The contribution of agriculture to the Gross State
-Domestic Product (GSDP) had dropped to just 10 per cent[^.8] In my own
+Domestic Product (GSDP) had dropped to just 10 per cent[^8] In my own
 village of Loliem-Pollem in Canacona on the Goa-Karnataka border,
 agriculture and allied activities had stopped completely, the lands
 had fallen fallow, cowsheds had turned into garages and only our old
@@ -746,14 +746,14 @@ table is being compiled, based on the Assembly reply.
 TCPB MEETINGS DURING BABU KAVLEKAR TENURE
 
 | TCPB Meeting   | Applications | Area (sq. mt.) | Status               |
-|----------------|--------------|----------------|----------------------|
-| 11-10-2019     | 87           | 84481          | Provisional Approval |
-| 30-06-2021     | 32           | 1218860        | Provisional Approval |
-| TOTAL APPROVED | 119          | 1303341        |                      |
-| 30-06-2021     | 71           | 503660         | Considered           |
-| 30-06-2021     | 9            | 184351         | Deferred             |
-| 03-02-2021     | 59           | 402557         | Processed            |
-| GRAND TOTAL    | 258          | 2393909        |                      |
+|----------------|-------------:|---------------:|----------------------|
+| 11-10-2019     |           87 |          84481 | Provisional Approval |
+| 30-06-2021     |           32 |        1218860 | Provisional Approval |
+| TOTAL APPROVED |          119 |        1303341 |                      |
+| 30-06-2021     |           71 |         503660 | Considered           |
+| 30-06-2021     |            9 |         184351 | Deferred             |
+| 03-02-2021     |           59 |         402557 | Processed            |
+| GRAND TOTAL    |          258 |        2393909 |                      |
 
 Source: Assembly Question: Vijai Sardesai on 19-10-21
 
@@ -789,24 +789,24 @@ zone. The table is self-explanatory.
 ZONE CHANGE FROM REGIONAL PLAN 2021 APPLIED 
 2021 APPLIED BY LEADING POLITICIANS, EX-MLAS & MLAS FOR CONVERSION TO SETTLEMENT
 
-| No | Applicant             | Related MLA         | Party             | Area in Sq.Mts (Location)          | Original Status                                                                    |
-|----|-----------------------|---------------------|-------------------|------------------------------------|------------------------------------------------------------------------------------|
-| 1  | Deepak Dhavlikar      | Deepak Dhavalikar   | MGP MLA (Ex)      | 393100 (Dharbandora)               | Error marking eco-sensitive zone                                                   |
-| 2  | Rajendra V Deshprabhu | Vasudev Deshprabhu  | MGP Candidate     | 225000 (Arambol)                   | Orchard, Within High Tide Line                                                     |
-| 3  | Jit Arolkar           | Jit Arolkar         | MGP Candidate     | 65302 (Dhargalim, Torxem, Virnoda) | Orchard, Paddy Field, Cultivable land, Irrigation command area                     |
-| 4  | Harish Zantye         | Pravin Zantye       | BJP MLA           | 26320 (Sarvona, Bicholim)          | Partly paddy field                                                                 |
-| 5  | Alex Sequeira         | Aleixo Sequeira     | Congress MLA (Ex) | 18075 (Nuvem, Salcete)             | Orchard and Natural Cover                                                          |
-| 6  | Sandhya Naresh Sawal  | Naresh Sawal        | MGP MLA (Ex)      | 13975 (Latambarce, Bicholim)       | Natural Cover                                                                      |
-| 7  | Anil Hoble            | Anil Hoble          | BJP Candidate     | 11546 (Morombi-o-Grande, Tiswadi)  | Paddy Fields                                                                       |
-| 8  | Pratapsingh Rane      | Pratapsingh Rane    | Congress MLA      | 11465 (Podocem, Sattari)           | Partly natural cover with irrigation command area & canal abutting to the property |
-| 9  | Laxmikant Parsekar    | Laxmikant Parsekar  | BJP MLA           | 10000 (Arambol)                    | Orchard, Cultivable Land, Salt Pan                                                 |
-| 10 | Madkaikar Builder     | Pandurang Madkaikar | BJP MLA           | 9475 (Old Goa, Tiswadi)            | Orchard with Archaeological Parks                                                  |
-| 11 | Rajesh Khaunte        | Rohan Khaunte       | Ind MLA           | 8445 (Azossim, Tiswadi)            | Partly Paddy Field & Khazan                                                        |
-| 12 | Naresh Sawal          | Naresh Sawal        | MGP MLA (Ex)      | 7219 (Latambarce, Bicholim)        | Partly Natural Cover                                                               |
-| 13 | Dhaku Madkaikar       | Pandurang Madkaikar | Ind Candidate     | 2475 (Candola, Ponda)              | Partly Natural Cover                                                               |
-| 14 | Tonia Estates         | Alexio Sequeira     | Congress MLA (Ex) | 1575 (Colva, Salcete)              | Orchard                                                                            |
-| 15 | Madkaikar Builder     | Pandurang Madkaikar | BJP MLA           | 1210 (Gaundalim, Tiswadi)          | VP2 Category settlement                                                            |
-| 16 | Megha M Azgaonkar     | Babu Azgaonkar      | BJP MLA           | 1000 (Dhargalim, Pernem)           | Orchard                                                                            |
+| No | Applicant             | Related MLA         | Party             | Sq.Mts | Location                   | Original Status                                                                    |
+|----|-----------------------|---------------------|-------------------|-------:|----------------------------|------------------------------------------------------------------------------------|
+| 1  | Deepak Dhavlikar      | Deepak Dhavalikar   | MGP MLA (Ex)      | 393100 | Dharbandora                | Error marking eco-sensitive zone                                                   |
+| 2  | Rajendra V Deshprabhu | Vasudev Deshprabhu  | MGP Candidate     | 225000 | Arambol                    | Orchard, Within High Tide Line                                                     |
+| 3  | Jit Arolkar           | Jit Arolkar         | MGP Candidate     |  65302 | Dhargalim, Torxem, Virnoda | Orchard, Paddy Field, Cultivable land, Irrigation command area                     |
+| 4  | Harish Zantye         | Pravin Zantye       | BJP MLA           |  26320 | Sarvona, Bicholim          | Partly paddy field                                                                 |
+| 5  | Alex Sequeira         | Aleixo Sequeira     | Congress MLA (Ex) |  18075 | Nuvem, Salcete             | Orchard and Natural Cover                                                          |
+| 6  | Sandhya Naresh Sawal  | Naresh Sawal        | MGP MLA (Ex)      |  13975 | Latambarce, Bicholim       | Natural Cover                                                                      |
+| 7  | Anil Hoble            | Anil Hoble          | BJP Candidate     |  11546 | Morombi-o-Grande, Tiswadi  | Paddy Fields                                                                       |
+| 8  | Pratapsingh Rane      | Pratapsingh Rane    | Congress MLA      |  11465 | Podocem, Sattari           | Partly natural cover with irrigation command area & canal abutting to the property |
+| 9  | Laxmikant Parsekar    | Laxmikant Parsekar  | BJP MLA           |  10000 | Arambol                    | Orchard, Cultivable Land, Salt Pan                                                 |
+| 10 | Madkaikar Builder     | Pandurang Madkaikar | BJP MLA           |   9475 | Old Goa, Tiswadi           | Orchard with Archaeological Parks                                                  |
+| 11 | Rajesh Khaunte        | Rohan Khaunte       | Ind MLA           |   8445 | Azossim, Tiswadi           | Partly Paddy Field & Khazan                                                        |
+| 12 | Naresh Sawal          | Naresh Sawal        | MGP MLA (Ex)      |   7219 | Latambarce, Bicholim       | Partly Natural Cover                                                               |
+| 13 | Dhaku Madkaikar       | Pandurang Madkaikar | Ind Candidate     |   2475 | Candola, Ponda             | Partly Natural Cover                                                               |
+| 14 | Tonia Estates         | Alexio Sequeira     | Congress MLA (Ex) |   1575 | Colva, Salcete             | Orchard                                                                            |
+| 15 | Madkaikar Builder     | Pandurang Madkaikar | BJP MLA           |   1210 | Gaundalim, Tiswadi         | VP2 Category settlement                                                            |
+| 16 | Megha M Azgaonkar     | Babu Azgaonkar      | BJP MLA           |   1000 | Dhargalim, Pernem          | Orchard                                                                            |
 
 Source: Assembly Questions and replies by Town & Country Planning Dept, Govt of Goa Three-Fourth Illegal Tourism
 
@@ -883,6 +883,7 @@ come up in violation of the CRZ guidelines all along the Goan coast as
 well as on the banks of six rivers of Goa.
 
 STRUCTURES VIOLATING CRZ ON THE COAST: 1991-2006
+
 | TALUKA   | VILLAGES IN 1991 | MORE TILL 2006 | TOTAL | ILLEGAL | %  |
 |----------|------------------|----------------|-------|---------|----|
 | Bardez   | 3                | 1802           | 1585  | 3387    | 35 |
@@ -895,16 +896,16 @@ STRUCTURES VIOLATING CRZ ON THE COAST: 1991-2006
 
 Source: Remote Sensings Instruments, Hyderabad
 
-Analysis of the results of the first phase study in the CRZIII
-(between 200 m and 500 m from the HTL towards land) along the entire
-Goa Coast showed that in almost all the 35 villages the number of
-structures / dwelling units have increased compared to the situation
-at the time of enactment of CRZ legislation in 1991. The increase has
-been very significant in Querim, Arambol, Mandrem and Morjim villages
-in Pernem taluka, Anjuna, Candolim and Calangute villages in Bardez
-taluka, Colva, Benaulim, Varca and Cavelossim villages in Salcete
-taluka and Cola, Agonda, Nagorce-Palolem, Poinguinim and Loliem
-villages in Canacona taluka.[^24]
+> Analysis of the results of the first phase study in the CRZIII
+> (between 200 m and 500 m from the HTL towards land) along the entire
+> Goa Coast showed that in almost all the 35 villages the number of
+> structures / dwelling units have increased compared to the situation
+> at the time of enactment of CRZ legislation in 1991. The increase has
+> been very significant in Querim, Arambol, Mandrem and Morjim villages
+> in Pernem taluka, Anjuna, Candolim and Calangute villages in Bardez
+> taluka, Colva, Benaulim, Varca and Cavelossim villages in Salcete
+> taluka and Cola, Agonda, Nagorce-Palolem, Poinguinim and Loliem
+> villages in Canacona taluka.[^24]
 
 Bardez tops the list with a maximum number of 1585 new structures that
 have come up in 15 years, that too only in three villages: Calangute:
@@ -933,6 +934,7 @@ violations were also found increasing even on the banks of six major
 rivers of Goa.
 
 STRUCTURES VIOLATING CRZ ON RIVER BANKS: 1991-2006
+
 | RIVER   | VILLAGES | IN 1991 | IN 2006 | TOTAL | AVERAGE/VILLAGE |
 |---------|----------|---------|---------|-------|-----------------|
 | Tiracol | 10       | 242     | 190     | 442   | 19              |
@@ -944,15 +946,15 @@ STRUCTURES VIOLATING CRZ ON RIVER BANKS: 1991-2006
 
 Source: Remote Sensings Instruments, Hyderabad
 
-Analysis of second phase work showed that in the CRZ-I of Tiracol
-river a maximum number of structures (117) have come up in Pernem
-village… (It) showed that new structures/dwelling units have come up
-almost in all the villages along the rivers, most significantly in
-Pernem village, along Tiracol river; Parcem, Colvale and Camurlim
-villages along Chapora river; Panaji, Penha da Franca and Reis Magos
-villages along Mandovi river; Taleigao, Goa Velha, Cortalim villages
-along Zuari river; Cavelossim and Velim villages along Sal river and
-Poinguinim and Nagorcem-Palolem villages along Talpona river.
+> Analysis of second phase work showed that in the CRZ-I of Tiracol
+> river a maximum number of structures (117) have come up in Pernem
+> village… (It) showed that new structures/dwelling units have come up
+> almost in all the villages along the rivers, most significantly in
+> Pernem village, along Tiracol river; Parcem, Colvale and Camurlim
+> villages along Chapora river; Panaji, Penha da Franca and Reis Magos
+> villages along Mandovi river; Taleigao, Goa Velha, Cortalim villages
+> along Zuari river; Cavelossim and Velim villages along Sal river and
+> Poinguinim and Nagorcem-Palolem villages along Talpona river.
 
 However, if this table is analysed by taking the average number of
 structures that have come up in each village (see the last column of
@@ -1046,45 +1048,45 @@ at 1.5 crores.  Almost 71 lakhs of illegal tourists!
 
 What does it say about illegal tourism?
 
-“Growth? Decline? Overgrowth? Whom to believe? The media, the
-industry, citizens and official data all seem to be telling a
-different story about the current fate of tourism in Goa.  Where lies
-the truth? This report is in the opinion that, in fact, these
-narratives are all exact and happening simultaneously.  Goa has
-recorded a growth in tourism footfall in the last few years, and yet
-hoteliers have been reporting a decline in their occupancy rate. This
-paradox seems largely due to the prevalence of informal/unregistered
-activities.
-
-For accommodations, for instance, this report estimates that more than
-70 percent of rooms available in Goa are outthe- radar from official
-data – this may include unregistered hotels, unregistered rooms or
-second homes rented to tourists on online platforms. As a consequence,
-given the inflation in the number of available rooms, formal
-registered units are facing harsher and harsher competition. The cake
-might get bigger – since the absolute number of tourists is increasing
-– but the pieces are getting smaller as more businesses are competing…
-
-‘Illegal hotels are the elephant in the room: everybody knows about
-it’ told the owner of a hotel. Unregistered activities include
-business units operating without licence or operating at a higher
-volume of activities than officially declared (for instance a hotel
-with a licence for 20 rooms actually running 30 rooms). The Small and
-Medium Hoteliers’ Association estimates that up to 87% of rooms
-available for tourists in Goa are unregistered. The present survey
-estimates that the overall proportion of tourism activities operating
-without registration could be up to 43%...
-
-The number of registered units was collected from the database of the
-Department of Tourism while the number of unregistered units was
-estimated based on the data available on online platforms such as Oyo,
-Airbnb, and Booking.com, inputs from tourism associations and
-observations on the field.  In addition to these registered and
-unregistered units, the survey also considered other tourism
-activities which do not require registration at the Department of
-Tourism, restaurants and other ancillary entities. In total, it was
-estimated that 39,694 business tourists – formal or informal - are
-currently operating in the tourism sector in Goa.[^27]
+> “Growth? Decline? Overgrowth? Whom to believe? The media, the
+> industry, citizens and official data all seem to be telling a
+> different story about the current fate of tourism in Goa.  Where lies
+> the truth? This report is in the opinion that, in fact, these
+> narratives are all exact and happening simultaneously.  Goa has
+> recorded a growth in tourism footfall in the last few years, and yet
+> hoteliers have been reporting a decline in their occupancy rate. This
+> paradox seems largely due to the prevalence of informal/unregistered
+> activities.
+>
+> For accommodations, for instance, this report estimates that more than
+> 70 percent of rooms available in Goa are outthe- radar from official
+> data – this may include unregistered hotels, unregistered rooms or
+> second homes rented to tourists on online platforms. As a consequence,
+> given the inflation in the number of available rooms, formal
+> registered units are facing harsher and harsher competition. The cake
+> might get bigger – since the absolute number of tourists is increasing
+> – but the pieces are getting smaller as more businesses are competing…
+>
+> ‘Illegal hotels are the elephant in the room: everybody knows about
+> it’ told the owner of a hotel. Unregistered activities include
+> business units operating without licence or operating at a higher
+> volume of activities than officially declared (for instance a hotel
+> with a licence for 20 rooms actually running 30 rooms). The Small and
+> Medium Hoteliers’ Association estimates that up to 87% of rooms
+> available for tourists in Goa are unregistered. The present survey
+> estimates that the overall proportion of tourism activities operating
+> without registration could be up to 43%...
+>
+> The number of registered units was collected from the database of the
+> Department of Tourism while the number of unregistered units was
+> estimated based on the data available on online platforms such as Oyo,
+> Airbnb, and Booking.com, inputs from tourism associations and
+> observations on the field.  In addition to these registered and
+> unregistered units, the survey also considered other tourism
+> activities which do not require registration at the Department of
+> Tourism, restaurants and other ancillary entities. In total, it was
+> estimated that 39,694 business tourists – formal or informal - are
+> currently operating in the tourism sector in Goa.[^27]
 
 ILLEGAL TOURISM OF GOA: ACCOMMODATION
 
@@ -1098,7 +1100,8 @@ ILLEGAL TOURISM OF GOA: ACCOMMODATION
 | Flats, Vacation Homes | 0     | 6000    | 6000  | 100       |
 | TOTAL                 | 3835  | 11920   | 15755 | 76        |
 
-Source: Survival & Revival of Goa’s Tourism Industry, A survey by GTDC, Govt of Goa
+Source: Survival & Revival of Goa’s Tourism Industry, A survey by
+GTDC, Govt of Goa
 
 The TTAG and Small Hoteliers’ Association were alleging that 60 per
 cent of hotels etc. are illegal. But here is the official report which
@@ -1122,452 +1125,439 @@ raises eyebrows regarding some proposals, on the lines of the
 controversial clause of 16B in the TCP Act. The GTDC report talks
 about land parcels:
 
-Provision of land parcel for increased tenure: Getting
-land parcels for commercial development can be challenging
-in Goa’s hinterland, as most of the area is under forest cover
-or under no development zone. Also, in order to maintain a
-balance between the ecology of the area and the interests
-of investors, the government should provide land parcels for
-restricted development but for a longer tenure or lease. The
-increased tenure will enhance the feasibility of a project and
-the government will also be able to control the development of
-the sensitive area. Land will be provided on a case-to-case basis
-upon acceptance by the single window clearance cell.
-Incentives to promote Homestays in Hinterland: Post Covid,
-a homestay in the hinterland could be an ideal accommodation
-for tourists to stay in Goa. To promote homestay facilities in the
-hinterlands, the government can provide following incentives:
-• Waiving off the registration fee and the licence fee
-payable to the department of tourism for 2 years.
-• To provide subsidy in utility charges such as electricity
-bill, water bill, etc. for 2 years.
-• Free provision of government approved eco-responsible
-labels for the eligible accommodations to promote
-sustainable practices for 2 years.
-• Subsidy in municipal charges / corporation charges,
-property tax, excise, trade licences, food safety etc. for
-2 years.
-• Provision of land with increased tenure for glamping /
-camping accommodations.
-• Relaxation in FAR
+> Provision of land parcel for increased tenure: Getting land parcels
+> for commercial development can be challenging in Goa’s hinterland, as
+> most of the area is under forest cover or under no development
+> zone. Also, in order to maintain a balance between the ecology of the
+> area and the interests of investors, the government should provide
+> land parcels for restricted development but for a longer tenure or
+> lease. The increased tenure will enhance the feasibility of a project
+> and the government will also be able to control the development of the
+> sensitive area. Land will be provided on a case-to-case basis upon
+> acceptance by the single window clearance cell.
+>
+> Incentives to promote Homestays in Hinterland: Post Covid,
+> a homestay in the hinterland could be an ideal accommodation
+> for tourists to stay in Goa. To promote homestay facilities in the
+> hinterlands, the government can provide following incentives:
+>
+> - Waiving off the registration fee and the licence fee payable to the
+>   department of tourism for 2 years.
+> - To provide subsidy in utility charges such as electricity
+>   bill, water bill, etc. for 2 years.
+> - Free provision of government approved eco-responsible labels for the
+>   eligible accommodations to promote sustainable practices for 2 years.
+> - Subsidy in municipal charges / corporation charges, property tax,
+>   excise, trade licences, food safety etc. for 2 years.
+> - Provision of land with increased tenure for glamping / camping
+>   accommodations.
+> - Relaxation in FAR
 
+## Mind ‘OUR’ MINES
 
+The Second World War was a blessing in disguise for Portuguese
+Goa. Mining took off as an industry when Japan started importing Goa’s
+iron ore from 1950 onwards. The mine owners were the wealthiest class
+of Goa, who were fully backing the Portuguese government during the
+whole liberation movement while some ‘nationalist’ mine owners were
+also secretly supporting the freedom fighters. Also in independent
+Goa, from the first election of 1963 till date, the ‘mine owners’ is
+the most powerful lobby that has been controlling Goan politics and
+almost all the major political parties, no matter whether they are
+ruling or in the opposition. Goenchi Maati, the organisation floated
+by Dr Claude Alvares of Goa Foundation, has described the whole
+journey of Goa’s mining industry in a concise manner.
 
+> “Reports of minerals in Goa date back very far. There are reports
+> that Jains living in Cudnem used to extract Gold in Goa.  The
+> existence of iron ore mines was known to the Portuguese from the early
+> 1700s, but it was hushed up for fear of invasion by others. However,
+> iron ore was extracted through the entire Portuguese period by certain
+> groups, notably the tribe known as Dovolos, based in Navelim and other
+> areas of Salcette.
+>
+> The first mining manifest was given in 1905… In 1910, a French
+> company, Compagnie de Mines de Fer de Goa, made plans to extract
+> manganese ore from the Bicholim area, and transport it by rail through
+> Sanquelim, Ponda, Raia and Loutolim to Margao. Mining really took off
+> after the World War as demand soared for the reconstruction. Japan in
+> particular found it easier politically to import iron ore from
+> Portuguese Goa instead of British India. By the time of liberation in
+> 1961, some 800 mining concessions had been granted.
+>
+> In 1987, after a number of previous efforts, the Indian Government
+> passed the Abolition Act, which converted perpetual concessions into
+> fixed term mining leases. The erstwhile concession holders were
+> compensated under the Act for this change. There were two boom and
+> bust cycles during this period, with busts in the late 1970s and early
+> 1990s. At the bottom, things were very difficult, and making money was
+> a struggle. Mining was barely profitable. It is likely that a number
+> of questionable practises began at this time.
+>
+> The China boom in the early 2000s caused iron ore prices to
+> soar. Naturally, this was accompanied with a mad rush to extract
+> everything and send it to China. Malpractices became
+> commonplace. There were numerous PILs filed, and numerous mines shut
+> down as well on different grounds. It all culminated with the release
+> of the explosive Shah Commission Report in the Parliament, and the
+> subsequent bans.
+>
+> During the Supreme Court hearings following the Shah Commission, it
+> became clear that there were numerous, nay countless, serious
+> violations by the miners. The Supreme Court changed direction. It
+> ruled that all mining after 22-Nov-2007 was fully illegal, raising the
+> prospect of recovering some of the loot, and making a fresh start for
+> mining in Goa. The Supreme Court also ordered the creation of the Goa
+> Iron Ore Permanent Fund, laying down the path for a fair to all mining
+> system, which we are proposing.
+>
+> Yet the BJP government has thrown all this away, and restarted mining
+> by renewing leases to the same miners. The estimated loss is
+> Rs. 1,44,000 crores, Rs. 10 lakhs for every man, woman and child. If
+> we do not act, how will we be remembered in history? The nalayak
+> generation? The old fools?”
 
-MIND ‘OUR’ MINES
-The Second World War was a blessing in disguise for
-Portuguese Goa. Mining took off as an industry when Japan
-started importing Goa’s iron ore from 1950 onwards. The
-mine owners were the wealthiest class of Goa, who were fully
-backing the Portuguese government during the whole liberation
-movement while some ‘nationalist’ mine owners were also
-THE POLITICS OF LAND
-348
-AJEEB GOA’S GAJAB POLITICS - GOA ELECTIONS: A PERSPECTIVE
-secretly supporting the freedom fighters. Also in independent
-Goa, from the first election of 1963 till date, the ‘mine owners’
-is the most powerful lobby that has been controlling Goan
-politics and almost all the major political parties, no matter
-whether they are ruling or in the opposition. Goenchi Maati, the
-organisation floated by Dr Claude Alvares of Goa Foundation,
-has described the whole journey of Goa’s mining industry in a
-concise manner.
-“Reports of minerals in Goa date back very far. There are
-reports that Jains living in Cudnem used to extract Gold in Goa.
-The existence of iron ore mines was known to the Portuguese
-from the early 1700s, but it was hushed up for fear of invasion
-by others. However, iron ore was extracted through the entire
-Portuguese period by certain groups, notably the tribe known as
-Dovolos, based in Navelim and other areas of Salcette.
-The first mining manifest was given in 1905… In 1910, a
-French company, Compagnie de Mines de Fer de Goa, made
-plans to extract manganese ore from the Bicholim area, and
-transport it by rail through Sanquelim, Ponda, Raia and Loutolim
-to Margao. Mining really took off after the World War as demand
-soared for the reconstruction. Japan in particular found it easier
-politically to import iron ore from Portuguese Goa instead of
-British India. By the time of liberation in 1961, some 800 mining
-concessions had been granted.
-In 1987, after a number of previous efforts, the Indian
-Government passed the Abolition Act, which converted
-perpetual concessions into fixed term mining leases. The
-erstwhile concession holders were compensated under the Act
-for this change. There were two boom and bust cycles during
-this period, with busts in the late 1970s and early 1990s. At the
-bottom, things were very difficult, and making money was a
-struggle. Mining was barely profitable. It is likely that a number
-of questionable practises began at this time.
-The China boom in the early 2000s caused iron ore prices
-to soar. Naturally, this was accompanied with a mad rush to
-349
-extract everything and send it to China. Malpractices became
-commonplace. There were numerous PILs filed, and numerous
-mines shut down as well on different grounds. It all culminated
-with the release of the explosive Shah Commission Report in the
-Parliament, and the subsequent bans.
-During the Supreme Court hearings following the Shah
-Commission, it became clear that there were numerous, nay
-countless, serious violations by the miners. The Supreme Court
-changed direction. It ruled that all mining after 22-Nov-2007
-was fully illegal, raising the prospect of recovering some of the
-loot, and making a fresh start for mining in Goa. The Supreme
-Court also ordered the creation of the Goa Iron Ore Permanent
-Fund, laying down the path for a fair to all mining system, which
-we are proposing.
-Yet the BJP government has thrown all this away, and
-restarted mining by renewing leases to the same miners. The
-estimated loss is Rs. 1,44,000 crores, Rs. 10 lakhs for every man,
-woman and child. If we do not act, how will we be remembered
-in history? The nalayak generation? The old fools?”
-Justice Shah Commission said it’s a scam of Rs 35,000 crore
-and described it as a Theft, suggesting the people involved in the
-scam are nothing but Thieves. It was a daylight robbery. With
-the China boom, wheels had started moving in Goan politics
-while unabated mining had begun. Goa’s leading miner and
-owner of Fomento, Auduth Timblo personally took the initiative
-in 2004 to pull out three-time BJP MLA Digambar Kamat from
-the Manohar Parrikar-led BJP government and re-establish the
-Rane-led Congress government. Kamat continued to be the
-mining minister. After the 2007 Assembly election, Kamat was
-made the chief minister. Thanks to illegal mining and practically
-the whole political class jumping at the opportunity of looting
-Goa’s treasure, the Kamat-led Congress government completed
-the whole term without any trouble from any political party.
-At that moment, 117 mining leases were operational,
-covering 259 square kilometres of land of Goa. CM Kamat
-THE POLITICS OF LAND
-350
-AJEEB GOA’S GAJAB POLITICS - GOA ELECTIONS: A PERSPECTIVE
-had set up a Task Force and then the State Level Committee
-(SLC) under the chairmanship of internationally renowned
-architect Charles Correa along with India’s and Goa’s leading
-town planners, in order to prepare a new Regional Plan 2021.
-Besides mapping the cultivated land and marking zones for
-housing, the SLC also marked areas to develop agriculture,
-tourism, industry and even mining. It had also provided an
-Action Plan and how to phase out mining by providing an
-alternative to the mining dependent population. Perhaps for
-the first time, the areas of land of mining were classified into
-the forest, private forest, orchard, cultivated paddy fields,
-catchment area of water bodies, industrial areas as well as
-settlement areas.
+Justice Shah Commission said it’s a scam of Rs 35,000 crore and
+described it as a Theft, suggesting the people involved in the scam
+are nothing but Thieves. It was a daylight robbery. With the China
+boom, wheels had started moving in Goan politics while unabated mining
+had begun. Goa’s leading miner and owner of Fomento, Auduth Timblo
+personally took the initiative in 2004 to pull out three-time BJP MLA
+Digambar Kamat from the Manohar Parrikar-led BJP government and
+re-establish the Rane-led Congress government. Kamat continued to be
+the mining minister. After the 2007 Assembly election, Kamat was made
+the chief minister. Thanks to illegal mining and practically the whole
+political class jumping at the opportunity of looting Goa’s treasure,
+the Kamat-led Congress government completed the whole term without any
+trouble from any political party.
+
+At that moment, 117 mining leases were operational, covering 259
+square kilometres of land of Goa. CM Kamat had set up a Task Force and
+then the State Level Committee (SLC) under the chairmanship of
+internationally renowned architect Charles Correa along with India’s
+and Goa’s leading town planners, in order to prepare a new Regional
+Plan 2021.  Besides mapping the cultivated land and marking zones for
+housing, the SLC also marked areas to develop agriculture, tourism,
+industry and even mining. It had also provided an Action Plan and how
+to phase out mining by providing an alternative to the mining
+dependent population. Perhaps for the first time, the areas of land of
+mining were classified into the forest, private forest, orchard,
+cultivated paddy fields, catchment area of water bodies, industrial
+areas as well as settlement areas.
+
 TYPE OF LAND OF ACTIVE MINING LEASES (2010): %
-LEASES & LAND TALUKAS WITH PERCENTAGE OF LAND
-SANGUEM BICHOLIM QUEPEM SATTARI TOTAL
-No of Leases 66 38 10 18 132
-Forest 38 20 14 13 27
-Private Forest 3 0 0.39 0 1
-Orchard 53 68 74 72 62
-Paddy Fields 1 2 5 3 2
-Water Bodies 1 2 3 4 2
-Industry 0.35 0.29 0.04 0 0.25
-Settlement 3 7 4 8 5
-Source: Release Two; Regional Plan of Goa 2021, Government of Goa P 60-62
-The ‘mine owners’ of Goa still claim that they are not the
-lease holders but the owners of the mines since the Portuguese
-had given it to them as perpetual concessions. They have
-challenged the Goa, Daman and Diu Mining Concessions
-(Abolition and Declaration as Mining Leases) Act, 1987. It is
-still lying in the Supreme Court.
-By releasing a document regarding the types of land allotted
-for mining leases, the SLC in 2010 had listed out the kind of
-351
-damage mining has caused in the midland and hinterland and
-brought it to the notice of Kamat government.
-“Mining has caused incalculable direct and indirect
-damage to both the environment and the people in these areas
-- by affecting the quality of air, water and forests, as well as
-health, agriculture, employment and living conditions of the
-people. The major impacts are as under:
-1. About 1110.81 hectares of forest land has been diverted
-to mining as per the data furnished by the Forest Dept.
-2. A number of mining leases are located in the catchment
-areas of water bodies and in the case of Selaulim dam,
-even within the buffer area of the dam. This threatens
-the quality and the holding capacity of this primary
-water source which caters to the entire South Goa
-district.
-3. There are no controls on the depth of the mines. As
-a result mining is done even below the water table at
-the cost of underground aquifers, causing acute water
-shortage in mining areas (should be brought under Goa
-Groundwater Regulation Act 2002).
-4. Open ore transportation by trucks is causing severe air
-pollution and disrupting the health and social lives of
-villagers in the mining talukas.
-5. Agriculture is severely affected in the areas around
-mines because of siltation and lack of ground water for
-irrigation.
-6. The siltation of the Zuari and Mandovi rivers is a direct
-result of the mining activities occurring upstream along
-these rivers and the failure of anti-erosion measures.
-7. Barge building activity has been mushrooming all along
-the river banks to keep up with the increase in mining
-activity.
-The SLC had also made 26 recommendations for sustainable
-mining, stating that action needs to be taken to minimise the
-brutal environmental fall-outs of mining, and for deciding on
-THE POLITICS OF LAND
-352
-AJEEB GOA’S GAJAB POLITICS - GOA ELECTIONS: A PERSPECTIVE
-options for the future. Until this task is completed, the SLC had
-clearly suggested that no new mines should be allowed to start
-(including those with valid licences), nor should any new leases
-be considered.
-These recommendations are nothing different from what the
-Supreme Court has suggested to revive Goa’s mining. In fact the
-RPG21 had tackled the issue in a more holistic manner while
-the Supreme Court has limited its scope to have mining activity
-within a legal framework. The RPG21 has even suggested an
-alternative economy for the mining-dependent areas. If these
-recommendations were implemented immediately after the plan
-was submitted to the government, Goa would not have faced
-the blanket mining ban, due to which the associated people are
-suffering for the last 10 years. But neither Digambar Kamat during
-his remaining tenure nor Manohar Parrikar, who succeeded him
-and faced the mining ban, bothered to implement it. The whole
-political class, including the Communist Party of India and its
-AITUC trade union leader Christopher Fonseca, took pride in
-holding Dr Claude Alvares and his Goa Foundation responsible
-for the mining ban. Rather than accusing the thieves, the one who
-caught the thieves was blamed. These recommendations were
-made two years before even the Goa Foundation had approached
-the Supreme Court, seeking a ban on mining to put a stop to the
-madness of the whole political class in destroying Goa.
-Have a look at some of the crucial recommendations the
-Charles Correa Committee had made:
-1. Bring an immediate halt to mining and dumping outside
-delineated and mapped 117 working Mining Leases.
-2. Terminating at earliest, from the 117 working mines,
-those mines which are located within 200 metres from
-existing settlement fences, 200 m from river banks, Wild
-Life Sanctuaries and National Parks and within their
-surrounding one km buffer zones, 500 metres around
-ASI and State protected monuments and two kms from
-353
-the boundary of the Submergence Area for reservoirs of
-the State Water Supply system, like Selaulim, Anjunem
-etc.
-3. Phase out, within the next three years, those mines
-that are located within 500 metres from the fence of
-settlement areas having a population of 100 persons,
-one km from the fence of settlement areas having a
-population of 500 persons and above, Catchment areas
-of Reservoirs of Selaulim and Anjunem and one km to
-two kms of the boundaries of the Wild Life Sanctuaries.
-4. No area or number of existing 117 mines should
-increase till 2021.
-5. Leases from among 117 that are in Eco- I zone and
-have not yet been mined should not be allowed to start
-operation.
-6. Remaining non-operational 219 mining leases should
-not be allowed to start operation.
-7. Restrict mining above the water table.
-8. No new forest area to be diverted to mining since
-there is no land available in the State for compensatory
-afforestation.
-9. No transportation of topsoil beyond the lease area
-should be allowed as per mining regulations.
-10. In order to prevent malpractice, all mines must have
-all the necessary clearances under Environment Act,
-Air Act, Water Act, Forest Conservation Act, NOC from
-the National Board of Wildlife and Pollution Control
-Board as well as valid approval of mining lease from
-the government.
-11. Utilise mining for solving the existing land filling
-material scarcity for public projects like roads etc.
-This will help avoid unnecessary cutting of hills that is
-THE POLITICS OF LAND
-354
-AJEEB GOA’S GAJAB POLITICS - GOA ELECTIONS: A PERSPECTIVE
-otherwise necessitated.
-12. Rehabilitate all non-working/closed mines for water
-harvesting and restoring damaged water tables.
-13. Make rehabilitation of farm land (Paddy Fields) an
-integral part of the Mining Policy. The owner should
-restore the land to its original use of forest, agriculture
-or orchard after the mine is exhausted.
-14. Examine the options of replacing ore-transported
-general roads either by a much narrower (18m) road,
-or by a dedicated mining covered conveyor belt system
-from the mining areas to the jetties.
-15. Construct a bypass road as a Growth corridor by 2021,
-which allows northbound and southbound traffic
-coming in from Belgaum to bifurcate and bypass Goa,
-which passes right through these devastated areas.
-16. Build new growth centres along this belt which will
-also help take the pressure off the coastal belt, their
-development should be on a fast track, and a new
-planning and implementation cell created to identify
-the land needed (preferably wasteland).
-17. Appoint a High Power Task Force to look at all the issues
-related to mining in the State and define a rational and
-long-term sustainable mining Policy for the State.
-Neither any government nor the two subsequent Assemblies
-of 2012 and 2017 have even bothered to discuss this whole
-plan and its valuable recommendations. If it was implemented,
-mining would have not been banned by the Supreme Court,
-workers would have not been retrenched, mining-dependents
-would have not starved and Goan economy would have not
-been affected. But unfortunately Goa did not have a single
-lawmaker elected who could alert the authorities. Who was
-responsible for this most irresponsible attitude that led to the
-economic downfall of Goa?
-355
-RICH POLITICIANS AND POOR POLITICS
-There was a time when only the Congress was considered
-to be a poor party of rich politicians. But now it is across the
-RISE IN INCOME OF MLAS: 2007-2017 (Figures In Crores)
-MLAS PARTY 2007 2012 2017 RISE %
-Deepak Dhavalikar MGP 1.41 13.40 14.44 924
-Babu Kavlekar BJP 1.31 5.31 9.37 615
-Laxmikant Parsekar BJP 1.26 10.74 8.98 613
-Pandurang Madkaikar BJP 5.07 12.37 32.18 535
-Benjamin Silva Ind 1.21 2.86 6.38 427
-Pratapsingh Rane Congress 9.57 25.87 50.00 422
-Luizinho Faleiro TMC 1.77 - 9.09 414
-Aleixo Reginald Lourenco Congress - 1.16 5.17 346
-Mauvin Godinho BJP 2.73 7.96 10.74 293
-Sudin Dhavalikar MGP 3.00 5.58 10.58 253
-Agnelo Fernandes Congress 5.35 10.16 17.87 234
-Pravin Zantye BJP 3.97 5.55 13.23 233
-Digambar Kamat Congress 3.23 6.21 10.74 233
-Aleixo Sequeira Congress 3.03 9.38 - 210
-Vishwajit Rane BJP 7.46 6.28 21.31 186
-Vijay Sardesai GFP 5.45 25.21 14.75 171
-Jennifer Monserrate BJP 11.49 23.07 30.81 168
-Michael Lobo BJP - 20.69 54.59 164
-Ravi Naik BJP 3.89 7.09 10.12 160
-Churchill Alemao TMC 5.61 11.68 13.06 133
-Pramod Sawant BJP - 1.26 2.78 121
-Babush Monserrate BJP 15.32 23.07 30.81 101
-Joaquim Alemao Congress 9.12 31.26 16.26 78
-Subhash Shirodkar BJP 1.10 4.81 1.93 75
-Rohan Khaunte Ind - 5.87 9.34 59
-Nilesh Cabral BJP - 13.42 19.95 49
-Lavoo Mamledar TMC 1.81 1.35 2.67 48
-Source: Association of Democratic Reforms (ADR) (Party affiliation as on 15 December 2021)
-THE POLITICS OF LAND
-356
-AJEEB GOA’S GAJAB POLITICS - GOA ELECTIONS: A PERSPECTIVE
-board. Politics is a shortcut to become filthy rich within no time.
-This is a pan-India phenomenon. Prime Minister Narendra Modi
-came to power with a thumping majority in 2014 by assuring
-the people of India that he would get back the black money
-of corruption accumulated in India and the banks abroad. His
-experiment of demonetisation to get the black money out of
-bags, fight corruption, get rid of fake notes and contain terror
-funding failed miserably. Withdrawing currency notes of 1000
-and 500 denominations amounted to 86 per cent of India’s
-currency. Modi was expecting that one third of Rs 15 lakh crore
-would not be returned to the banks since it was ‘black’. But in
-reality, the Reserve Bank of India announced that 99.3 per cent
-of currency notes were deposited.
-It is not an easy task to prove which politician is corrupt
-and who is not. There are different tactics used to hoodwink the
-income tax authorities and accumulate black money. But even
-then total income cannot be hidden. The Election Commission
-of India has now made it compulsory for the candidates to file
-an affidavit where the legal income needs to be shown. Since
-then, the Association of Democratic Reforms (ADR), the NGO,
-has been keeping a watch on the contestants and analysing
-their performance as well as their earnings, shown legally. The
-table supplied by the ADR has analysed the income shown by
-the contestants since 2007.
-Unlike the common man or the normal businessmen,
-the income of politicians is not only doubling in five years but
-raised by even over 900 per cent, like in case of two-time MLA
-and one-time minister Dipak Dhavalikar. When these MLAs
-contested in 2017, the richest man among them was twotime
-MLA Michael Lobo, representing Goa’s tourist hotspot,
-Calangute. Pratapsingh Rane, the 11-time MLA and five-time
-chief minister, is next in the line. Then comes Pandurang
-Madkaikar, who travelled from the MGP to the Congress to the
-BJP; Babush and Jennifer Monserrate, Vishwajit Rane and so on.
-This has been a ‘rich journey’ of Goan politicians, till 2017.
-357
-The latest figures will be known when they file nominations for
-the 2022 poll. (The ADR did not provide figures of those MLAs
-who have expired, like Manohar Parrikar, Francisco D’Souza
-and Vishnu Wagh).
-In comparison, if we analyse the whole journey of Goan
-politics till date, what we observe is mindless misuse of our
-land rather than utilising it for the development of the people
-who cultivate this land. No thought is given to sustainable and
-balanced development of Goa that would not kill the villages
-and congest the cities. It is not just mining or agriculture or
-tourism or industry, but the Politics of Business and the Business
-of Politics that has ruined Goa by the short-sighted political
-class of Goa. The vision of Bhausaheb Bandodkar and Dr Jack
-de Sequeira has absolutely faded away.
-For example, Goa’s urban population is today not less than
-10 lakhs. We also receive 1.50 crores of tourists every year,
-meaning on an average 12.50 lakh tourists every month. This
-whole lot of around 22 lakhs needs on a daily basis vegetables,
-rice, wheat, cereals, fruits, flowers, milk, eggs, meat etc. Goa
-is certainly equipped enough with the basic natural resources
-like land and water required to produce these necessities. But
-the sad part of Goa’s ‘developing economy’ is that the land
-available to cultivate it is either lying idle, barren or is being
-converted every day for short-term monetary gains. Instead, we
-import all these necessities from the neighbouring states at a
-much higher cost, making our economy costly.
-In short, Goa’s politics has been moving around the Land
-right from the ancient period till date. It has gone through many
-phases of community farming, feudal dynasties, the feudal
-Communidades and Bhatkarshai. Then through democratic
-means we achieved Land to the Tiller but the political class
-who succeeded the architects of Goa made a mockery of
-the whole ‘socialist’ concept. And now it is being ridiculed
-further by reckless conversion of cultivable land into a saleable
-commodity. The land sharks from all over the world are simply
-THE POLITICS OF LAND
-358
-AJEEB GOA’S GAJAB POLITICS - GOA ELECTIONS: A PERSPECTIVE
-looting Goa’s precious land in collusion with the businessminded
-politicians and spineless bureaucrats. This is the state
-of our Bhangarachem Goem (Golden Goa)! The Golden Goose?
-The whole journey of the Politics of Land could be defined
-in three simple phases:
-Land to the Tiller!
-Land to the Dealer!!
-Land to the Killer!!!
 
-1. “mundkar” means a person who, with the consent of the bhatkar or the person acting or
-purporting to act on behalf of the bhatkar lawfully resides with a fixed habitation in a dwelling
-house with or without obligation to render any services to the bhatkar and includes a member
-of his family but does not include— (i) a person paying rent to the bhatkar for the occupation
-of the house; (ii) a domestic servant or a chowkidar who is paid wages and who resides in an
-out-house, house-compound or other portion of his employer’s residence… (Definition in the
-Mundkar Act).
-2. Naik Ravi; LAQ No 066 dated 28 July 2021
-3. Naik Ravi; LAQ No. 018A, ID 22555 dated 27 January 2021
-4. The Legislative Department, Ministry of Law & Justice, Government of India
-5. Supreme Court of India: Union Territory of Goa, Daman and Diu & Anr v/s Lakshmibai
-Narayan Patil etc etc, Judgement dated 23 July 1990
-6. Census of India 1991
-7. 10th Agri Census Report 2015-16
-8. Economic Survey 2002
-9. Colvalkar Dr Nagesh; Land Reforms in the State of Goa: An Assessment
-10. Madhumati Atchut Parab vs Rajaram V Parab & Ors, Supreme Court of India, 29 January
-2009
-11. Kamat Digambar, Assembly LAQ No 045, 25 July 2018
-12. Lourenco Reginald Aleixo, Assembly LAQ No 001, Id 2147, 1 August 2014
-13. Report No 3, Law Commission, Government of Goa,
-14. Report No 25, August 2013, Law Commission, Government of Goa
-15. Goa Assembly; A brief report of the Business transacted during 22 July - 21 August 2014
-16. Times of India (Goa edition); 24-28-31 October & 8 December 2014
-17. The Goan; 3 August 2017
-18. Directive by Bombay HC at Goa on 16 January 2019 in PIL of GBA vs State of Goa
-19. Directive by Bombay HC at Goa on 7 November 2019 in PIL of GBA vs State of Goa
-20. Assembly Question Id 21370 by Digambar Kamat on 5 February 2020
-21. Assembly Question Id 23150 by Vijai Sardesai on 29 January 2021
-22. Sonak Sangeeta M; Environment and Development: Goa at Crossroads, P 156
-23. Survey and Inquiry of CRZ Areas in Goa; By Remote Sensing Instruments, Hyderabad
-24. Survey and Inquiry of CRZ Areas in Goa; By Remote Sensing Instruments, Hyderabad
-25. Minutes of the State Executive Committee of Covid19, Government of Goa, held on 24
-May 2020
-26. Coping with Covid-19: Survival and Revival of Goa’s Tourism Industry; A survey undertaken
-GTDC, Govt of Goa
-27. Coping with Covid-19: Survival and Revival of Goa’s Tourism Industry; A survey undertaken
-GTDC, Govt of Goa
+| LEASES & LAND  |         |          |        |         |       |
+|                | SANGUEM | BICHOLIM | QUEPEM | SATTARI | TOTAL |
+|----------------|---------|----------|--------|---------|-------|
+| No of Leases   | 66      | 38       | 10     | 18      | 132   |
+| Forest         | 38      | 20       | 14     | 13      | 27    |
+| Private Forest | 3       | 0        | 0.39   | 0       | 1     |
+| Orchard        | 53      | 68       | 74     | 72      | 62    |
+| Paddy Fields   | 1       | 2        | 5      | 3       | 2     |
+| Water Bodies   | 1       | 2        | 3      | 4       | 2     |
+| Industry       | 0.35    | 0.29     | 0.04   | 0       | 0.25  |
+| Settlement     | 3       | 7        | 4      | 8       | 5     |
+
+Source: Release Two; Regional Plan of Goa 2021, Government of Goa P
+60-62
+
+The ‘mine owners’ of Goa still claim that they are not the lease
+holders but the owners of the mines since the Portuguese had given it
+to them as perpetual concessions. They have challenged the Goa, Daman
+and Diu Mining Concessions (Abolition and Declaration as Mining
+Leases) Act, 1987. It is still lying in the Supreme Court.
+
+By releasing a document regarding the types of land allotted for
+mining leases, the SLC in 2010 had listed out the kind of damage
+mining has caused in the midland and hinterland and brought it to the
+notice of Kamat government.
+
+> “Mining has caused incalculable direct and indirect damage to both
+> the environment and the people in these areas - by affecting the
+> quality of air, water and forests, as well as health, agriculture,
+> employment and living conditions of the people. The major impacts are
+> as under:
+>
+> 1. About 1110.81 hectares of forest land has been diverted to mining
+>    as per the data furnished by the Forest Dept.
+> 2. A number of mining leases are located in the catchment areas of
+>    water bodies and in the case of Selaulim dam, even within the
+>    buffer area of the dam. This threatens the quality and the holding
+>    capacity of this primary water source which caters to the entire
+>    South Goa district.
+> 3. There are no controls on the depth of the mines. As a result mining
+>    is done even below the water table at the cost of underground
+>    aquifers, causing acute water shortage in mining areas (should be
+>    brought under Goa Groundwater Regulation Act 2002).
+> 4. Open ore transportation by trucks is causing severe air pollution
+>    and disrupting the health and social lives of villagers in the
+>    mining talukas.
+> 5. Agriculture is severely affected in the areas around mines because
+>    of siltation and lack of ground water for irrigation.
+> 6. The siltation of the Zuari and Mandovi rivers is a direct result of
+>    the mining activities occurring upstream along these rivers and the
+>    failure of anti-erosion measures.
+> 7. Barge building activity has been mushrooming all along the river
+>    banks to keep up with the increase in mining activity.
+
+The SLC had also made 26 recommendations for sustainable mining,
+stating that action needs to be taken to minimise the brutal
+environmental fall-outs of mining, and for deciding on options for the
+future. Until this task is completed, the SLC had clearly suggested
+that no new mines should be allowed to start (including those with
+valid licences), nor should any new leases be considered.
+
+These recommendations are nothing different from what the Supreme
+Court has suggested to revive Goa’s mining. In fact the RPG21 had
+tackled the issue in a more holistic manner while the Supreme Court
+has limited its scope to have mining activity within a legal
+framework. The RPG21 has even suggested an alternative economy for the
+mining-dependent areas. If these recommendations were implemented
+immediately after the plan was submitted to the government, Goa would
+not have faced the blanket mining ban, due to which the associated
+people are suffering for the last 10 years. But neither Digambar Kamat
+during his remaining tenure nor Manohar Parrikar, who succeeded him
+and faced the mining ban, bothered to implement it. The whole
+political class, including the Communist Party of India and its AITUC
+trade union leader Christopher Fonseca, took pride in holding Dr
+Claude Alvares and his Goa Foundation responsible for the mining
+ban. Rather than accusing the thieves, the one who caught the thieves
+was blamed. These recommendations were made two years before even the
+Goa Foundation had approached the Supreme Court, seeking a ban on
+mining to put a stop to the madness of the whole political class in
+destroying Goa.
+
+Have a look at some of the crucial recommendations the Charles Correa
+Committee had made:
+
+1. Bring an immediate halt to mining and dumping outside delineated
+   and mapped 117 working Mining Leases.
+2. Terminating at earliest, from the 117 working mines, those mines
+   which are located within 200 metres from existing settlement
+   fences, 200 m from river banks, Wild Life Sanctuaries and National
+   Parks and within their surrounding one km buffer zones, 500 metres
+   around ASI and State protected monuments and two kms from the
+   boundary of the Submergence Area for reservoirs of the State Water
+   Supply system, like Selaulim, Anjunem etc.
+3. Phase out, within the next three years, those mines that are
+   located within 500 metres from the fence of settlement areas having
+   a population of 100 persons, one km from the fence of settlement
+   areas having a population of 500 persons and above, Catchment areas
+   of Reservoirs of Selaulim and Anjunem and one km to two kms of the
+   boundaries of the Wild Life Sanctuaries.
+4. No area or number of existing 117 mines should increase till 2021.
+5. Leases from among 117 that are in Eco- I zone and have not yet been
+   mined should not be allowed to start operation.
+6. Remaining non-operational 219 mining leases should not be allowed
+   to start operation.
+7. Restrict mining above the water table.
+8. No new forest area to be diverted to mining since there is no land
+   available in the State for compensatory afforestation.
+9. No transportation of topsoil beyond the lease area should be
+   allowed as per mining regulations.
+10. In order to prevent malpractice, all mines must have all the
+    necessary clearances under Environment Act, Air Act, Water Act,
+    Forest Conservation Act, NOC from the National Board of Wildlife
+    and Pollution Control Board as well as valid approval of mining
+    lease from the government.
+11. Utilise mining for solving the existing land filling material
+    scarcity for public projects like roads etc.  This will help avoid
+    unnecessary cutting of hills that is otherwise necessitated.
+12. Rehabilitate all non-working/closed mines for water harvesting and
+    restoring damaged water tables.
+13. Make rehabilitation of farm land (Paddy Fields) an integral part
+    of the Mining Policy. The owner should restore the land to its
+    original use of forest, agriculture or orchard after the mine is
+    exhausted.
+14. Examine the options of replacing ore-transported general roads
+    either by a much narrower (18m) road, or by a dedicated mining
+    covered conveyor belt system from the mining areas to the jetties.
+15. Construct a bypass road as a Growth corridor by 2021, which allows
+    northbound and southbound traffic coming in from Belgaum to
+    bifurcate and bypass Goa, which passes right through these
+    devastated areas.
+16. Build new growth centres along this belt which will also help take
+    the pressure off the coastal belt, their development should be on
+    a fast track, and a new planning and implementation cell created
+    to identify the land needed (preferably wasteland).
+17. Appoint a High Power Task Force to look at all the issues related
+    to mining in the State and define a rational and long-term
+    sustainable mining Policy for the State.
+
+Neither any government nor the two subsequent Assemblies of 2012 and
+2017 have even bothered to discuss this whole plan and its valuable
+recommendations. If it was implemented, mining would have not been
+banned by the Supreme Court, workers would have not been retrenched,
+mining-dependents would have not starved and Goan economy would have
+not been affected. But unfortunately Goa did not have a single
+lawmaker elected who could alert the authorities. Who was responsible
+for this most irresponsible attitude that led to the economic downfall
+of Goa?
+
+## RICH POLITICIANS AND POOR POLITICS
+
+There was a time when only the Congress was considered to be a poor
+party of rich politicians. But now it is across the board. Politics is
+a shortcut to become filthy rich within no time.  This is a pan-India
+phenomenon. Prime Minister Narendra Modi came to power with a thumping
+majority in 2014 by assuring the people of India that he would get
+back the black money of corruption accumulated in India and the banks
+abroad. His experiment of demonetisation to get the black money out of
+bags, fight corruption, get rid of fake notes and contain terror
+funding failed miserably. Withdrawing currency notes of 1000 and 500
+denominations amounted to 86 per cent of India’s currency. Modi was
+expecting that one third of Rs 15 lakh crore would not be returned to
+the banks since it was ‘black’. But in reality, the Reserve Bank of
+India announced that 99.3 per cent of currency notes were deposited.
+
+RISE IN INCOME OF MLAS: 2007-2017 (Figures In Crores)
+
+| MLAS                     | PARTY    | 2007  | 2012  | 2017  | RISE % |
+|--------------------------|----------|-------|-------|-------|--------|
+| Deepak Dhavalikar        | MGP      | 1.41  | 13.40 | 14.44 | 924    |
+| Babu Kavlekar            | BJP      | 1.31  | 5.31  | 9.37  | 615    |
+| Laxmikant Parsekar       | BJP      | 1.26  | 10.74 | 8.98  | 613    |
+| Pandurang Madkaikar      | BJP      | 5.07  | 12.37 | 32.18 | 535    |
+| Benjamin Silva           | Ind      | 1.21  | 2.86  | 6.38  | 427    |
+| Pratapsingh Rane         | Congress | 9.57  | 25.87 | 50.00 | 422    |
+| Luizinho Faleiro         | TMC      | 1.77  | -     | 9.09  | 414    |
+| Aleixo Reginald Lourenco | Congress | -     | 1.16  | 5.17  | 346    |
+| Mauvin Godinho           | BJP      | 2.73  | 7.96  | 10.74 | 293    |
+| Sudin Dhavalikar         | MGP      | 3.00  | 5.58  | 10.58 | 253    |
+| Agnelo Fernandes         | Congress | 5.35  | 10.16 | 17.87 | 234    |
+| Pravin Zantye            | BJP      | 3.97  | 5.55  | 13.23 | 233    |
+| Digambar Kamat           | Congress | 3.23  | 6.21  | 10.74 | 233    |
+| Aleixo Sequeira          | Congress | 3.03  | 9.38  | -     | 210    |
+| Vishwajit Rane           | BJP      | 7.46  | 6.28  | 21.31 | 186    |
+| Vijay Sardesai           | GFP      | 5.45  | 25.21 | 14.75 | 171    |
+| Jennifer Monserrate      | BJP      | 11.49 | 23.07 | 30.81 | 168    |
+| Michael Lobo             | BJP      | -     | 20.69 | 54.59 | 164    |
+| Ravi Naik                | BJP      | 3.89  | 7.09  | 10.12 | 160    |
+| Churchill Alemao         | TMC      | 5.61  | 11.68 | 13.06 | 133    |
+| Pramod Sawant            | BJP      | -     | 1.26  | 2.78  | 121    |
+| Babush Monserrate        | BJP      | 15.32 | 23.07 | 30.81 | 101    |
+| Joaquim Alemao           | Congress | 9.12  | 31.26 | 16.26 | 78     |
+| Subhash Shirodkar        | BJP      | 1.10  | 4.81  | 1.93  | 75     |
+| Rohan Khaunte            | Ind      | -     | 5.87  | 9.34  | 59     |
+| Nilesh Cabral            | BJP      | -     | 13.42 | 19.95 | 49     |
+| Lavoo Mamledar           | TMC      | 1.81  | 1.35  | 2.67  | 48     |
+
+Source: Association of Democratic Reforms (ADR) (Party affiliation as
+on 15 December 2021)
+
+It is not an easy task to prove which politician is corrupt and who is
+not. There are different tactics used to hoodwink the income tax
+authorities and accumulate black money. But even then total income
+cannot be hidden. The Election Commission of India has now made it
+compulsory for the candidates to file an affidavit where the legal
+income needs to be shown. Since then, the Association of Democratic
+Reforms (ADR), the NGO, has been keeping a watch on the contestants
+and analysing their performance as well as their earnings, shown
+legally. The table supplied by the ADR has analysed the income shown
+by the contestants since 2007.
+
+Unlike the common man or the normal businessmen, the income of
+politicians is not only doubling in five years but raised by even over
+900 per cent, like in case of two-time MLA and one-time minister Dipak
+Dhavalikar. When these MLAs contested in 2017, the richest man among
+them was twotime MLA Michael Lobo, representing Goa’s tourist hotspot,
+Calangute. Pratapsingh Rane, the 11-time MLA and five-time chief
+minister, is next in the line. Then comes Pandurang Madkaikar, who
+travelled from the MGP to the Congress to the BJP; Babush and Jennifer
+Monserrate, Vishwajit Rane and so on.  This has been a ‘rich journey’
+of Goan politicians, till 2017.  The latest figures will be known when
+they file nominations for the 2022 poll. (The ADR did not provide
+figures of those MLAs who have expired, like Manohar Parrikar,
+Francisco D’Souza and Vishnu Wagh).
+
+In comparison, if we analyse the whole journey of Goan politics till
+date, what we observe is mindless misuse of our land rather than
+utilising it for the development of the people who cultivate this
+land. No thought is given to sustainable and balanced development of
+Goa that would not kill the villages and congest the cities. It is not
+just mining or agriculture or tourism or industry, but the Politics of
+Business and the Business of Politics that has ruined Goa by the
+short-sighted political class of Goa. The vision of Bhausaheb
+Bandodkar and Dr Jack de Sequeira has absolutely faded away.
+
+For example, Goa’s urban population is today not less than 10
+lakhs. We also receive 1.50 crores of tourists every year, meaning on
+an average 12.50 lakh tourists every month. This whole lot of around
+22 lakhs needs on a daily basis vegetables, rice, wheat, cereals,
+fruits, flowers, milk, eggs, meat etc. Goa is certainly equipped
+enough with the basic natural resources like land and water required
+to produce these necessities. But the sad part of Goa’s ‘developing
+economy’ is that the land available to cultivate it is either lying
+idle, barren or is being converted every day for short-term monetary
+gains. Instead, we import all these necessities from the neighbouring
+states at a much higher cost, making our economy costly.
+
+In short, Goa’s politics has been moving around the Land right from
+the ancient period till date. It has gone through many phases of
+community farming, feudal dynasties, the feudal Communidades and
+Bhatkarshai. Then through democratic means we achieved Land to the
+Tiller but the political class who succeeded the architects of Goa
+made a mockery of the whole ‘socialist’ concept. And now it is being
+ridiculed further by reckless conversion of cultivable land into a
+saleable commodity. The land sharks from all over the world are simply
+looting Goa’s precious land in collusion with the businessminded
+politicians and spineless bureaucrats. This is the state of our
+Bhangarachem Goem (Golden Goa)! The Golden Goose?  The whole journey
+of the Politics of Land could be defined in three simple phases:
+
+Land to the Tiller! 
+Land to the Dealer!! 
+Land to the Killer!!! 
+
+
+[^1]: “mundkar” means a person who, with the consent of the bhatkar or
+       the person acting or purporting to act on behalf of the bhatkar
+       lawfully resides with a fixed habitation in a dwelling house
+       with or without obligation to render any services to the
+       bhatkar and includes a member of his family but does not
+       include— (i) a person paying rent to the bhatkar for the
+       occupation of the house; (ii) a domestic servant or a chowkidar
+       who is paid wages and who resides in an out-house,
+       house-compound or other portion of his employer’s residence…
+       (Definition in the Mundkar Act).
+[^2]: Naik Ravi; LAQ No 066 dated 28 July 2021
+[^3]: Naik Ravi; LAQ No. 018A, ID 22555 dated 27 January 2021
+[^4]: The Legislative Department, Ministry of Law & Justice,
+      Government of India
+[^5]: Supreme Court of India: Union Territory of Goa, Daman and Diu &
+      Anr v/s Lakshmibai Narayan Patil etc etc, Judgement dated 23
+      July 1990
+[^6]: Census of India 1991
+[^7]: 10th Agri Census Report 2015-16
+[^8]: Economic Survey 2002
+[^9]: Colvalkar Dr Nagesh; Land Reforms in the State of Goa: An Assessment
+[^10]: Madhumati Atchut Parab vs Rajaram V Parab & Ors, Supreme Court
+       of India, 29 January 2009
+[^11]: Kamat Digambar, Assembly LAQ No 045, 25 July 2018
+[^12]: Lourenco Reginald Aleixo, Assembly LAQ No 001, Id 2147, 1
+       August 2014
+[^13]: Report No 3, Law Commission, Government of Goa,
+[^14]: Report No 25, August 2013, Law Commission, Government of Goa
+[^15]: Goa Assembly; A brief report of the Business transacted during
+       22 July - 21 August 2014
+[^16]: Times of India (Goa edition); 24-28-31 October & 8 December 2014
+[^17]: The Goan; 3 August 2017
+[^18]: Directive by Bombay HC at Goa on 16 January 2019 in PIL of GBA
+       vs State of Goa
+[^19]: Directive by Bombay HC at Goa on 7 November 2019 in PIL of GBA
+       vs State of Goa
+[^20]: Assembly Question Id 21370 by Digambar Kamat on 5 February 2020
+[^21]: Assembly Question Id 23150 by Vijai Sardesai on 29 January 2021
+[^22]: Sonak Sangeeta M; Environment and Development: Goa at
+       Crossroads, P 156
+[^23]: Survey and Inquiry of CRZ Areas in Goa; By Remote Sensing
+       Instruments, Hyderabad
+[^24]: Survey and Inquiry of CRZ Areas in Goa; By Remote Sensing
+       Instruments, Hyderabad
+[^25]: Minutes of the State Executive Committee of Covid19, Government
+       of Goa, held on 24 May 2020
+[^26]: Coping with Covid-19: Survival and Revival of Goa’s Tourism
+       Industry; A survey undertaken GTDC, Govt of Goa
+[^27]: Coping with Covid-19: Survival and Revival of Goa’s Tourism
+       Industry; A survey undertaken GTDC, Govt of Goa
