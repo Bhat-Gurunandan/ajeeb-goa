@@ -1248,8 +1248,8 @@ areas as well as settlement areas.
 TYPE OF LAND OF ACTIVE MINING LEASES (2010): %
 
 | LEASES & LAND  |         |          |        |         |       |
-|                | SANGUEM | BICHOLIM | QUEPEM | SATTARI | TOTAL |
 |----------------|---------|----------|--------|---------|-------|
+|                | SANGUEM | BICHOLIM | QUEPEM | SATTARI | TOTAL |
 | No of Leases   | 66      | 38       | 10     | 18      | 132   |
 | Forest         | 38      | 20       | 14     | 13      | 27    |
 | Private Forest | 3       | 0        | 0.39   | 0       | 1     |
