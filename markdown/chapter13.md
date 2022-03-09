@@ -1153,7 +1153,7 @@ about land parcels:
 >   accommodations.
 > - Relaxation in FAR
 
-## MIND ‘OUR’ MINES
+## Mind ‘Our’ Mines
 
 The Second World War was a blessing in disguise for Portuguese
 Goa. Mining took off as an industry when Japan started importing Goa’s
@@ -1395,7 +1395,7 @@ lawmaker elected who could alert the authorities. Who was responsible
 for this most irresponsible attitude that led to the economic downfall
 of Goa?
 
-## RICH POLITICIANS AND POOR POLITICS
+## Rich Politicians and Poor Politics
 
 There was a time when only the Congress was considered to be a poor
 party of rich politicians. But now it is across the board. Politics is
